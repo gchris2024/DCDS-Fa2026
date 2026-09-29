@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+                      <div1 type="errata">
+                  <pb n="1491"/>
+                  <head>
+                     <hi>Faultes and ouerſightes eſcaped in the printing of the firſt part</hi> of
+                     the Engliſh Historie before the Conqueſt.</head>
+                  <p xmlns:ns0="http://tei-c.org/TextComparator" ns0:cid="sid-fd9756e6-3016-438b-9e49-c165dffc5151">FIrſt in the Catalogue of
+                     the Au|thours, whom I haue in the collec|tion of the ſame hyſtorie chiefly
+                     fol|lowed, I forgot Iohn Brend, who wrote the expedition intoo Scotlande, 1544.
+                     Thomas Churchyard, Vlpian, Fulwell, Thomas Knell, Polibius, Nicholaus Perotus,
+                     Hadrianus Berlandus, and ſuch other.</p>
+                  <p xmlns:ns0="http://tei-c.org/TextComparator" ns0:cid="sid-3d8d656f-2b25-4a9b-adad-70c445ca901e">Ithan de Beugue, not Bauge,
+                     a Frenchman.</p>
+                  <list xmlns:ns0="http://tei-c.org/TextComparator" ns0:cid="sid-de40ace5-75b1-4980-84ad-ff69ea277edb">
+                     <item>Pa. 1. col. 1. lin. 52. for Noe, read Noah</item>
+                     <item>Pa. 2. col. 1 lin. 9. for Hebr, read Heber</item>
+                     <item>Eadem col. 1. lin. 18. for acceſte rit, read acceſlerint.</item>
+                     <item>Ead. col. 2. lin. 58. for than, read there.</item>
+                     <item>Pag. <gap extent="+1" unit="letters">
+                           <desc>illegible</desc>
+                        </gap>. col. 2. lin. 7. for diſenſſing, read deciſing or diſcuſſing.</item>
+                     <item>Pa. 5. co. 1. li. 10. for of him, read to him</item>
+                     <item>Ead. col. 1. lin. 37. for reſtance, read re|ſiſtance.</item>
+                     <item>Eadem col. 1. lin. 54. for Seroſus, read Beroſus in the mergent.</item>
+                     <item>Eadem col. 1. line. 21. for amphitrita, read amphitrite.</item>
+                     <item>Pag. 11. col. 1. lin. 50. for preaſing, read preſſing.</item>
+                     <item>Pag. 13. col. 1. lin. 21. for cuſe, read caſe.</item>
+                     <item>Pa. 15. col. 1. lin. 35. for Totneſſe, read Dodoneſſe.</item>
+                     <item>Ead. col. 1. lin. 38. for captiuitie of Ba|bilon, read bondage of
+                        Pharao.</item>
+                     <item>Pa. 16. col. 2. li. 46 for. 1874. read. 2<gap extent="+1" unit="letters">
+                           <desc>illegible</desc>
+                        </gap>74</item>
+                     <item>Pag. 18. col. 1. lin. 8. for Ebracus, read Ebrancus.</item>
+                     <item>Ea. co. 1. l. 13. for Guilles, read Gaules</item>
+                     <item>Eadem col. 1. lin. 41. for Henand, read Henault.</item>
+                     <item>Ead. col. 1. lin. 50. for loyne, read Loire</item>
+                     <item>Ead. col. 2. li. 29. for built by P. Oſtor. read built, as by P.
+                        Oſtorius.</item>
+                     <item>Pag. 20. co. 1. lin. 48. for inheritor, read inheritance.</item>
+                     <item>Ead. col. 2. lin. 28. for there, read that</item>
+                     <item>Pa. 24. co. 2. lin. 55. for Northeaſt, read Northweſt.</item>
+                     <item>Pag. 27. col. 1. lin. 4. for thoſe, read they</item>
+                     <item>Pag. 33. col. 1. lin. 8. for who, read whom</item>
+                     <item>Pag. 41. col. 2. lin. 5. for theſe two co|horts yet, read the Britains
+                        therfore</item>
+                     <item>Pag. 42. col. 1. lin. 1. for aduentured too ſight, read aduentured not to
+                        fight.</item>
+                     <item>Pag. 47. col. 1. line. 28. for earing, read earings.</item>
+                     <item>Ead. col. 2. lin. 38. for 79. read 793.</item>
+                     <item>Pag. 50. col. 1 lin. 5. for. 79. read. 795.</item>
+                     <item>Pag. 51. col. 1. lin. 1. the three firſt lines are in the foot of the
+                        page before.</item>
+                     <item>Pa. 54. col. 1. lin. 5. for reformable, read conformable.</item>
+                     <item>Ead col. 1. lin. 13. for ſhorter they, read ſhorter before they.</item>
+                     <item>Pag. 56 col. 2. lin. 39. for captaine, read captiue.</item>
+                     <item>Pag. 75. col. 2. lin 51. for ſure, read ſithe</item>
+                     <item>p. 79. c. 2. l. 8. for marres, read mariſhes</item>
+                     <item>Pa. 80. co. 2. l. 30. for <hi>veſtros,</hi> read <hi>veſtras</hi>
+                     </item>
+                     <item>Pag. 104. co. 1. lin. 25. for Rextacheſter read Reptaceſter.</item>
+                     <item>Pa. 106. col 1. lin. 15. for ſo to returne. read and ſo to
+                        returne.</item>
+                     <item>Pa. 133. col. 1. li. 45. for Howell king of Britaine, read Howell king of
+                        little Britaine.</item>
+                     <item>Pag. 144 col. 1. lin. 27. for Chicheſter, read Ciceſter.</item>
+                     <item>Pa. 145. co. 2. li. 17. for ſlept, read ſtept</item>
+                     <item>Pag. 148. col. 2. line. 40. for or, read for</item>
+                     <item>Pag. 153. co. 2. li. 50. for feaſt, read faſt</item>
+                     <item>Pag. 180. co. 2. li. 47. for which were the ſonnes, read which was the
+                        ſonne.</item>
+                     <item>Pag. 183. co. 2. li. 9. for but, read but three</item>
+                     <item>Pa. 184 co. 2. lin. 26. Stanford bridge, adde thereto theſe wordes, after
+                        cal|led battaile bridge in yorkeſhire.</item>
+                     <item>Page 202. co. 2. line 52. for 80. read. 801</item>
+                     <item>Eadem, line 53. for Eirine or Hierine not Emperor, but Empreſſe.</item>
+                     <item>Page 227. col. 2. line 60. for but by hir meanes, read by whoſe
+                        meanes.</item>
+                     <item>Page 200. col. 2. line. 50. ford Edmonde, read Edmond.</item>
+                     <item>Page 218. col. <gap extent="+1" unit="letters">
+                           <desc>illegible</desc>
+                        </gap>. line 40. for ſtate with their, read ſtate but with their.</item>
+                     <item>Pa. 221. col. 2. li. for Eſſex, read Eſſex</item>
+                     <item>Pa. 221. col. 2. li. 10. for eche read euery</item>
+                     <item>Pag. 223. col. <gap extent="+1" unit="letters">
+                           <desc>illegible</desc>
+                        </gap>. line. 50. Math. weſtm. affirmeth that Frichſtan was ordei|ned to the
+                        ſea of wincheſter, Aethe|line to Shireborn, Eadulf to welles werſtan to
+                        Crida and Herſtan to Cornwall. And further y<hi rend="sup">e</hi> to Dorche|ſter one Kenulfe
+                        was ordeyned, and Borthegus to Ciceſter: which ſeuen Biſhops were
+                        conſecrated all in one day at Canterburie, by the Archbi|ſhop
+                        Plegmond.</item>
+                     <item>Page 235. col. 2. line 14. for Cumelorn, read Culene.</item>
+                     <item>Page 238. col. 1. line 50. for Ethelgime read Ethelgina.</item>
+                     <item>Ead col. 2. line 35. for recouering hys diſeaſe, read recouering of that
+                        hys diſeaſe.</item>
+                     <item>Pa. 241 col. 2. li. 26. for caſe, read cauſe</item>
+                     <item>Pa. 245. col. 2. line 54. for reteyne, read receyue.</item>
+                     <item>Pa. 249. col. 2. line 7. for 114. read 1014 and likewiſe in the mergent
+                        of both the colums, for. 114. read 1014. and for 115.1015.</item>
+                     <item>Page 252. col. 2. line 12. for 116. read 1015. and likewiſe in the
+                        mergent.</item>
+                     <item>Pag. 260. col. 2. line. 32. for very, read verily.</item>
+                     <item>Page 267. col. 2. line 14. for mailes, read nailes.</item>
+                     <item>Pag. 269. co. 2. lin. 38. for ſore read ſo.</item>
+                  </list>
+                     <list xmlns:ns0="http://tei-c.org/TextComparator" ns0:cid="sid-b24c51df-1277-4a30-995e-6c480b40fbe1">
+                        <head>Faults and ouerſights eſcaped <hi>in the printing of this ſecond
+                              vo|lume</hi> of the Hiſtorie of Englande.</head>
+                        <item>PAge. 291. col. 2. line laſt, for and ru|lers, read the rulers.</item>
+                        <item>Page 29<gap extent="+1" unit="letters">
+                              <desc>illegible</desc>
+                           </gap>. col. 2. line. 37. for willing read vnwilling.</item>
+                        <item>Page 304. col. 2. line laſt, for returne, read remoue.</item>
+                        <item>Pag. 305. col. 1. line 2. for his, read this</item>
+                        <item>Page. 307. col. 1 line 53. for fierceneſſe, read ſucceſſe.</item>
+                        <item>Ead. col. 2. line 24. for choſe, read vſed.</item>
+                        <item>Pag. 317. col. 2. line 29. for his, read this</item>
+                        <item>Page 319 col. 1. line 58. at the firſt at all, put out at the
+                           firſt.</item>
+                        <item>Page 322. col. 1. line 37. for reproche, read approche.</item>
+                        <item>Page 326. col. 1. line 2. for his compli|ces, read the Erles
+                           complices.</item>
+                        <item>Page 330. col. 1. line 32. for it was, read they were.</item>
+                        <item>Page 355. col. 2. line 30. for Rheynes. read Reimes.</item>
+                        <item>page 363. col 1. li. 6. for a ſharper head, read a leſſer or ſmaller
+                           head.</item>
+                        <item>page 367. col 2. line. 24. for aboute the lord Geffrey, read by the L.
+                           Geffrey</item>
+                        <item>page 386. co. 1. ouer againſt the laſt line the yeares are too bee
+                           placed thus. Anno reg. 18.1153. for the yeare of our Lorde.</item>
+                        <item>page 398. col. 2. ouer agaynſte the laſt line, in the mergent, for
+                           Anno reg. 6 read Anno reg. 5.</item>
+                        <item>page 399. although it be wrongly nũ|bred. 389. col. 2. ouer againſt
+                           the .50. line, in the mergent, for 0911. read 1160.</item>
+                        <item>page 400. col. 2. in the mergent ouer a|gainſt the 37. line, for Anno
+                           reg. 17. read Anno reg. 7</item>
+                        <item>page 401. although wrongly numbred 403. col. 1. in the mergent ouer
+                           againſt the 45. line, for Anno reg. 6. read 8.</item>
+                        <item>page 403. col. 2 line 26. for with the cõ|cluſion, read according to
+                           the con|cluſion.</item>
+                        <item>The ſame page and columne, line 29. for when, read where.</item>
+                        <item>page 404 col. 2 line 4. for baſtard ſonne, put out baſtard.</item>
+                        <item>page 407. col. 2. in the mergent ouer a|gainſt the 55. line, place.
+                           Anno reg. 11</item>
+                        <item>page 408. col. 2. in the mergent ouer a|gainſt the 24. line, note Anno
+                           reg. 12. and ouer againſt the .26. line 1166. for the yeare of our
+                           Lorde.</item>
+                        <item>page 435. col. 1. line 40. and 41. for Ro|bert Ferrers Earle of Derby
+                           read Robert Erle Ferrers.</item>
+                        <item>page 473. col. 2. The firſt worde of the ſeconde Epitaph, for
+                              <hi>Tumuli,</hi> read <hi>Tumulum.</hi> In the ſeconde verſe of the
+                           ſame, for <hi>
+                              <gap extent="+1" unit="letters">
+                                 <desc>illegible</desc>
+                              </gap>u<gap extent="+1" unit="letters">
+                                 <desc>illegible</desc>
+                              </gap>ficer<gap extent="+1" unit="letters">
+                                 <desc>illegible</desc>
+                              </gap>t,</hi> read <hi>ſuff<gap extent="+1" unit="letters">
+                                 <desc>illegible</desc>
+                              </gap>cerat</hi>
+                        </item>
+                        <item>pa. 485. col. 1. line. 33. for Vizeley, read Vezelay.</item>
+                        <item>page 487. col. 2. line 31. for away of bat|taile, read array of
+                           battaile.</item>
+                        <item>page. 492. col. 1. line 3. as hee vttered. put out as.</item>
+                        <item>page 497. col. 1. line 51. for prepared, read preferred.</item>
+                        <item>The ſame page, col. 2. line 40. for By|ſhop, read Biſhops.</item>
+                        <item>page 511. col. 1. line 19. for and, read he.</item>
+                        <item>
+                           <pb n="1492"/>page 511. co. 2. line 37. and 38. for part|ly that, read
+                           partly for that.</item>
+                        <item>page 512. co. 1. line 10, for with the pre|cinct, read within the
+                           precinct.</item>
+                        <item>Ead. col. 1. line 54. in ſtead of, for being, read from being.</item>
+                        <item>page 521 col. 2. line 52. and 53. for the o|ther rebels, read the
+                           other rebell.</item>
+                        <item>page 536. col. 1. line 31. for of Fraunce, read in Fraunce.</item>
+                        <item>The ſame page, col. 2. line 34. for waſt and veniſon, read vert and
+                           veniſon.</item>
+                        <item>page 537. co. 2. line laſt ſaue one, for and ſeuen C. read beſide
+                           ſeuen E.</item>
+                        <item>page 538. col. 1. line 1. for all the while, read all this
+                           while.</item>
+                        <item>pa. 552. co. 1. line 26. for Liſle Donely, read Liſle Dandeli.</item>
+                        <item>page <gap extent="+1" unit="letters">
+                              <desc>illegible</desc>
+                           </gap>62. col. 1. line 3. in the meane time that theſe, put out
+                           that.</item>
+                        <item>page eadem, col. 2. line 33. for Butig|nan, read Luſignan.</item>
+                        <item>page 572. col. 2. line 30. put out vnto him alſo.</item>
+                        <item>pa. 576. co. 1. li. 28. for <hi>matiae,</hi> read <hi>matri</hi>
+                        </item>
+                        <item>page 585. col. 1. line 6. for Biſhop, read Biſhops.</item>
+                        <item>page 599. col. 1. line 46. for Buncham, read Drincham.</item>
+                        <item>page. 605. col. 1. line 38. for ſeuen, reade ſeuentene.</item>
+                        <item>page ead. col. 2. line 6. for about read a|bout him.</item>
+                        <item>page 606. col. 2 li. 37. for Knateſburgh, read Knareſburgh.</item>
+                        <item>page. 606. col. 2. line 1. put out in Staf|fordſhire.</item>
+                        <item>page 609. col. 2. line 44. for Godardule, read Godaruile.</item>
+                        <item>page 616. col. 2. line 24. for felicitie, read hoſtilitie.</item>
+                        <item>The ſame page and co. ouer againſt the 23. line, write in the mergent.
+                           1218.</item>
+                        <item>page 923 col. 1. line. 37. for their liber|ties read the
+                           liberties.</item>
+                        <item>page. 627. col. 1. line. 12. for Louguile, read Longuile.</item>
+                        <item>pa. 629. co. 1. l. 43. for remoue, read renue</item>
+                        <item>pa. 645. co. 2. li. 46. put out worthie to be</item>
+                        <item>page 646. co. 2. lin. <gap extent="+1" unit="letters">
+                              <desc>illegible</desc>
+                           </gap>7. for he, read they.</item>
+                        <item>page 650. col. 2. line 49. for Meſthems, read Meſcheins.</item>
+                        <item>page 651. co. 1. lin. 10 for firſt, read fift.</item>
+                        <item>p. 656. c. 1. l 39 for the .xiiij. read y<hi rend="sup">e</hi> xxiiij</item>
+                        <item>Ea. col. 1. li. 57. for canons, read chanõs</item>
+                        <item>page 658. col. 2. lin. 36. from theſe, read from thence.</item>
+                        <item>pa. 670. wrong folied. 700. col. 2. line. 44. for and others, read as
+                           others.</item>
+                        <item>page 715. col. 2. lin. 10. for charges, read Churches.</item>
+                        <item>pa. 729. c. 1. li. 25. for arras read Artois.</item>
+                        <item>page 733. col. 2. line 15. for two s. of ſil|uer, read two. s of
+                           ſiluer by the day.</item>
+                        <item>pa. 761. col. 2. l 52. for theſe, read thence</item>
+                        <item>page 768. col. 1. line 19. for Monthe|niſey read Montechenſie.</item>
+                        <item>pag. 770. col. 2. li. 58. for to make againſt them, read to make warre
+                           againſt thẽ</item>
+                        <item>pag. 773. co. 1 li. 43. for Richard South well, read Robert
+                           Southwell.</item>
+                        <item>page 781 col. 1. line. 50. for the prince, read that prince.</item>
+                        <item>page 786, col. 2. in the mergent ouer a|gainſt the .27. line, for
+                           Mountfort, read Leyceſter.</item>
+                        <item>Pag. 788. col 2. in the mergent ouer a|gainſt the .42. line, for
+                           Yorke, reade Canterburie.</item>
+                        <item>Pa 789. co. 1. lin. 2<gap extent="+1" unit="letters">
+                              <desc>illegible</desc>
+                           </gap>. and made knight, put it out.</item>
+                        <item>Page 790. col. 2. line 31. the ſaid Lord, put out ſayd.</item>
+                        <item>Pa. 796. co. 1. <gap extent="2" unit="letters">
+                              <desc>illegible</desc>
+                           </gap> y<hi rend="sup">e</hi> mergent ouer againſt the 24. line, for Briſtow faire, reade
+                           Boſton faire.</item>
+                        <item>Pa. 808. c. 1. l 27. he there, put out there</item>
+                        <item>Ead. col. 1. line 36. for ceaſſe, read ſeiſe</item>
+                        <item>Ea. c. 2. l. 9. for Turnim, read Turmin</item>
+                        <item>Eadem, col. 2. line 15. for all, read that</item>
+                        <item>Ead. col. 2. line 33. for and other, reade and the other.</item>
+                        <item>Pa. 823. c. 1. in the mergẽt oueragainſt y<hi rend="sup">e</hi>. 20. l. for K. Iohn,
+                           read K. Edward</item>
+                        <item>Page 840. col. 1. line 52. for contemptu, read <hi>comitatu.</hi>
+                        </item>
+                        <item>The ſame page and columne, line 58. for <hi>mercariis,</hi> read
+                              <hi>mercatis.</hi>
+                        </item>
+                        <item>Pa. 843. c. 1. l. 5. for Hẽry, read Hũfrey</item>
+                        <item>Page 844. col. 1. line 5. for accuſed, read accurſed.</item>
+                        <item>Pa. 845 col. 1. line 24. for might come, read might not come.</item>
+                        <item>Pa. 847. c. 2. li. 15. for lord chamberlain of the realme, read Lord
+                           Chamber|laine of his houſe.</item>
+                        <item>Pa. 858. c. 1. l. 14. for high chamberlein of Englande, read high
+                           chamberleyn of the kings houſe.</item>
+                        <item>P. 873. c. 1. li. 28. for Hẽry read Herny</item>
+                        <item>Page 891. col. 1. line 20. for Earle of Marche, read Earle
+                           Marſhall.</item>
+                        <item>Page 895. co. 2. li. 15. for Gleanor, read Elizabeth.</item>
+                        <item>P. 897. c. 2. l. 8. for ſcepter, read charter</item>
+                        <item>Ead. col. 1. lin. 11. for kings, read king</item>
+                        <item>Page 905. col. 2. line 2. for Bethon, read Bethuine.</item>
+                        <item>Page 909. col. 1. line 5. for Peter, adde thereto, or rather as ſome
+                           bookes haue, Nichol Bahuchet</item>
+                        <item>Page 912. co. 2. line 50. for the towne, read the tower.</item>
+                        <item>Page 917. for Counteſſe of Richmond read of Mõtfort, for as I take it
+                           ſhe was not counteſſe til after that time.</item>
+                        <item>Page 923. col. 1. line 1. and ſo the dia|metre or compaſſe, read thus:
+                           and ſo the diametre, that is the ſpace ouer|thwart the circle or
+                           compaſſe.</item>
+                        <item>The ſame page, col. 2. line 58. for Hen|rie duke of Lancaſter, reade
+                           Henrie Earle of Lancaſter, for he was not created duke till the .27.
+                           yeare of king Edwarde the thirdes raigne as ap|peareth.</item>
+                        <item>Page 937. col. 2. line firſt, for Earle of Norffolke, read Earles of
+                           Norffolk and warwike, for ſo hath one copie of Robert Aueſbury, although
+                           as I take it, there was no Earle of Norf|folke at that ſeaſon.</item>
+                        <item>Page. 962. col. 1 line 48. for Richmont read Montfort.</item>
+                        <item>Page 967. col. 2. line 13. and 14. for ſte|ward of England, read
+                           ſtewarde of the kings houſe.</item>
+                        <item>P. 969. co. 1. li. 31. to the ſea, put out to.</item>
+                        <item>Page 990. in the mergent, for ſir Si|mon Minſterworth, read ſir Iohn
+                           Minſterworth.</item>
+                        <item>Page 1004. col. 1. li 56. for Bond, read Baude.</item>
+                        <item>Pa. 1006. co. 1. line 10. for <hi>benedicat de</hi> read
+                              <hi>benedicat</hi> to.</item>
+                        <item>p. 1010. c. 1. l. 33. for abroad read abourd</item>
+                        <item>Pag. 1012. col. 2. line 27. for partakers read partaker.</item>
+                        <item>Pa. 1049. c. 2. line 1 for Hartelle, read Hartecelle, for ſo hath
+                           Froiſſart.</item>
+                        <item>Pa. 1051. col. 2. li. 11. for yoi, read yuo.</item>
+                        <item>Ea. co. 2. li. 47. for Deberoux read De|ueroux.</item>
+                        <item>Pa. 1073. c. 2. li. 28. for erle, read erles.</item>
+                        <item>Ea. c. 2. li. 2. for returned, read reformed</item>
+                        <item>Pag. 1097. co. 2. lin. 29. and .30. for earle of Marſhal the duke,
+                           read erle mar|ſhall duke.</item>
+                        <item>Page 1098. col. 1. lin. 30. for Edmonde read Edward.</item>
+                        <item>Pa. 1108. col. 2. lin. 55. Holt caſtell put in the mergent, I take it
+                           not to bee Holt caſtell, but rather Beeſton, as by the circumſtances of
+                           the ſituation it ſhould appeare.</item>
+                        <item>Page 1110. col. 2. line 10. for comming read communing.</item>
+                        <item>Pa. 1117. col. 1. li. 8. for his, read theirs</item>
+                        <item>Page 1124. col. 1. line 58. for following in this wiſe, read in this
+                           wiſe fol|lowing.</item>
+                        <item>p. 1138. c. 2. l. 13. for Brone read Brone</item>
+                        <item>Page 1139. col. 2. line 24. for ſir Blunt read ſir walter
+                           Blunt.</item>
+                        <item>Page 1147. col. 2. line 1. for townes, read as of the townes.</item>
+                        <item>Page 1150. col. 1. line. 17. for he ſhould, read they ſhould.</item>
+                        <item>Page 1153. col. 1. line firſt vnder the picture, for his kings, read
+                           this kings</item>
+                        <item>Page 1156. col. 2. li. 32. for Augus, read Angus, and ſo in other
+                           places where ye finde the u for the n.</item>
+                        <item>Page 1158. col. 1. line. 17. for caſteau Chinou, read chaſteau
+                           Chinon.</item>
+                        <item>Page 1174. co. 2. li. 31. for nor, read or</item>
+                        <item>Page 1180. co. 2. line 27. for diuine per|ſecution, read
+                           permiſſion.</item>
+                        <item>Page 1187. col. 2. line 13. for Kirkeley, read Kikeley, or
+                           Kighley.</item>
+                        <item>Pa. 1205. c. 2. l. 27. for xl. M. read lx. M</item>
+                        <item>Page 1212. co. 2 line 26. for which was read which were.</item>
+                        <item>Page 1214. col. 1. line 37, and 38. for la Marche, read le
+                           Marche.</item>
+                        <item>Page. 1218. co. 1. line 30. for 38. read 36</item>
+                        <item>Page 1236. col. 1. line 48. At the ſame time, put out the period
+                           before at, and make it a comma, and the capitall A would be a ſmall
+                           a.</item>
+                        <item>Page 1249. col 2. li. 18. for Motaigne read Mortaigne.</item>
+                        <item>Page 12<gap extent="+1" unit="letters">
+                              <desc>illegible</desc>
+                           </gap>4. col 2. line 1. for this indu|bitate, read the indubitate.</item>
+                        <item>The ſame page and columne, lin. 30. for Neures, read Neuers.</item>
+                        <item>Page 1262. col. 2. liue 56. ſent the Lord Fauconbridge, read ſent the
+                           Lorde Talbot, with the L. Fauconbridge.</item>
+                        <item>
+                           <pb n="1492"/>Page 1265 col. 1 line 24. for Captain, rede Captaines. The
+                           ſame page col. 2 liue 14 for taking, rede takẽ.</item>
+                        <item>Page 1258 col. 2 liue 19 for Frauncis Sureymes, rede Francois de
+                           Su|rienne.</item>
+                        <item>Page 1258 col. 2 line 27 but ſteaderly manned, adde tooke reſolution
+                              <gap extent="3" unit="letters">
+                              <desc>illegible</desc>
+                           </gap> attempt the gaming therof in this order.</item>
+                        <item>Page 1268 although wrongly noted 1276 col. 2 line 13 for by them, rede
+                           by him.</item>
+                        <item>Page 1275 co. 2 line 37 for deuie, rede deuice.</item>
+                        <item>Page 1277 wrongly marked 1269 col. 2 line 14 for aduancers, reade
+                           aduancer.</item>
+                        <item>Page 1280 col. 1 line 18 put out and other places.</item>
+                        <item>Page 1290 col. 2 line 24 for Burſtli|er, reade Burcheir.</item>
+                        <item>Page 1295 col. 1 line 27 of the Duke put out of.</item>
+                        <item>Page 1297 col. 1 line firſt, all things, adde to all things.</item>
+                        <item>Page 1305 col. 1 line 48 for prickes, reade prickers.</item>
+                        <item>Page 1310 col. 2 line 31 for of the ar|my, reade of the ſame.</item>
+                        <item>Page 1317 col. 1 line 43 for King the ſeuenth, rede King Henry the
+                           ſe|uenth.</item>
+                        <item>Page 1319 colum. 1 line 3 for with hir perſon, rede with the perſon of
+                           the eldeſt.</item>
+                        <item>Page 1335 col. 1 line 16 and in ſkir|miſhing put out and.</item>
+                        <item>Page 1340 col. 2 line 20 for Louſtro|ther, reade Longſtrother.</item>
+                        <item>Page 1344 col. 1 lin. 7 for reademp|tion rede readeption.</item>
+                        <item>Page 1345 col. 1 line 54 for Bathe, reade Booth.</item>
+                        <item>Page 1348 colum. 1 line 30 for Lorde Haward, read Howard, and ſo in
+                           other places.</item>
+                        <item>Page 1381 col. 1 in the margente ouer againſte thẽ 14. line, note,
+                           this was Thomas Burder of Arrowe in the Countie of Warwike eſquier, who
+                           ſuffered about the .xvij. yeare of K. Edwarde the fourth, and no Citi|zen
+                           of Lõdon, as ſome haue wrõg|ly enterliued this place.</item>
+                        <item>Page 1426 colum. 2 line 9 for in this time, reade in the time. The
+                           ſame page &amp; colum line 28 for did, rede he did.</item>
+                        <item>Page 1429 col. 1 line 38 and ſhortly after hee went, put it out, and
+                           the three next lines, for Prince Arthur was not borne till September, in
+                           y<hi rend="sup">e</hi> third yere of his fathers raigne, as after it appeareth.</item>
+                        <item>Page 1435 col. 1 line 22 for lend rede lewde. The ſame page and colum
+                           in the Margent, ouer againſte the eight and twentieth line, write the
+                           yeare of the K. thus. <hi>Anno Regni.</hi> 5</item>
+                        <item>Page 1436 col. 2 line 24. for helding reade heading.</item>
+                        <item>Page 1437 col. 1 line 2 for with good, reade with his good.</item>
+                        <item>Page 1440 col. 2 line 44 the birthe of King Henry the eyght there
+                           no|ted, ſhould haue bin placed before the Kings going to
+                           Boilongne.</item>
+                        <item>Page 1442 wher <hi>Anno Regni</hi> is pla|ced ouer againſte the 37
+                           line of the firſte colum, it ought to be ouer a|gainſt the ſeauẽth line
+                           of the ſame page and colum.</item>
+                        <item>Page 1454 col. 1 line 43 for woulde make, reade would not make.</item>
+                        <item>Page 1457 col. 1 lin 12 for went, rede and therevpon to goe. The ſame
+                           page col 2 line 51, The yeare of our Lord 1502 is to be referred to their
+                           accompte that begin the yeare the 25. of March.</item>
+                        <item>Page 1465 col. 2 line 49 for after with, reade after which.</item>
+                        <item>Page 1472 col. 2 line 18 for Haward reade Howard, and ſo in all other
+                           places.</item>
+                        <item>Page 1477 col. 1. line 4. for trapped, reape grapled. The ſame page
+                           &amp; ſecond col. ſir Edwarde, adde Ho|ward.</item>
+                        <item>Page 1484 col. 1 line 3 nexte vnder the picture, for thoſe, reade for
+                           whẽ thoſe.</item>
+                        <item>Page 1495 col. 1 line 38 for two and thirtie Crownes, reade <gap extent="+1" unit="letters">
+                              <desc>illegible</desc>
+                           </gap>2000 crownes.</item>
+                        <item>Page 1504 col. 2 line 5 for Campe is reade Campeius.</item>
+                        <item>Page 1510 col. 2 line 58 for aunſwers reade aunſwerers.</item>
+                        <item>Page 1515 col. 2 lin 36. for the dukes words, rede the Monkes
+                           wordes.</item>
+                        <item>Page 1522 col. 2 line 18 and in Octo|ber, put out and.</item>
+                        <item>Page 1527 col. 2 line 34 and 35. for fiue hundred, reade two or three
+                           hundred.</item>
+                        <item>Page 1529 col 1 lin. 17 their hauntes rede their hands.</item>
+                        <item>Page 1540 though wrõg noted 1548 colum. 1 line 1 for Cardinals, reade
+                           Cardinall.</item>
+                        <item>Page 1542 col. 1 line 5 beſieching, reade beſiech. The ſame page col.
+                           2 line 29 is of, rede is one of.</item>
+                        <item>Page 1544 col. 2 line 51 no longer, put out no.</item>
+                        <item>Page 1567 col. 1 line 41 for Rebells, rede Rebellious.</item>
+                        <item>Page 1590 col. 1 line 15 for Townon reade Towmond. The ſame page and
+                           col. line 12 for Claurickforde, reade Clanrickard.</item>
+                        <item>Page 1591 col. 2 line 23 for Iuano, reade Ariano.</item>
+                        <item>Page 1594 col. 1 line 16 for Lance|ſton, reade Laureſton. The ſame
+                           page and col. line 30 for Minees, reade Mine<gap extent="+1" unit="letters">
+                              <desc>illegible</desc>
+                           </gap>s. The ſame Page and colum line 45 for Mary, rede Margaret.</item>
+                        <item>In the regiſter of their names that were made Knights at Leith anno
+                           1544 for Sir Iohn Cleere, reade Sir Thomas Cleere.</item>
+                        <item>Page 1601. col. 2 line 2 for Halidon rigge, reade Panner Hugh, and
+                           likewiſe in the Margent.</item>
+                        <item>Page 1648 col. 1 line 34. by the ad|uice his Vncle, reade by the
+                           ad|uice of his Vncle.</item>
+                        <item>Page 1656 col. 1 line 52. Ye ſhal here note for the further
+                           vnderſtãding of the ſuppreſſion of this Rebelli|on in Deuonſhire, that
+                           there were diuers ſkirmiſhes and encounters betwixte the Kings army,
+                           vnder the Lord priuie ſeale, and the ſaid Rebelles, as fyrſte at
+                           Honington bridge, before the comming of the Lord Grey of wilton, and
+                           after his comming at a place caſted Grendones Mille in woodbury pariſh,
+                           and then at Clift, where a|mongſt other, ſir william Fraun|cis ſeruing
+                           verye forwardlye a|gainſte the Rebels, caught ſuche hurtes that he dyed
+                           therof ſhortly after when the Rebels had bene here repulſed, and put to
+                           flighte, the Lord priuie ſeale with the ar|mye remoued firſt to Topeſham,
+                           where they buried Sir william Francis, and the nexte day, beeing the
+                           ſyxth of Auguſt, they came to <gap extent="+1" unit="letters">
+                              <desc>illegible</desc>
+                           </gap>xcete<gap extent="+1" unit="letters">
+                              <desc>illegible</desc>
+                           </gap>, where they encamped without the walles, and immedi|ately thither
+                           came the Maiſter of the Horſes, Sir William Herbert with a thouſand
+                           Welchmẽ. They remayned heere at Exeter about a twelue dayes, and hauing
+                           ſette things there in ſome order, they marched forthe towardes Samp|ford
+                           Courtney, and at their com|ming thither, found a great num|ber of the
+                           Rebelles there aſſem|bled, and wilfully bente to trie their quarrell by
+                           hazard of battel, ſo that no ſmall number of them were there ſlayne and
+                           taken, the reſt fledde, after whome were ſent to purſue them, Sir Peter
+                           Ca|row, Sir Hugh Paulet, Sir Ga|wen Carewe, and others, who o|uertaking
+                           them at kings weſton, eaſily ouerthrowe them, and thys was the laſt fyght
+                           whiche was had againſt the Rebels of Deuonſhire and Cornewall. The number
+                           of them that were ſlayne in this Re|bellion in thoſe ſeuerall places
+                           a|fore ſpecifyed, was eſteemed to bee about a three thouſand
+                           per|ſons.</item>
+                        <item>Page 1677 col. 1 line 7 for whyche reade with.</item>
+                        <item>Page 1714 col. 2 line 38 for Ladye Francis his wife, was the
+                           daugh|ter, reade that was daughter.</item>
+                        <item>Page 1726 col. 2 put this note in the Margent ouer againſt the .51.
+                           line. Nicholas Laurẽce (as ſome write) but for the more perfect knowlege
+                           hereof, and of ſome other thynges likewiſe by Gods helpe, I truſt to get
+                           ſuche inſtructions, and deliuer the ſame vnto thoſe that ſhall ſet forthe
+                           the nexte Summarie or a|bridgement <pb n="1493"/> of the Engliſh
+                           chroni|cles, as maye herein better ſatiſfie the reader.</item>
+                        <item>Page 1734. col. 2. line 6 for ſir Iohn Rogers, read ſir Edward
+                           Rogers.</item>
+                        <item>Page 1749. col. 1. line 23. by procure|ment, read by my
+                           procurement.</item>
+                        <item>Page 1751. put in the mergent ouer againſte the 31 line. Burdet no
+                           marchant, but an Eſquier in the countie of warwike, although ſome that
+                           printed ſir Thomas Moores hyſtorie of Edwarde the fifth, haue gloſed it
+                           with a wrong parentiſis.</item>
+                        <item>Page 1766. col. 2. line. 16. and 17. for Hargill, read
+                           Hartgill.</item>
+                        <item>Page 1775. col. 2. line 31. for grated, read grayſed.</item>
+                        <item>Page 1789. col. 2. lin. 56. for <hi>preſſa,</hi> read
+                              <hi>preſſae,</hi> in ſome copies it is amended</item>
+                        <item>Page 1827 col. 1. lin. 16. put out Mor|ron, for he was not in that
+                           ſkirmiſh. The horſemen were of Nicholas Tremaynes band, whoſe lieutenant
+                           Nicholas Erington was ſhotte through the bodie, and three of hys companie
+                           were ſlaine. Moreouer it is not to be forgotten, that captaine Read had
+                           the general conduct of the field that morning, who ſhewed ſuch prouf of
+                           his approued forwardneſſe, as it well appeared the erle of war|wike vſed
+                           good iudgemente in ma|king choiſe of him and others for the execution of
+                           that enterprice.</item>
+                        <item>Page 1836. col. 2. line 52. for Longfoille read Loughfoille.</item>
+                        <item>Page 1841. col. 2. for George, Henrie, and Michaell, read Henrie,
+                           Iohn, and Michaell.</item>
+                        <item>Page 1842. col. 1. line 5. for xxvij. read xvij.</item>
+                        <item>Page 1843. col. 1. line 10. for Tiuidale men, read Tindall men.</item>
+                        <item>Page 1865. col. 1. li. 7. for .xij. yere, read xlij. yeares.</item>
+                        <item>Page 1867. col. 2. line 46. for Canons read battring peeces.</item>
+                        <item>Page 1873. col. 1. line. 5. for the Mar+ques, reade and the
+                           Marques.</item>
+                        <item>Page 1876 col. 1. line 5. for Thomas Biſhop, read Iohn Biſhop.</item>
+                     </list>
+                     <p xmlns:ns0="http://tei-c.org/TextComparator" ns0:cid="sid-5ad751e0-2145-4456-a277-e09655a86dcf">Theſe and diuerſe other
+                        ouerſightes and faultes, gentle reader I truſt than doeſt conſider may
+                        eaſily eſcape in ſo large a volume as this, and therefore beſeech thee of
+                        pardon, and that it may pleaſe thee to correct the ſame, as in reading it
+                        may fortune thee too meete with them, or any other the like.</p>
+                     <p xmlns:ns0="http://tei-c.org/TextComparator" ns0:cid="sid-6987713a-56a5-42f9-a53b-f95aaa52fcc7">For the Table, this I
+                        haue to ad|uertiſe the Reader, that as it was ga|thered by ſundrie perſons,
+                        ſo is there ſome diſorder in the placing thereof, which leyſure would not
+                        permit to diſ|poſe ſo as wee coulde haue wiſhed, by reaſon of the printers
+                        haſt.</p>
+                     <p xmlns:ns0="http://tei-c.org/TextComparator" ns0:cid="sid-c9030beb-14a7-431e-9761-3b40dbe6c9f4">And where as in the
+                        pictures of bat|tails, ther are in ſundrie places gunnes before the
+                        inuention of that kind of en|gine, whereby the reader may eſteeme ſome
+                        error, and deſirous peraduenture to know when they came firſt in vſe, he
+                        ſhal vnderſtand that we read not of a|ny to bee put in practiſe, till the
+                        yeare 1380, in the warres betwixt the Vene|tians and Genoweys, at
+                        Chiozza.</p>
+                  <trailer>FINIS.</trailer>
+                  <pb n="1493"/>
+               </div1>
+      </body>
+  </text>
+</TEI>

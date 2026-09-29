@@ -1,0 +1,1596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+                          <div n="William_Rufus" type="reign">
+                     <pb ed="MS" n="679_317"/>
+                     <head>VVilliam Rufus.</head>
+                     <p>
+                        <note place="marg">Williã Rufus.</note>
+                        <!--<figure n="679" rend="block"/>-->
+                        <milestone n="10" unit="unspec"/>
+                     </p>
+                     <p >
+                        <note place="marg">
+                           <p>1087</p>
+                           <p>
+                              <hi rend="bold">An. reg.</hi> 1.</p>
+                        </note>_WIlliam, ſurnamed Rufus, that is to ſay William the red, ſeconde
+                        ſonne to William Conqueror, began his reigne ouer Englande the .ix. of
+                        September, in the <milestone n="20" unit="unspec"/> yeare .1087. whiche was
+                        about the .xxxj. yeare of the Emperour Henrie the fourth, and the xxxvij. of
+                        Philip the firſt, king of Fraunce, Vrbane the ſeconde as then gouerning the
+                        Sea of Rome, and Malcolm Cammoir as yet raigning in Scotland. Immediately
+                        after his fathers deceaſſe,<note place="marg">Polidor. Simon Dun.</note>
+                        and before the ſolemnitie of the funeralles were executed, he came ouer into
+                        Englande with ſo muche ſpeede as was poſſible,<note place="marg">Mat.
+                           Par.</note> and following <milestone n="30" unit="unspec"/> the counſaile
+                        of Lanfranke the Archbiſhop of Cãterburie (in whome hee repoſed all his
+                        truſt) hee ſought to winne the fauor of the Peeres and nobilitie of the
+                        realme, by the great and liberall gifts which he in moſt boũteous maner
+                        dayly beſtowed amongſt them. For although there were but fewe of the
+                        homeborne eſtates that bare any rule in the realme at this ſeaſon, yet thoſe
+                        that were remayning and offended by the generall iniuries of his father hee
+                        verie gently interteyned, promiſing <milestone n="40" unit="unspec"/> them
+                        not onely to continue their good Lorde and ſoueraigne, but alſo to make more
+                        fauourable ordinãces than his father had left behind him, and furthermore
+                        to reſtore againe the former lawes and liberties of the realme, which his
+                        ſayde father had ſuppreſſed thus by fayre wordes and and pollicie he
+                        obteyned his purpoſe. Howbeit ſoone after he forgat himſelfe, &amp;
+                        impriſoned Marchar,<note place="marg">
+                           <p>
+                              <hi rend="bold">Sim. Dunel.</hi>
+                           </p>
+                           <p>Marchar and Wilnote.</p>
+                        </note> and Wilnotus, whom he had brought ouer with him forth of Normandie,
+                        being ſet at libertie <milestone n="50" unit="unspec"/> by his father. The
+                        nobles at the firſt wiſhed rather to haue had his elder brother Duke Robert
+                        to haue gouerned ouer them:<note place="marg">Lanfranke had fauored him euen
+                           of a child <hi rend="bold">Math. Paris.</hi> Wil. Rufus is crowned.</note> howbeit by
+                        the ayde onely of the ſayd Lanfrank whoſe authoritie was of no ſmall force
+                        amongeſt all the Lordes of the lande. This William according to his fathers
+                        aſſignation, was proclamed and crowned at Weſtminſter on the .xxvj. of
+                        Septẽber (being ſũday, the .vj. Kalends of <gap extent="1" unit="word">
+                           <desc>illegible</desc>
+                        </gap>) and the .xj. indiction, as the beſt writers doe report. After his
+                        coronation to gratifie the people,<note place="marg">Polidor.</note> he wẽt
+                        to Wincheſter, where he found great ſubſtance of treaſure which his father
+                        had layde vp there to his owne vſe, whereof he was no niggard,<note place="marg">His bountifull munificence.</note> but freely ſpent the ſame
+                        in large giftes, and all kinde of princely liberalitie. He ſet great numbers
+                        of priſoners alſo at libertie, &amp; did many other things to pleaſure
+                        the people, wherin the diligence and good aduice of Lanfranke did not a
+                        little preuaile, for he perceyued that there was in the king no ſtayed
+                        minde, but an vnſtable nature, not ſetled but diſpoſed to lightneſſe and
+                        folly, and therfore he tooke ofttimes the more paines in perſwading him not
+                        only vnto liberalitie (which is none of the leaſt ornaments in a Prince but
+                        alſo to vſe a diſcretion and orderly behauiour in all his other doings.
+                        Moreouer he ſticked not furthermore to put him in feare of an euil ende,
+                        &amp; troubleſome regiment likely to enſue, if he did giue himſelfe to
+                        vice and wilfulneſſe, and neglect the charge thus by the prouidence of God
+                        commited to his perſon. And after this maner did the ſayd prelate trauuile
+                        with the king, whom we will leaue at this time as it were harkning to his
+                        admonitions, and ſet forth by the way what his brother Robert did whileſt
+                        William Rufus hys brother was occupied in ſuche wiſe as you haue heard. It
+                        happened that this Robert was abrode in Germany when king William his father
+                        died (whether he went to rayſe a power to the entent he might therby obteyne
+                        the poſſeſſion of Normandie which hee thriſted to enioy in his fathers
+                        lifetime) and there hearing newes of his death, he haſted ſtreight wayes
+                        into Normandie, where he was ioyfully receyued, &amp; quietly proclamed
+                        duke of that countrey with great honor and gladneſſe of the people.</p>
+                     <p>After this,<note place="marg">1088</note> conſidering with himſelfe how diſhonorable a
+                        thing it was for him, that his yonger brother ſhould poſſeſſe the crowne of
+                        Englande, which of right as he ſayd belonged vnto him, by reaſon of his age,
+                        he determined with all expedition to pa<gap extent="+1" unit="letters">
+                           <desc>illegible</desc>
+                        </gap> the ſeas with an armie, and <gap extent="1" unit="word">
+                           <desc>illegible</desc>
+                        </gap> it out of his hands, which his father had giuen <gap extent="1" unit="word">
+                           <desc>illegible</desc>
+                        </gap> him, partly (as it is thought) for his wilfulneſſe, and diſobedience
+                        ſhewed towardes him in his life time, and partly alſo <gap extent="1" unit="span">
+                           <desc>illegible</desc>
+                        </gap> ſhuld leaue it vnto him, <gap extent="1" unit="word">
+                           <desc>illegible</desc>
+                        </gap> would through his <gap extent="1" unit="word">
+                           <desc>illegible</desc>
+                        </gap> much gentleneſſe <gap extent="1" unit="span">
+                           <desc>illegible</desc>
+                        </gap>, giue occaſion to the Engliſh men to recouer ſtrength, and thereby
+                        reuolt from him: &amp; therefore <gap extent="3" unit="letters">
+                           <desc>illegible</desc>
+                        </gap>ged his yonger brother the ſayd William (being a man of a more rough
+                        nature) to bee the <gap extent="1" unit="word">
+                           <desc>illegible</desc>
+                        </gap> of the <gap extent="+1" unit="letters">
+                           <desc>illegible</desc>
+                        </gap>ame to haue the gouernment ouer them. Furthermore as duke Robert was
+                        thus moued by his owne deſire to bereue his brother of the dominiõ of
+                        England, ſo his purpoſe was not a litle incenſed thervnto by <pb n="680_318"/> the prouocation of ſuch the Engliſh nobilitie and Normans, as came dayly
+                        ouer vnto him oute of the realme, cõplayning of the preſent ſtate of the
+                        world, as thoſe that miſliked with the whole maner of regiment vſed in the
+                        beginning of the raign of his brother William. His vncle Odo alſo (the
+                        Biſhop of Bayeux) did ſet forward the matter in all that euer he might. This
+                        Odo (as ye haue heard) was at the firſt in great eſtimatiõ with his brother
+                        the Conqueror, and bare great rule vnder <milestone n="10" unit="unspec"/>
+                        him, till at length (vpon enuy conceyued for that the Archbiſhop Lanfranke
+                        was preferred before him) he conſpired agaynſt him, who hauing
+                        vnderſtanding therof committed him forthwith to priſon, where he remayned
+                        till the ſaid Prince thẽ lying on his death bed, releſed &amp; reſtored
+                        him vnto his former libertie. When the K. was dead, Wil. Rufus tooke him
+                        with him alſo into Englande, ſuppoſing no leſſe but to haue had an eſpecial
+                        frẽd of him, &amp; a truſtie coũſeller in all his great affairs.
+                           <milestone n="20" unit="unspec"/> But ere long after his comming thither,
+                        he fell aagaine into the ſame offence of ingratitude, into the which he had
+                        fallen before in the Conquerors dayes: for perceyuing that Lanfranke was ſo
+                        highly eſteemed with the king,<note place="marg">Odo the Biſhop of Baieux
+                           conſpireth agaynſt his nephew Williã Rufus.</note> that he could beare
+                        no rule, and partly ſuſpecting that the ſaide Lanfrank had bin the chief
+                        cauſer of his former impriſonment, he began to cõſpire with the reſt
+                        againſt his nephew, and thervpon wrote ſundry letters ouer vnto duke
+                        Robert, alſo coũſelling him to com ouer with an army in all cõuenient
+                        ſpeed, ta take the gouernment vpon him, which by his practiſe ſhould eaſily
+                        (as he ſaid) be cõpaſſed. Duke Robert being thus animated on al ſides, and
+                        yet wanting ſufficient money to the furniture of this iourney, he engaged a
+                        portiõ of his duchie of Normandy, as the countie of Conſtantine to his
+                        yongeſt brother Henrie, for a great ſumme of gold, and therewith returned
+                        anſwere vnto the foreſayde Biſhop that he ſhould prouide and looke for him
+                        vpon the ſouth coaſt of England, at a certain time appointed. Herevpon Odo
+                        (hauing receyued theſe letters and conſidered furthermore that the chiefeſt
+                        point of this buſineſſe conſiſted in ſpeed) fortified the caſtell of
+                           Rocheſter,<note place="marg">The caſtell of Rocheſter.</note> &amp;
+                        began to make ſore warres againſt the kings friends in Kent. He procured
+                        other of the procurators alſo to do the like in other partes of the realme:
+                        And firſt on the weſt part of England, where Geoffray Biſhop of Conſtans,
+                        with his nephew Robert de Mowbray Earle of Northumberlande ſetting forth
+                        from Briſtowe,<note place="marg">
+                           <p>
+                              <hi rend="bold">VVil. Mal. Sim. Dun.</hi>
+                           </p>
+                           <p>The Biſhop of Conſtance taketh the town of Bath.</p>
+                        </note> came toward Bathe which town they tooke and ſacked it, &amp;
+                        likewiſe Berkley, with a great part of Wiltſhire, and brought the ſpoyle
+                        &amp; booties there <!--<figure n="680" rend="block"/>--> gotten back vnto
+                        Briſtow, where they had a ſtrõg caſtell, ſtrongly fortified for their more
+                        ſafetie. In like maner Rogarde Bygod, departing frõ Norwich with great
+                        forreyes ouerrode &amp; robbed al the <milestone n="50" unit="unspec"/>
+                        countreys about, and conueyed ſuch riches as he had gottẽ into the ſaid
+                           city.<note place="marg">
+                           <p>Hugh Grand<gap extent="+1" unit="letters">
+                                 <desc>illegible</desc>
+                              </gap>eſnill.</p>
+                           <p>
+                              <hi rend="bold">H. Hunt. VVil. Malm.</hi>
+                           </p>
+                           <p>The Earle of <gap extent="+1" unit="letters">
+                                 <desc>illegible</desc>
+                              </gap>hrewsburie.</p>
+                        </note> And in ſẽblable wiſe, Hugh de Grandmeſnil being at Leiceſter did
+                        practiſe the like in thoſe parties, ſpoyling &amp; waſting al the
+                        countreys about him. The Erle of Shrewſburie called Roger de Mountgomerie,
+                        with a power of Welchmen ſet forth from Shrewſbury and with him were William
+                        Bi. of Durham the kings houſhold chaplain, Bernerd of Neumerch, Roger Lacie,
+                        &amp; Raufe Mortimer, (all Normans or Frenchmen) who ioyning their
+                        powers togyther, enter into the country, and with fire &amp; ſword did
+                        much hurt in all places where they came, killing and faking a great number
+                        of people.<note place="marg">Worceſter aſſaulted.</note> Afterwards comming
+                        to Worceſter they aſſault the citie, taking at their firſt approch the
+                        ſuburbs, and ſetting the ſame on fire. But the Citizens cloſing the gates of
+                        their Citie (though with the ſodaine comming of the enimies they were
+                        ſomewhat afrayd, made valiant reſiſtancd, and putting their <pb n="680_319"/> goodes with their wynes and children into the caſtell, got them to the
+                        walles and places of defence to beate backe the aduerſaries.</p>
+                     <p>
+                        <note place="marg">Biſhop Wulſtan.</note>Biſhop Wulſtan was among them in
+                        the town alſo, whom the Citizens would haue compelled to haue gone likewiſe
+                        into the Caſtell there to be more in ſafegard but he refuſed it. At length
+                        it chaunced that the enimies (continuing ſtill the ſiege) began to we<gap extent="+1" unit="letters">
+                           <desc>illegible</desc>
+                        </gap>e negligent, and raunged abrode in the countrey, little regarding to
+                        kepe ſure <milestone n="10" unit="unspec"/> watch and warde about their
+                        campe, wherevpon the Engliſh men within the citie vſing this occaſion,
+                        being alſo moued therto with the comfortable exhortation of Biſhop Wulſtan,
+                        ſallied forth of the towne and ſet on their enimies with great fierceneſſe,
+                        whom they tooke at ſuch aduauntage, that they ſlue and tooke that day aboue
+                           fiue.<note place="marg">They ſlue fiue hundred and chaſed the reſolue as
+                           ſayth <hi rend="bold">Sim. Dunel.</hi>
+                        </note> M. men (as Henrie of Huntington recordeth.) For the Engliſh bearing
+                        a continuall malice in theyr heartes agaynſt the Frenchmen and Normans,
+                           <milestone n="20" unit="unspec"/> did now their beſt to be fully reuenged
+                        of them, vpon ſo happie an occaſion offred. Thoſe that eſcaped by flight,
+                        hid thẽſelues in the next townes, making ſuch ſhiftes for their liues as
+                        the preſent neceſſitie could miniſter.<note place="marg">The diligence of
+                           the Archbiſhop Lanfrank</note> Whileſt the realme was thus troubled on
+                        ech ſide, the Archbiſhop Lãfrank ſendeth, writeth, and admoniſheth all the
+                        kings friends to make themſelues readie to defende their Prince. And after
+                        he vnderſtoode that they were aſſembled togither for that purpoſe, hee
+                        counſayleth the king to marche into the fielde with them ſpeedily, to
+                        repreſſe his enimies. The king following his counſaile, firſt appoynted his
+                        nanie to ſcoure and kepe the ſeas,<note place="marg">The great curtiſie
+                           ſhewed to the Enliſhmen by Wil. Rufus <hi rend="bold">Simon Dun.</hi>
+                        </note> and withſtand (if it were poſſible) the arriual of his brother by
+                        fayre words. Alſo he reconcileth Roger de Mountgomerie erle of Shrewſburie
+                        vnto him, and therewith maketh large promiſes to the Engliſhmen, that he
+                        would out of hande giue and reſtore vnto them ſuche fauourable lawes as
+                        they woulde wiſhe or deſire. Moreouer he commaunded all vniuſt impoſtes,
+                        tolles and tallages to be layde downe, and granted free hunting in the
+                        wooddes, chaſes &amp; forreſts, which he knew to be a thing very much
+                        deſired, &amp; therfore acceptable vnto thẽ. But all theſe graũts and
+                        promiſes he kept not long, although that for the time he greatly cõtented
+                        the people, with ſuch a ſhew of good meaning towards them: that don,<note place="marg">VVil. Malm.</note> he goeth with a mightie armie into Kent,
+                        where the ſedition began, and firſt cõming to the caſtell of Tunbridge, he
+                        compelled the captaine named Gilbert to yeeld &amp; rẽder the fortreſſe
+                        into his hãds. Then went he to Horne caſtel, where he heard ſay that Odo
+                        was, (but the report was vntrue, for he was withdrawne into the caſtell of
+                        Pẽſey) which when he had ouerthrowne, he haſted forth vnto Pemſey,
+                        &amp; beſieged the caſtel there a long ſeaſon, which the Biſhop had
+                        ſtrongly fortified. During <!--<figure n="680" rend="block"/>--> which time, and
+                        about the fiftieth day after the beginning of the ſiege, worde was brought
+                        to the <milestone n="50" unit="unspec"/> king, that his brother duke Robert
+                        was landed at Southampton, &amp; minded with all ſpeede poſſible to come
+                        to the ſuccor of the Biſhoppe and other his friendes, whome hee and his
+                        power had not a little afflicted.<note place="marg">Hen. Hunt. Simon
+                           Dun.</note> But here Authors varie: for ſome report that Duke Robert came
+                        not ouer himſelfe at the firſt at all, but ſent a part of his armie, with a
+                        certaine number of ſhippes, which encountring with the kings fleet, were
+                        diſcõfited. Other write that duke Robert hearing of the loſſe of his men,
+                        came after himſelfe, and landed with a mightie army as before, which is moſt
+                        likely. And certenly (as Gemeticen. affirmeth) he might eaſily as then haue
+                        recouered Englãd from his brother,<note place="marg">
+                           <hi rend="bold">Gemeticenſis.</hi> Euſtace Earle of Bullongne.</note> if he had not
+                        lingred the time, cõſidering that Euſtace erle of Bullongne, Odo the ſaid
+                        B. of Bayeux, &amp; the Erle of Mortaigne, w<hi rend="sup">t</hi> other lords of Normãdie
+                        were paſſed into Eng. had alredy takẽ Rocheſter, <pb ed="MS" n="681_320"/>
+                        and diuerſe other caſtels in the prouince of Canterburie, &amp; kept
+                        the ſame a certain time ſtil looking that he ſhould haue come ouer to their
+                        ayd, which he deferred to do, till they were cõſtrayned by ſiege and lack
+                        of neceſſarie ſuccors to return into Normãdie, leauing thoſe places which
+                        they had won, vnto the king, &amp; that to their great diſhonor. But
+                        howſoeuer it was, the king ſtill continued y<hi rend="sup">e</hi> ſiege before Pemſey caſtell,
+                        till Odo through want of victuals was glad to ſubmit himſelfe, and promiſed
+                           <milestone n="10" unit="unspec"/> to cauſe the caſtell of Rocheſter alſo
+                        to be deliuered,<note place="marg">Simon Dun.</note> but at his comming
+                        thither, they within the Citie ſuffred him to enter, and ſtreight wayes layd
+                        him faſt in priſon. Some iudge that it was done vnder a color by his owne
+                        conſent.</p>
+                     <p>There were in Rocheſter a
+                        ſort of valiant gentlemen, the flower in maner of all Normandie, with
+                        Euſtace Erle of Bullongne, &amp; many gẽtlemen of Flanders, which were
+                        in mind to defende the place agaynſt the king: but the king hearing
+                           <milestone n="20" unit="unspec"/> what was done, came with his army
+                        &amp; beſieged y<hi rend="sup">e</hi> citie of Rocheſter on eche ſide ſo ſtraightly y<hi rend="sup">t</hi>
+                        they within were glad to deliuer it into his handes.<note place="marg">
+                           <p>Rocheſter beſieged by the king.</p>
+                           <p>
+                              <hi rend="bold">An. Reg.</hi> 2</p>
+                           <p>
+                              <hi rend="bold">Polidor.</hi>
+                           </p>
+                           <p>1089</p>
+                        </note>
+                     </p>
+                     <p>The Biſhop Odo thus loſt
+                        all his liuings and dignities in England, and ſo returned into Normandie,
+                        where vnder duke Robert he had the chief gouernment of the country committed
+                        vnto him.</p>
+                     <p>After this he ouercame
+                        diuers of his aduerſaries, ſome by the ſworde, and ſome by flatterie: but
+                        this notwithſtanding, there yet remained the Biſhop <milestone n="30" unit="unspec"/> of Durham, one of the chiefe conſpirators, who withdrew
+                        himſelfe into the city of Durham, there to lie in ſafetie, till he ſawe howe
+                        the worlde would go: but being therein beſieged by the king, who came
+                        thither in (proper) perſon, hee was at length forced to ſurrender the citie,
+                        and yeeld himſelf:<note place="marg">The Biſhop of Durhã exiled.</note>
+                        whervpõ alſo he was exiled the land with diuerſe of his complices. But
+                        within two yeres after he was called home again, and reſtored to his
+                        church, wherin he liued not long, but died for ſorrow, <milestone n="40" unit="unspec"/> bycauſe he could not clerely purge himſelf of his offence
+                        in the ſayd rebellion, albeit that he labored moſt earneſtly ſo to do, that
+                        he might therby haue atteyned vnto the kings fauor againe.</p>
+                     <p>
+                        <note place="marg">Lanfrãk Archbiſhop of Cãterburie departeth this
+                           life.</note>Whileſt theſe things were thus in hande, the Archbiſhop
+                        Lanfranke falleth ſicke and dieth, in the .xix. yeare after his firſt
+                        entring into the gouernment of the ſea of Canterburie.</p>
+                     <p>This Lanfranke (as
+                        ſhoulde ſeeme) was a wiſe politike Prelate, and alſo learned: ſo long as
+                           <milestone n="50" unit="unspec"/> he liued he qualified the furious and
+                        cruell nature of king William Rufus, inſtructing him to forbeare ſuch wild
+                        &amp; outrageous parts, as his youthful courage ſeemed to be inclined
+                        vnto: and moreouer he perſwaded with the Engliſh men to obey the ſame king
+                        as their lawfull Prince, whereby they ſhoulde occaſion him to bee their good
+                        Lorde and king, not vſing them with any rigour as his father had done. So
+                        that Lanfrank could not wel haue bene ſpared in the time of the rebellion,
+                        without the great danger of ſubuerting the ſtate of the cõmon wealth. He
+                        buylded two Hoſpitals without the Citie of Canterburie, for the relief of
+                        poore people, and ſtraungers, the one of S. Iohn, the other at Harbaldown.
+                        He aduanced the church of Rocheſter from foure ſecular Clerkes, to the
+                        nũber of fiftie Monkes: hee alſo repayred Chriſtes Church in
+                           Canterburie,<note place="marg">
+                           <hi rend="bold">Mat. VVest.</hi> Paule Abbot of S. Albons.</note> and the Abbay of S.
+                        Albons, of the which hee made Abbot one Paule that was his nephewe, whiche
+                        Paule gouerned that houſe by his vncles aſſiſtance greatly to the
+                        aduancement thereof, aſwell in temporall preferments, as alſo ſpirituall,
+                        as it was then iudged. Likewiſe the ſayde Lanfranke was right profitable in
+                        gouernment of his Churche and Sea of Canterburie, recouering ſundrie
+                        portiõs of lands and rents alienated from the ſame before his days,
+                        inſomuch that he reſtored to that ſea .xxv. manor places. For amongſt
+                           other,<note place="marg">Edmerus</note> where Odo the Biſhop of Bayeux
+                        that was alſo Erle of Kent, bearing great rule in Englande vnder his
+                        nephewe King William the Conquerour, had vſurped diuerſe poſſeſſions whiche
+                        belonged to the Sea of Canterburie, and alſo had ſeazed the franchiſes into
+                        his handes apperteyning to the ſame Lanfranke, by ſute and earneſt trauaile
+                        hee recouered the ſame againe, and being impleaded about that matter by the
+                        ſayd Odo, he ſo defended his cauſe, that in the ende (although with much
+                        ado) he had his wil, and ſo remayned in quiet poſſeſſion of his right after
+                        that ſo long as he lyued, wythout any trouble or vexation concerning the
+                        ſayde poſſeſſions and liberties.</p>
+                     <p>Alſo where not only
+                        Walkhem the Biſhop of Wincheſter, but alſo diuerſe other Biſhops in England
+                        were in mind to haue diſplaced Monks out of their Cathedrall Churches,<note place="marg">Lanfranke prayſed for holding with the Monkes.</note> and to
+                        haue brought Canons into their roomes, Lanfranke withſtood them, and
+                        deſerued therefore high commendations both of them and alſo of the
+                        Pope.</p>
+                     <p>After Lanfrankes death,
+                        the king beganne to forget himſelfe verie farre in al his dealings,<note place="marg">The king giuen to ſenſuall luſt and couetouſneſſe.</note>
+                        inſomuch that he kept many concubines, and wexed very cruel and inconſtant
+                        in all his wayes, ſo that he became an heauie burthen vnto his people.</p>
+                     <p>Furthermore, he became ſo
+                        much addicted to gather good, that hee conſidered not what apperteyned to
+                        the Maieſtie of a king, ſo that nothing that ſeemed to make for his gaine,
+                        and ſatiſfying of his appetite, was eſteemed of him vnlawfull, meaſuring his
+                        dutie by gaine, and not by that which ſhould moſt of all become him. He kept
+                        alſo the Sea of Canterburie foure yeares in his handes, to ſee who would
+                        giue moſt for it, and in the meane time tooke the profits, making the moſt
+                        thereof that could be deuiſed by any meanes.</p>
+
+
+                     <p>
+<pb ed="MS" n="681_321"/> The like he vsed when other benefices
+                        and Abbayes were vacant of a gouernour, and furthermore that little which
+                        the Prince spared, his officers and fermers, no lesse couetous than he,
+                        tooke to their aduauntage: so that what by the king, &amp; what by his
+                        dealers, the church of England was now soe greeued, and bereeued of hir
+                        wealth. Diuerse of hir prelates in like maner, were not a little offended,
+                        to see their mother so spoyled of hir treasure and liuelihood, insomuch that
+                        they practised a redresse: and to begin withall complayned of the king to
+                        Pope Vrban: but he was so busied with other troubles of his owne nere home,
+                        that hee could haue no time to seeke meanes howe to redresse suche
+                        enormities so farre off, whereby the lands &amp; goods belonging to the
+                        Church here in Engla(n)d were still wastfully spent &amp; consumed by
+                        the king and other, to whome he gaue or let them forth to ferme at his owne
+                        will, &amp; to his most co(m)moditie. But albeit that the prince was of
+                        such a disposition &amp; inclination by nature, yet there is one thing
+                        written of him which ought not to be forgotten, to admonish vs that there is
+                        no man of so euill an affection, but that somtime he dealeth vprightly,
+                        though it be be by hap or other great difficultie. It chaunced that there
+                        was an Abbay voyde of an Abbot, in the which were two Monkes very couetous
+                        persons aboue the rest, and suche as by scraping and gathering togither,
+                        were become very rich (and surely such, as sayth Polidor) in those dayes
+                        came to preferment.) These two appointed to go togither to the Court, eche
+                        hoping at theyr co(m)ming to obteyn their sute: who perceyuing their greedie
+                        desires, and casting his eies about the chamber, espied by chaunce an other
+                        Monke (that came to beare them co(m)panie, being a more sober man, &amp;
+                        simple after his outward appara(n)ce) whom he called vnto him, &amp;
+                        asked what he would giue to be made Abbot of the foresaid Abbay. The Monk
+                        after a litle pause made answere, that he would giue nothing at al for any
+                        such purpose, since he entred into that profession of mere zeale to despise
+                        riches and al worldly pompe, to the end he might the more quietly serue god
+                        in holynesse and puritie of conuersation: Sayest thou so, quoth the king,
+                        the(n) art thou euen he that art worthy to gouerne this house: and streight
+                        way he bestowed y<hi rend="sup">e</hi> house vpon him, iustly repulsing the
+                        other two, and not without their open infamie and reproche. </p>
+                     <p>But to returne to our historie. After the expulsion of the Bishop
+                        of Durham, &amp; other of his adherents, the K. passed ouer into
+                        Normandie, purposing to depriue his brother of that Dukedom, &amp; being
+                        arriued there, he besieged &amp; tooke S. Valerie, Albemarle, &amp;
+                        diuers other townes and castels, in which he places of his best soldiers,
+                        &amp; men of war, the better to mainteyn the war against his aforesaid
+                        brother. Hereupon also the saide Robert sent vnto the French king for ayde,
+                        who came downe at his request with a noble army, &amp; besieged one of
+                        those castels which K. Wil. had lately woon, howbeit by such meanes as K.
+                        Wil. found, in sending to the French K. an huge sum of mony, he raysed his
+                        siege shortly and returned home againe. At length a peace was concluded
+                        betwixt K. Wil. and the duke his brother, although very dishonorable to the
+                        said Robert: for it was accorded that K. Wil. should retaine and still enioy
+                        the countie of Ewe, with Felcampe, the Abbathy of mount S.Michell,
+                        Chereburg, and all those other places which he had woon &amp; gotten out
+                        of his handes in this his late voyage. On the other side it was agreed, that
+                        K. Wil. should ayd the Duke to recouer al other peeces beyond the seas which
+                        belo(n)ged to their father. Also that such Normans as had lost any of their
+                        landes &amp; liuings in England for taking part with the duke in the
+                        late rebellio(n) shuld be restored to the same. And furthermore, that
+                        whether soeuer of both shoulde die first, the other then remayning aliue
+                        shuld be his heyre, and succeed in his dominions. This peace was co(n)cluded
+                        at Cane, &amp; that by procurement of the French K. at what time K. Wil.
+                        was very strong in y<hi rend="sup">e</hi> field neare vnto Ewe. And after
+                        the co(n)clusion thereof, they vnited their powers, &amp; besieged their
+                        yongest brother Henrie, in the castel of Mount S.Michel, which (being
+                        situate in the confines of Norma(n)dy and Brytain) he had strongly fortified
+                        of late for feare of afterclaps. But when they had lien before it by the
+                        space of all the lent season, and had made many bickerings with his men,
+                        more to theyr losse than gaine, they raysed their siege and voluntarily
+                        departed. Not long after this king William depriued Edgar Edeling of his
+                        honor which duke Robert had assigned vnto him, banishing him out of
+                        Normandie for euer. </p>
+                     <p>Shortly after also the aforesayde Henry wan a stro(n)g town
+                        called Damfront, &amp; furnishing it at point deuise, he kept the same
+                        in his possession as long as he liued, mauger both his brethren. Thus the
+                        war waxed hote among those three, howbeit sodenly (I know not vpon what
+                        occasion it came to passe) that this Henry was reconciled with K. Wil. and
+                        his brother Robert, so that all debates being quieted on euerie side they
+                        were made frie(n)ds togither. King William also returned into Englande,
+                        hauing his brother Robert in his companie, all men reioycing at their
+                        reconciliation and amitie, which happened the yeare .1091. and fourth of the
+                        reigne of the king. </p>
+                     <p>Toward the ende whereof and vpon the fifth day of October a
+                        marueylous sore tempest fell in sundrie partes of Englande, but especially
+                        in the 
+                        <pb ed="MS" n="682_322"/> towne of Winchcombe, where by force of thunder
+                        &amp; lightning, a part of the ſteeple of the Church was throwne downe,
+                        and the Crucifix with the Image of our Ladie alſo ſtanding vnder the rood
+                        loſt, was likewiſe ouerthrowne, broken and ſhattered in peeces, and withall
+                        there followed a foule noyſome and moſt horrible ſtinke in the Church. Alſo
+                        on the .xvij. day of the ſame moneth was much harme done in the Citie of
+                        London, with an outrageous winde,<note place="marg">A mightie winde.</note>
+                        whoſe violence ouerturned <milestone n="10" unit="unspec"/> or rent in
+                        peeces aboue the number of fiue hũdred houſes, and the roofe of S. Mary Bow
+                        Church in Cheape was alſo ouerthrowne, wherewith two men were ſlaine. </p>
+
+
+                     <!--<p xmlns:ns0="http://tei-c.org/TextComparator" ns0:cid="sid-2409e8ff-5a88-4c14-ac0f-7aad6bb7eccd">
+                        <pb ed="MS" n="681_321"/>
+                        <gap extent="1" unit="page">
+                           <desc>illegible</desc>
+                        </gap>
+                        <pb ed="MS" n="682_322"/> towne of Winchcombe, where by force of thunder
+                        &amp; lightning, a part of the ſteeple of the Church was throwne downe,
+                        and the Crucifix with the Image of our Ladie alſo ſtanding vnder the rood
+                        loſt, was likewiſe ouerthrowne, broken and ſhattered in peeces, and withall
+                        there followed a foule noyſome and moſt horrible ſtinke in the Church. Alſo
+                        on the .xvij. day of the ſame moneth was much harme done in the Citie of
+                        London, with an outrageous winde,<note place="marg">A mightie winde.</note>
+                        whoſe violence ouerturned <milestone n="10" unit="unspec"/> or rent in
+                        peeces aboue the number of fiue h&#x0169;dred houſes, and the roofe of S. Mary Bow
+                        Church in Cheape was alſo ouerthrowne, wherewith two men were ſlaine.</p>-->
+
+                     <p>Moreouer at Saliſburie
+                        was much hurt done with a like winde and thunder,<note place="marg">Anno
+                           reg. <gap extent="+1" unit="letters">
+                              <desc>illegible</desc>
+                           </gap>
+                           <hi rend="bold">1092</hi>
+                        </note> for the top of the ſteeple was ouerthrowne, and many other
+                        buyldings ſore ſhaken and caſte downe, whereof let this which we haue ſayde
+                        ſuffice for this preſent: and nowe to ſpeake ſomewhat of the doings of
+                        Scotlande as occaſion moueth.</p>
+                     <p>Whileſt (in ſuch wiſe as
+                        yee haue heard) the variance was depending betwene king William and his
+                        brother Duke Robert, the Scottiſh king Malcolme made ſore warres vppon the
+                        inhabitants of Northumberlande,<note place="marg">The Scottes inuade
+                           England.</note> fetching great booties and prayes out of that Countrey,
+                        which he inuaded euen to Cheſter in the ſtreete.</p>
+                     <!--<p>
+                        <figure n="682" rend="block"/>
+                     </p>-->
+                     <p>King William therefore
+                        ſoone after his returne, called his power togither, and ſpedde hym
+                        Northwards. But king Malcolme hearing of his reproche and great ſtrength,
+                        ſent to him for peace, which was graunted in the ende.</p>
+                     <p>But here ſuch writers as
+                        we haue ſeene doe not wholy agree, for ſome beſide their confuſion
+                           <milestone n="40" unit="unspec"/> of time, and account of the yeare,
+                        affyrme that king William prepared a great army both by ſea and lande
+                        agaynſt Malcolme,<note place="marg">VVil. Malm. Sim. Dun.</note> and that
+                        his nauy bring abrode on the Seas, was by tempeſt loſt, and the moſt part of
+                        the ſhippes drowned. Alſo that the armie by lande entring into Scotlande,
+                        ſuffred many loſſes through want of vitailes, and ſo recoyled. Finally that
+                        Duke Robert lying on the borders with an army in his brothers name (whereby
+                        it ſhould appeare that the king himſelfe <milestone n="50" unit="unspec"/>
+                        was not there) by the help and furtherance of Edgar Edelling which then
+                        ſerued king Malcolme in his warres made a peace betwixt his brother and the
+                        ſayd Malcolme, by the articles whereof certaine places in Northumberlande
+                        were reſtored vnto Malcolme, which he had helde in William Conquerours
+                        dayes. Some write in like maner that King Malcolme did homage vnto king
+                        William, and alſo Duke Robert reconciled the ſayde Edgar Edelling vnto the
+                        fauour of the king. But howſoeuer the truth of the ſtorie doth appeare in
+                        this behalfe, certaine it is that the king returned out of Northumberlande
+                        into the weſt partes of the Realme, ſtill reteyning with hym Duke Robert,
+                        who looked dayly when he ſhoulde perfourme ſuch couenants as were concluded
+                        betwixt them in their late reconciliation. But when he ſaw that the king
+                        ment nothing leſſe than to ſtand to thoſe articles, &amp; how he did
+                        only protract &amp; delay the time for ſome other ſecrete purpoſe, he
+                        returned into Normandie in great diſpleaſure, &amp; tooke with him the
+                        ſayd Edgar Edelling, of whõ he always made a very great account. Soone
+                        after K. Wil. returned into the North parts again, and as it chaunced he
+                        ſtayed a few dayes aboute Carleil, where being delited with the ſituation of
+                        the town, (which had bin deſtroyed by the Danes two hundred yeares before)
+                        hee ſet workemen in hande to repayre the ſame (meaning to vſe it in ſteade
+                        of a Bulwarke agaynſte the Scottes on thoſe Weſt Borders) and after hee had
+                        fenced it in with walles,<note place="marg">The repairing and new peopling
+                           of Carleil.</note> and buylded a caſtell in the moſte conuenient place
+                        thereof, hee cauſed <pb ed="MS" n="682_323"/> alſo Churches and houſes to
+                        bee made meete for ſuch a multitude of people as he had determined to bring
+                        vnto the ſame.</p>
+                     <p>This being done, he
+                        placed therein a Colonie of Southren men, with theyr wyues and children,
+                        and gaue large priuiledges vnto the towne, which they enioy vnto theſe our
+                        times.</p>
+                     <p>
+                        <note place="marg">Mat. VVeſt.</note>Here haue I thought good to aduertiſe
+                        you of an error in Mat. Weſt. crept in eyther by wrong placing of the matter
+                        by ſome exemplifier, either <milestone n="10" unit="unspec"/> elſe by the
+                        Authours miſtaking his accounte of yeares, as .1072. for .1092. referring
+                        the repayring of Carleil vnto William Conqueror, at what time he made a
+                        iourney agaynſt the Scots in the ſayde yeare .1072. And yet not thus
+                        contented, but to bewray the error more manifeſtly, he affirmeth that the
+                        king exchaunged the Earledome of Cheſter, with Raufe or Randulfe de Micenis,
+                        alias Meſchines, for y<hi rend="sup">e</hi> Erledome of Carleil, which the ſaid de Meſchines
+                        helde before, and had begon <milestone n="20" unit="unspec"/> there to build
+                        and fortifie that towne. Where as it is certain y<hi rend="sup">t</hi> Ranulfe de Meſchines
+                        came to enioy the Erledom of Cheſter by way of inheritãce, as after ſhall
+                        appeare. And for the better proufe thereof, ye ſhall vnderſtand, that we
+                        finde by auncient records, how that one Hugh Lou or Lupus enioyed the
+                        Erledome of Cheſter all the dayes of the Conqueror, and long after, which
+                        Hugh was ſonne to Richarde Earle of Auranges, and of the Counteſſe Emma, the
+                        daughter of a noble <milestone n="30" unit="unspec"/> man in Normandine
+                        named Herlowin, who maried Arlet, the daughter of a burgeſſe in Falois,
+                        &amp; mother to William Cõqueroure, ſo y<hi rend="sup">t</hi> the ſayde Hugh, being ſiſter
+                        ſonne to y<hi rend="sup">e</hi> Conquerour, receyued by gyft at his handes the Earledome of
+                        Cheſter, to holde of him as freely by right of the ſworde, as he helde the
+                        Realme of Englande in right of his Crowne. For theſe be the wordes:
+                           <hi rend="italic">Tenendum ſibi &amp; Heredibus ita libere ad glad<gap extent="2" unit="letters">
+                              <desc>illegible</desc>
+                           </gap> ſicut ipſe (Rex) totã tenebat Angliam ad cor<gap extent="+1" unit="letters">
+                              <desc>illegible</desc>
+                           </gap>nam.</hi>
+                        <milestone n="40" unit="unspec"/>
+                     </p>
+                     <p>Earle Hugh then
+                        eſtabliſhed in poſſeſſion of this Earledome with moſt large priuiledges and
+                        freedomes for the better gouernment thereof, he ordeyned vnder him foure
+                           Barons,<note place="marg">Foure barons. Nigel or Neal. Piers Malbank
+                           Euſtace Waren Vernõ.</note> to witte, his couſin Nigell, or Neal, Barõ
+                        of Haltõ, ſir Pierce Malbanke, baron of Nauntwich, ſir Euſtace <gap extent="+1" unit="letters">
+                           <desc>illegible</desc>
+                        </gap>leftblank<gap extent="+1" unit="letters">
+                           <desc>illegible</desc>
+                        </gap> baron of Mawpaſſe, and ſir Warren Vernon, baron of Shipbroke. Nigell
+                        helde his baronie of Halton by ſeruice to leade the Vauntgarde of the
+                        Earles armie when he ſhoulde make <milestone n="50" unit="unspec"/> any
+                        iourney into Wales, ſo as he ſhoulde bee the foremoſte in marching into the
+                        enimies Countrey, and laſt in comming barke. Hee was alſo Coneſtable and
+                        Marſhall of Cheſter. From this Nigell or Neal,<note place="marg">The
+                           Lacies.</note> the Lacyes that were Earles of Lincolne had theyr
+                        originall. Earle Hugh gouerned the Earledome of Cheſter the terme of .xl.
+                        yeares, and then departed this life in the yeare, 1107. He had iſſue by his
+                        wife Armetrid<gap extent="+1" unit="letters">
+                           <desc>illegible</desc>
+                        </gap> Richard that was the ſeconde Erle of Cheſter after the conqueſt,
+                        Robert, Abbot of Saint Edmonds burie, and Otuell tutor to the children of
+                        king Henrie the firſt.</p>
+                     <p>Moreouer the ſayde Earle
+                        Hugh had a ſiſter named Margaret,<note place="marg">Iohn Bohun.</note> that
+                        was maried vnto Iohn Bohun, who had iſſue by hir Randulf Bohun, otherwiſe
+                        called Meſchines, which Randulfe by that meanes came to enioy the Erledome
+                        of Cheſter in right of his mother (after that Earle Richarde was drowned
+                        in the Sea) and not by exchaunge for the Earledome of Carleil, as by this
+                        which we haue alreadie recited, it may be ſufficiently proued.</p>
+                     <p>To returne therefore
+                        where we left.<note place="marg">An. Reg. <hi rend="bold">6.</hi>
+                        </note> After that king William Rufus had giuen order for the buylding,
+                        fortifying, and peopling of Carleil, hee returned Southwardes, and came to
+                        Glouceſter, where he fell into a grieuous and dangerous ſickneſſe,<note place="marg">
+                           <p>1093</p>
+                           <p>
+                              <hi rend="bold">Simon Dun. Hen. Hunt. Math. Paris.</hi> The king being ſicke
+                              promiſeth amẽdment of life. <hi rend="bold">Polidor. Edmerus</hi>
+                           </p>
+                        </note> ſo that hee was in diſpayre to eſcape wyth life, in time whereof he
+                        tooke ſore repentance for his former miſdeedes, and promiſed if hee eſcaped
+                        that daunger of ſickneſſe, to amende his life, and become a newe man. But
+                        after he was reſtored to health y<hi rend="sup">t</hi> promiſe was quickly forgottẽ, for his
+                        doings were not ſo badde and wicked before, but that compared with thoſe
+                        which followed after his recouerie, they might well be taken for verie good
+                        and ſufferable.</p>
+                     <p>Moreouer, whereas he
+                        reteyned in his handes the Biſhoprike of Canterburie the ſpace of foure
+                        yeares, hee nowe beſtowed it on Anſelme,<note place="marg">Anſelme elected
+                           archbiſhop of Canterbury.</note> who was before Abbot of Bechellouyn in
+                        Normãdie, and likewiſe vnto certaine Abbayes which he had held long time in
+                        his poſſeſſion, he appoynted Abbottes: By meane whereof all men, but
+                        eſpecially the ſpiritualtie, beganne to conceyue a very good opinion of
+                        him. The yeare in the whiche Anſelme was thus elected, was from the byrth of
+                        our Sauiour .1093. on the ſixth of Marche,<note place="marg">Edmerus</note>
+                        beeing the firſt Sunday in Lent (as Edmerus recordeth.)</p>
+                     <p>Furthermore, the Sea of
+                        Lincolne being void by the death of Biſhop Remigius,<note place="marg">
+                           <hi rend="bold">Mat. Paris. Polidor.</hi> Robert Bluet L. Chauncelor elected biſhop
+                           of Lincolne.</note> he gaue it vnto his Counſellour Robert Bluet, but
+                        afterward repenting himſelfe of ſuche liberalitie, in that hee had not kept
+                        it longer in his handes towardes the enryching of his Coffers, hee deuiſed a
+                        ſhifte howe to wype the Byſhoppes noſe of ſome of his Golde, whiche he
+                        perfourmed after thys maner. He cauſed the Biſhoppe to bee ſued,
+                        quarelling with him, that he wrongfully vſurped vpon certain poſſeſſiõs,
+                        togither with the Citie of Lincolne which apperteyned to the ſea of Yorke:
+                        And though this was but a forged cauillation, and a greate vntruth,<note place="marg">Hen. Hunt.</note> yet coulde not the Biſhoppe bee delyuered
+                        out of that trouble tyll hee had payed <pb n="683_324"/> to the king fiue
+                        thouſand pounds to be at reſt and quiet. And as hee thus dealt with the
+                        ſpiritualtie, ſo he cauſed diuerſe of the Nobilitie to be put to grieuous
+                        fines, for tranſgreſſing of his lawes, though the fault were neuer ſo
+                        little. He alſo cauſed the Archebiſhoppe Anſelme to paye to hym a greate
+                        ſumme of money, vnder colour of a contribution whiche was due in Lanfrankes
+                        dayes, though it was certainly knowne that Lanfranke had payed it.
+                           <milestone n="10" unit="unspec"/>
+                     </p>
+                     <p>Thus waxed King William
+                        from tyme to tyme more ſharpe and grieuous to his ſubiectes, ſo that
+                        whoſoeuer came within the daunger of the lawes was ſure to be condemned, and
+                        accoũted well gotten good, and ſuch as woulde play the promoters &amp;
+                        giue informations agaynſt any mã for tranſgreſſing lawes, were highly
+                        rewarded.</p>
+                     <p>In this ſixt yere, there
+                        chaunced ſuch exceeding greate raine, and ſuch high flouds, the Riuers
+                        ouerflowing the low groundes that lay neare vnto <milestone n="20" unit="unspec"/> them, as the like had not beene ſeene of manye yeares
+                        before that tyme, and afterwardes enſued a ſodaine froſt, which froſe the
+                        great ſtreames in ſuche wiſe, that at the diſſoluing thereof, manye bridges
+                        both of wood and ſtone, &amp; likewiſe Milles were borne downe and
+                        ouerthrowne.</p>
+                     <p>Furthermore, perceyuing
+                        that diuerſe occaſioned by his cruel and couetous gouernment,<note place="marg">Polidor.</note> did dayly ſteale out of the Realme to liue
+                        in forraine Countreyes, he ſet forth a proclamation, that no man ſhoulde
+                        depart the Realme withoute his lycence and ſafeconduct.<note place="marg">A
+                           proclamation that none ſhoulde depart the realme.</note> And hereof it
+                        is thought that the cuſtome roſe of forbidding paſſage out of the realme,
+                        which oftentymes is vſed as a lawe when occaſion ſerueth.</p>
+                     <p>Soone after alſo he went
+                        agaynſt the Welchmen, whom hee vanquiſhed in battaile neare to Brecknocke,
+                        and ſlue theyr king named Riſe, or Rees, who hauing done muche hurt within
+                        the Engliſh borders, was their encamped.</p>
+                     <p>This Riſe, or Rees, was
+                        the laſt king that reigned ouer the Welchmen,<note place="marg">
+                           <hi rend="bold">Ran. Higd.</hi> Rees king of Wales ſlaine.</note> as the Authours
+                        affirme: for afterwardes, though they oftentymes rebelled, yet the kings of
+                        Englande were reputed to be the ſupreme gouerners of y<hi rend="sup">t</hi> part of the
+                        Ilãd.</p>
+                     <p>Moreouer, to haue the
+                        countrey the better in quiet, he cutteth downe much of their woods,<note place="marg">VVi. Thorne.</note> and buylded many Caſtels and piles in
+                        places conuenient, <!--<figure n="683" rend="block"/>--> by meanes whereof they
+                        were ſomewhat tamed, and broughte in tyme to obedience, though not at the
+                        firſt, nor in the dayes of ſundrie of his ſucceſſors. After hee had thus
+                        finiſhed his iourney into Wales,<note place="marg">
+                           <gap extent="1" unit="word">
+                              <desc>illegible</desc>
+                           </gap> king <gap extent="1" unit="span">
+                              <desc>illegible</desc>
+                           </gap>.</note> Malcolme king of Scotlande came vnto Glouceſter to ſee
+                        the king, and to cõmon with him of ſundrie matters touching <milestone n="50" unit="unspec"/> the peace betwixt both the realmes, as he returned
+                        homewardes: but bycauſe King William diſdeyned to enterteyne him in ſuche
+                        pompous maner as he looked for, and forſomuch as he did not at the verie
+                        firſt admitte him to his preſence, the ſayde Malcolme returned into
+                        Scotlande in greate diſpleaſure,<note place="marg">K. Malcolme inuadeth
+                           Eng+lande.</note> and immediately rayſing a power, entred into Englande,
+                        deſtroying the Countrey vnto Alnewike Caſtell, where he was compaſſed ſo
+                        about with an ambuſhment, layde by Robert the Earle of Northumberlande, that
+                        he was ſlaine togither with his eldeſt ſonne Edward.<note place="marg">He
+                           is ſlaine.</note> And his whole armie alſo with that miſhappe being
+                        vtterlye diſcomfited, fled out of the field, with the loſſe of many that
+                        were either ſlain or taken by the way.</p>
+                     <p>Thus king Malcolme came
+                        to his ende,<note place="marg">Simon Dun.</note> by the iuſt prouiſion of
+                        God, in that prouince which he had waſted and ſpoyled at fiue ſeuerall
+                        tymes, as firſt in the dayes of king Edwarde, when Erle Toſtie was gone to
+                        Rome: the ſeconde tyme in the dayes of William Conquerour, when hee ſpoyled
+                        alſo Cleuelande: thirdely in the ſame <pb ed="MS" n="683_325"/> Conquerours
+                        dayes, whileſt Biſhoppe Walker gouerned the Sea of Durham, at what tyme all
+                        the Countrey was ſpoyled and forrayed, euen vnto the Ryuer of Tine:
+                        fourthly, aboute the fourth or fifth yeare of the reigne of this William
+                        Rufus, at whiche tyme hee entered the lande as farre as Cheſter in the
+                        ſtreete, whyleſt King William was in Normandie:<note place="marg">Ran.
+                           Higd.</note> the fifth tyme was nowe wherein hee loſt hys lyfe on Saint
+                        Brices day, by the handes of a right valiant Knight <milestone n="10" unit="unspec"/> named Morkell, after whiche his bodie was buryed at
+                        Tynmouth (as in the Scottiſhe Hyſtories more plainly appeareth,) where alſo
+                        ye may fynde, howe the ſonnes of King Malcolme were ayded by king William
+                        Rufus to obteyne the crowne of Scotland, as their right, where otherwiſe by
+                        the force and practiſe of theyr vncle Donald they had beene kept from
+                        it.</p>
+                     <p>
+                        <note place="marg">
+                           <p>
+                              <hi rend="bold">An. Reg.</hi> 7 1094</p>
+                           <p>
+                              <hi rend="bold">Ran. High. VVil. Mal. Sim. Dunel.</hi> Death and murraine of
+                              cattaile. Straunge wonders. <hi rend="bold">Math. Paris. Polidor.</hi>
+                           </p>
+                        </note>This yeare England and Normandie were ſore vexed with mortalitie both
+                        of menne and <milestone n="20" unit="unspec"/> beaſtes, inſomuche that
+                        tyllage of the grounde was layde aſide for that yeare in many places, by
+                        reaſon whereof there followed greate dearth and famine.</p>
+                     <p>Many griſely and vncouth
+                        ſightes were ſeene in Englande, as hoſtes of men fighting in the ſkie, with
+                        fierie beames flaſhing out, ſtarres falling from heauen, and ſuch other
+                        wonders.</p>
+                     <p>At which time alſo newe
+                        occaſions of breach of amitie grewe betwixt the King and hys brother
+                           <milestone n="30" unit="unspec"/> Robert, who accuſed him of periurie,
+                        for not obſeruing the articles of the laſt peace concluded betwixt
+                           them:<note place="marg">Simon Dun.</note> wherefore he purpoſed to ſayle
+                        ouer into Normandie, and ſo came vnto Haſtings, aboute the fyrſt of
+                        Februarie, where hee ſoiourned for a tyme, and cauſed the Abbay Churche of
+                        Battayle to bee dedicate in honour of Saint Martyn, and alſo depryued
+                        Herbert the Biſhop of Thetforde of his Biſhops ſtaffe, bycauſe hee meant to
+                        haue gone ſecretely vnto <milestone n="40" unit="unspec"/> Rome, and there
+                        to haue purchaſed abſolution of Pope Vrbane for his Byſhopryke, which hee
+                        had bought of the king for himſelfe, and likewiſe for the Abbacie of
+                        Wincheſter, which hee had alſo bought for his father, paying for thẽ both.
+                        M. lb
+                     </p>
+                     <p>
+                        <note place="marg">K. William paſſeth ouer into Normandie.</note>After
+                        this, about Midlent he paſſed ouer into Normandie with an armie, in purpoſe
+                        to trie the matter with his brother in plaine battaile, that thereby hee
+                        myght rather growe to ſome aſſured poynt of loſſe or gayne, than to ſtande
+                        euer vpon <milestone n="50" unit="unspec"/> ſuche an vncertaintie, whether
+                        to haue peace or warre, that hee muſt bee conſtrayned to bee at all tymes in
+                        a readineſſe to defende himſelfe, but after he was come into Normandie,<note place="marg">Warres betwixt the king and his brother.</note> and had
+                        forrayed part of the Countrey once or twice, hee fell to a communication
+                        with his brother Duke Robert; and in the ende condiſcended to put the matter
+                        in compromiſe vnto the arbitrement of certaine graue perſonages, who iudging
+                        agaynſt the king, hee refuſed to ſtande to their iudgement, where vpon both
+                        parts prepared for warre again: inſomuch that the king perteyning how his
+                        brother was ayded by the French king,<note place="marg">Mat. VVest.</note>
+                        and that his power was to weake to withſtand them both, he ſent his
+                        commiſſion into Englãd for the leuying of .xx.M. men, cõmaunding them alſo
+                        to be ſent ouer vnto him into Normandie by a day, which was diligently
+                        performed. But euen as they were come togither about Haſtings, readie to
+                        enter a ſhipboorde, immediately commeth the kings lieutenant with a
+                        countermaunde, and ſignifieth to them, that the king minding to fauour and
+                        ſpare them for that iourney, woulde that euery of them ſhould giue him .x.
+                        ſhillings, as Mat. Paris hath,<note place="marg">
+                           <hi rend="bold">Twentie ſhillings hath</hi> VVi. Thorne. Mat. Par. Mat.
+                           VVeſt.</note> (or .xx. ſhillings as others haue) towardes the charges of
+                        the war, &amp; thervpõ depart home with a ſufficiẽt ſafecõduct, which
+                        the moſt part were better content to do, than to commit themſelues to the
+                        fortune of the ſea, and bloudie ſucceſſe of the warres of Normandie.<note place="marg">Polidor.</note> In deed king William chaunging his minde,
+                        was nowe determined to ende the matter with money, and not with the ſworde,
+                        as it afterward appeared, for by brybing of king Philip in whom duke Robert
+                        had repoſed his whole truſt,<note place="marg">A peace concluded betwixt
+                           the king and his brother Robert.</note> he cõcluded peace with him vpon
+                        ſuch articles &amp; conditions as he himſelfe required.</p>
+                     <p>Thus hauing diſpatched
+                        his buſineſſe in Normãdie, he returneth into England, where he hapned to
+                        meete with newe and more daungerous warres:<note place="marg">
+                           <hi rend="bold">Hen. Hunt. Simon Dun.</hi> The Welchmen inuade Englande.</note> For
+                        the Welchmen hearing of the variance betwixt the brethren, after their
+                        accuſtomed maner begin to inuade the Engliſh Marches, taking booties of
+                        cattell, and deſtroying the Countreys, to kill and take many of the kings
+                        ſubiects, both Engliſh men and Normans.</p>
+                     <p>After this, (waxing
+                        prowde of their good ſucceſſe) they beſieged the Caſtell of
+                           Mountgomerie,<note place="marg">The Caſtel of Montgomerye wonne by the
+                           Welchmen.</note> and though the gariſon there made ſtoute reſiſtãce for
+                        a time, yet in the ende the enimie finding ſhift to ouerthrow the walles,
+                        entred perforce, and ſlue them all that they found within it. And although
+                        king William was offended herewith, when hee heard of it, yet could he not
+                        remedie the matter,<note place="marg">
+                           <hi rend="bold">An. Reg.</hi> 8. 1095</note> as then, being troubled with a
+                        conſpiracie nowe begon agaynſt him by Robert the Earle of
+                           Northumberland,<note place="marg">Robert Earle of Northumberland
+                           refuſeth to come to the king.</note> who vpon diſpleaſure conceyued
+                        againſt him, bycauſe he was not rewarded not thanked at his hands for his
+                        good ſeruice ſhewed in the killing of Malcolme K. of Scotland, refuſed to
+                        come vnto him being ſent for by letters, and herewith beganne to practiſe
+                        with certaine other noble men of that countrey, how to depoſe King Wil. but
+                        ere he could bring any peece of his purpoſe to paſſe, the K. hauing
+                        aduertiſment of his attempts, firſt appointed his brother the L. Henrie to
+                        go thither with an armie,<note place="marg">Mat. Paris.</note> and forthwith
+                        he <pb n="684_326"/> followeth himſelfe, and comming to Newcaſtel, where the
+                        moſt part of his complices were aſſembled, he ſurpriſed them ere they could
+                        haue time to prouide for their ſafetie. That done, he went to Tinmouth, and
+                        in the Caſtell there tooke the erles brother, &amp; after came to the
+                        caſtell of Banbourgh into the which the ſaide Earle with his wife and
+                        children were withdrawne for their better ſafegarde and defence. Here it is
+                        written by ſome authors,<note place="marg">Hen. Hunt.</note> that when the
+                        king perceyued it woulde <milestone n="10" unit="unspec"/> bee hard for him
+                        to winne this Caſtell of Banbourgh, (by reaſon of the great ſtrength
+                        thereof,) without famine, he buylded vp an other Caſtell or Baſtilion faſt
+                        by it,<note place="marg">Malvoiſin a fortreſſe built agaynſt
+                           Bambourgh.</note> calling the ſame Malvoiſin, in the which he placed a
+                        greate power of men, by whoſe meanes at length the Earle was ſo
+                        conſtrayned, that when he ſought to haue eſcaped by night, hee was eſpyed,
+                        and therewith purſued ſo neare by the kings Souldiours, that he was forced
+                        to take Sanctuarie within the Churche of <milestone n="20" unit="unspec"/>
+                        Saint Oſwyn the Martyr at Tynmouth,<note place="marg">Polidor.</note> out of
+                        the which he was quickly taken, and brought as priſoner to the kings
+                        preſence: notwithſtanding thoſe that remayned within the Caſtell vppon
+                        truſt of the ſtrength of that place, woulde not yeelde by any meanes, but
+                        ſtoode ſtill at their defence: wherevpon the king cauſed the Earle theyr
+                        maiſter to be brought forth afore the gates, and threatned that he ſhoulde
+                        haue his eies put out of his head if they within did not ſtreight wayes
+                        deliuer the holde into his handes. And herevpon it came to paſſe that the
+                        Caſtell was giuen vp,<note place="marg">Banbourgh yeelded to the
+                           king.</note> and thoſe that kept it were diuerſly puniſhed, ſome by
+                        baniſhment, ſome by loſing their eares, and diuers by the loſſe of their
+                        handes, in example to others. The Erle himſelf alſo was cõueyed to Windſor
+                        Caſtell, and there committed to priſon. Some write that the meaning of the
+                        Erle and his complices (amongſt whom was William Earle of Ewe,<note place="marg">
+                           <hi rend="bold">Sim. Dun.</hi> The Earle of Ewe.</note> which renouncing his
+                        allegiaunce to Robert Duke of Normandie was become the kings man) was to
+                        haue diſplaced the king from his roiall throne, and to haue ſet vp his
+                        ſonne William de Albemarle whom he had begotten of his cõcubin. But
+                        whatſoeuer their purpoſe was after that the king had quieted his countrey in
+                        the North partes,<note place="marg">Mat. Par.</note> he bent all his force
+                        agaynſt the Welchmen, the which in the yeare before had deſtroyed and
+                        ouerthrowne the caſtell of Moungomerie, &amp; ſlaine the Normans that
+                        lay there in gariſon to defende it, with which doing he was very muche
+                           offended,<note place="marg">King William inuadeth Wales.</note> and
+                        therefore entering nowe into Wales, hee beganne to ſpoyle and waſte the
+                        countrey, for he ſawe that the Welchmen would <!--<figure n="684" rend="block"/>-->
+                        not ioyne in battayle with him in the plaine field, but kept themſelues
+                        ſtill aloofe within the woods &amp; Mariſhes, and aloft vpon Mountaynes:
+                        albeit oftentimes whẽ they ſaw aduantage, they would <milestone n="50" unit="unspec"/> come forth, and taking the Engliſhmen &amp; Normans
+                        at vnawares, kill many, &amp; woũd mo of thẽ, hee ſtill purſued them
+                        by hiiles and dales, though more to the loſſe of his owne people than hurt
+                        of the Welchmen, who eaſily eſchued the daunger of battaile, and ſtill at
+                        the ſtraites and comberſom paſſaes, diſtreſſed many of theyr enimies:
+                        wherby the king at length perceyuing that hee coulde not preuaile agaynſt
+                        them, ceaſſed further to follow on with his purpoſed voyage,<note place="marg">The king returneth out of Wales with diſhonor.
+                              <hi rend="bold">Edmerus</hi> Murcherdach king of Irelãd</note> and therewith
+                        returned home, not w<hi rend="sup">t</hi>out ſome note of diſhonor.</p>
+                     <p>About the ſame time alſo,
+                        Murcherdach king of Irelande, with the Clergie and people of the Citie of
+                        Dublyn, elected one Samuell a Monke of S. Albons, and an Iriſh man borne, to
+                        the gouernment of the Church &amp; Biſhops Sea of Dublyn, and
+                        (according to the auncient cuſtome) preſented him by ſufficient letters of
+                        teſtimonie vnto the Archbiſhop of Canterburie Anſelme, to be ſacred of him,
+                        the which according to their requeſt <pb ed="MS" n="684_327"/> did
+                        conſecrate him, and receyued of him a promiſe of his canonicall ſubiection,
+                        after the olde vſuall maner, hauing foure Biſhops, Suffraganes to the ſea of
+                        Canterburie, miniſtring to him at that conſecration.</p>
+                     <p>In like maner, Pope Vrban
+                        calling a counſell <!--<figure n="684" rend="block"/>--> at Clermoũt in
+                           Auvergne,<note place="marg">The counſel of Clermount.</note> exhorted the
+                        chriſtian Princes ſo earneſtly to make a iourney into the holy lande, for
+                        the recouerie thereof out of the Saraſins handes, that the great and
+                        generall paſſage was concluded to be taken in hande,<note place="marg">The
+                           iourney into the holy lande. Godfray de Bullion.</note> wherein ſo many
+                        noble men of Chriſtendome went vnder the leading of Godfray of Bullion and
+                        other, as in the Chronicles of Fraunce, Germanie, and of <milestone n="30" unit="unspec"/> the holy lande doth more plainly appeare.</p>
+                     <p>There went alſo among
+                        other dyuerſe noble men forth of this Realme of Englande, ſpecially that
+                        worthily bare the ſurname of Beauchampe.</p>
+                     <p>Robert Duke of Normandie
+                        minding alſo to goe in the ſame iourney,<note place="marg">
+                           <p>An. reg. 9 1096</p>
+                           <p>Hen. Hunt. VVil. Thorne Simon Dun.</p>
+                        </note> and wanting money to furniſh and ſet forth himſelfe, engaged his
+                        duchie of Normandie vnto his brother king William, for the ſumme of tenne
+                        thouſande poundes. <milestone n="40" unit="unspec"/> And here was another
+                        occaſion offered vnto king William, to rayſe a newe payment amongeſt his
+                        ſubiectes, whiche was ſo grieuous, as well to the ſpiritualtie,<note place="marg">A ſubſedie.</note> as to the temporaltie, that diuerſe
+                        Biſhoppes and Abbottes, whiche had alreadie made away ſome of their Chalices
+                        and Churche Iewelles to pay the King, made nowe plaine anſwere that they
+                        were not able to helpe him wyth any more: vnto whom on the other ſyde (as
+                        the report went) the King ſhoulde ſay agayne, haue <milestone n="50" unit="unspec"/> you not (I beſeeche you) Coffins of Golde and Siluer full
+                        of deade mens bones? meaning the ſhrines wherein the reliques of Saintes
+                        were incloſed, which (as his wordes ſeemed to import) he woulde haue had
+                        them to conuert into mony, therewyth to helpe him in that neede, worthily
+                        iudging it no ſacriledge, though many did otherwiſe eſteeme it, conſidering
+                        (as he pretended) that it was gathered for ſo godly an vſe, as to mainteyne
+                        the warres agaynſt the Infidels and enimies of Chriſt.</p>
+                     <p>The Archbiſhop Anſelme
+                        tooke the worth of two hundred Markes of ſiluer of the Iewels that belonged
+                        to the Church of Canterburie (the more part of the couent of Monkes winking
+                        therat) towardes the furniſhing of ſuch payment as he was conſtrayned to
+                        make to the king towardes hys ayde at that time:<note place="marg">Edmerus</note> but bycauſe he would not leaue thys for an example to bee
+                        followed of his ſucceſſours, he graunted to the Churche of Canterburie the
+                        profites and reuenues of his Manour of Petteham, to bee receyued to the vſe
+                        of the ſame Churche for the tearme of ſeuen yeares, the ſame reuenues
+                        amounting to the ſumme of thirtie pounde yearely in thoſe dayes.</p>
+                     <p>Thus King William ſeeking
+                        rather to ſpoile the Realme of Englande,<note place="marg">Polidor.</note>
+                        than to preſerue the royall ſtate thereof, after hee had gotten togyther a
+                        greate maſſe of money, ſayled ouer into Normandie, and there delyuering vnto
+                        the Duke the tenne thouſande poundes aforeſayde,<note place="marg">The
+                           Duchie of Normandie engaged to king William</note> was put in poſſeſſion
+                        of the Duchie, to enioy the ſame, and the profites ryſing thereof, tyll the
+                        ſayde tenne thouſande poundes were repayde to him agayne, or (as ſome wryte)
+                        it was couenanted that in recompence thereof,<note place="marg">Edmerus</note> the King ſhoulde enioy the profites of that Duchie for
+                        tearme onelye of three yeares, and then to reſtore it againe without any
+                        further intereſt or recompence.</p>
+                     <p>This done,<note place="marg">Polidor.</note> hee returned agayne into England, and Duke
+                        Robert ſetteth forwarde on hys iorney in cõpanie of other noble men towards
+                        the holy lãd. In which iorney his noble prowes at all <pb ed="MS" n="685_328"/> turnes when any ſeruice ſhoulde be ſhewed was moſt
+                        manifeſtly perceyued, to his high fame and renowme among the princes and
+                        nobilitie there aſſembled.</p>
+                     <p>
+                        <note place="marg">
+                           <p>
+                              <hi rend="bold">An. reg.</hi> 10. 1097</p>
+                           <p>
+                              <hi rend="bold">Edmerus</hi> Waterford in Ireland made a Biſhoprike.</p>
+                        </note>About the ſame time the Citizens of Waterford in Irelãd perceyuing
+                        y<hi rend="sup">t</hi> by reaſõ of y<hi rend="sup">e</hi> great multitude of people in that city, it was
+                        neceſſarie for thẽ to haue a Biſhop, they obteyned of their king and rulers
+                        licence to erect in their Citie a Biſhops ſea, and that it might pleaſe them
+                        to write vnto Anſelme <milestone n="10" unit="unspec"/> the Archbiſhop of
+                        Canterburie that was their Primate,<note place="marg">The Archbiſh. of
+                           Canterburie primate of Irelande.</note> to haue his conſent therin, ſo as
+                        it might ſtand with his pleaſure, to inſtitute and ordeigne ſuche a perſon
+                        to haue gouernment of their church as Biſhop, whom they ſhould name, knowing
+                        him to be a man of ſuch lerning, knowledge, diſcretion, &amp;
+                        worthineſſe, as were meete to exerciſe the rowme. Herevpon were letters ſent
+                        by meſſengers from Muchertachus king of Ireland vnto Anſelme,<note place="marg">Muchertake K. of Irelande</note> enforming him of the whole
+                        matter: <milestone n="20" unit="unspec"/> and in the ſame letters was one
+                        Malchus commended &amp; preſented vnto him to be admitted and ſacred if
+                        he thought it good. Theſe letters were ſubſcribed with the handes, not onely
+                        of the ſayde King Murchertachus, but alſo of his brother Duke Dermeth, of
+                        Biſhoppe Dufnalde, of Idiman Biſhoppe of Methe, of Samuell Byſhoppe of
+                        Dubline, of Ferdomnachus Biſhop of Laginia or Leyniſter, and of many others
+                        bothe of the ſpiritualtie and temporaltie. <milestone n="30" unit="unspec"/>
+                     </p>
+                     <p>Anſelme therefore
+                        conſidering their requeſt to be iuſt and neceſſarie, graunted to fulfill
+                        theyr deſires, and ſo vpon examination had of the man, and taking of him
+                        his promiſe of obedience, according to the maner, hee conſecrated the ſame
+                           Malchus,<note place="marg">
+                           <gap extent="1" unit="span">
+                              <desc>illegible</desc>
+                           </gap>.</note> and ſo ordeyned him to rule the church of Waterforde as
+                        Biſhop. This was done at Canterburie the .xxviij. day of October, Raufe
+                        Biſhop of Chicheſter, and Gundulfe Biſhop of Rocheſter helping Anſelme in
+                        the conſecration <milestone n="40" unit="unspec"/> as Miniſters vnto him in
+                        that behalfe.</p>
+                     <p>The ſayde Malchus was a
+                        Monke, and ſomtime vnder Walkhelme biſhop of Wincheſt.</p>
+                     <p>But to the purpoſe. King
+                        William after his returne into Englande, remembring what domage he had
+                        ſuſteyned two yeares before at the handes of the Welchmen, determined
+                        eftſoones to inuade their countrey, and therefore doubling his power,<note place="marg">The king eftſoones inuadeth the Welchmen.</note> commeth
+                        into the Marches, pitcheth his field, and conſulteth with his captaines what
+                        order <milestone n="50" unit="unspec"/> he were beſt to vſe in that his
+                        enterpriſe, for the taming of his aduerſaries.</p>
+                     <p>
+                        <note place="marg">Polidor.</note>The Welche men hearing of the kings
+                        approche, and that his armie was farre greater than the laſt whiche hee
+                        brought into theyr Countrey,<note place="marg">The Welch men withdraw into
+                           the woods</note> fell to theyr woonted policie, and gotte them into the
+                        Wooddes there to lie in awayte truſting more to the aduauntage of places,
+                        than to their owne force and puiſſaunce.</p>
+                     <p>When the king therefore
+                        vnderſtoode theyr practice, he placed armed men in dyuerſe places,<note place="marg">Hen. Hunt.</note> and buylded Towers and houſes of ſtrength
+                        for theyr defence, bycauſe he durſt not aſſay to enter into wilde and waſte
+                        groundes, where he had receyued hinderance and domage before that time,
+                        hoping by this meanes thus in ſtopping vp the wayes and paſſages of the
+                        countrey to bring the Rebelles to more ſubiection. But when thys policie
+                        was tryed to wearie rather the Kinges Souldiours than to hurt the ennimies,
+                        whiche wandering from place to place in the Wooddes entrapped oftentymes the
+                        Normans and Engliſhe men in taking them at aduauntage, the king without
+                        bringing his purpoſe to anye good effect, departed home into Englande.</p>
+                     <p>And after this,<note place="marg">Simon Dun. R. Ho<gap extent="+1" unit="letters">
+                              <desc>illegible</desc>
+                           </gap>ed.</note> he ſent Edgar Etheling with an armie into Scotlande,
+                        that he might place his Coſin Edgar the ſonne of king Malcolme in the
+                        gouernment of that Kingdome, and expulſe his vncle Duffnalde whiche had
+                        vſurped in the ſame.</p>
+                     <p>Whileſt King William in
+                        the meane tyme being inflamed with yre that he coulde not haue his
+                           will,<note place="marg">An. reg. <gap extent="2" unit="letters">
+                              <desc>illegible</desc>
+                           </gap> 1098</note> determined with continuall warres to tame the
+                        rebellions ſtomackes of the Welchmen: And firſt to ſet vpon them of
+                        Angleſey, which being an Ile enuironed with the Sea, was euer a refuge for
+                        them, when they were ſharply purſued.</p>
+                     <p>This enterprice was
+                        chiefly committed vnto Hugh Earle of Shrewſburie and Arondell,<note place="marg">Math. Paris.</note> and to Hugh Erle of Cheſter, who at
+                        their firſt comming wanne the Ile, and vſed the victorie wyth great
+                        crueltie, putting out the eyes of ſome, cutting off the noſes, the armes,
+                        or handes of other, and ſome alſo they gelded.</p>
+                     <p>Moreouer (as Authours doe
+                        write) the ſayde Erle of Shrewſburie made a kenell of the church of Saint
+                           Fridancus,<note place="marg">Giral. Camb.</note> laying his houndes
+                        within in it for the night time, but in the morning hee founde them all
+                        raging woode. But how true ſo euer this tale is I knowe not, but ſhortly
+                        after they had committed (in maner as before is ſayd) all kinde of crueltie
+                        in that Ile, it chaunced that a nauie of rouers came thither from the Iles
+                        of Orkney, whoſe chiefe Admirall was one Magnus,<note place="marg">Hugh
+                           Earle of Shrewsburie ſlaine.</note> who encountering with the ſayde Earle
+                        of Shrewſburie, ſhotte him into the ey with an arrow, which part of his
+                        bodie remayned only bare and not armed, ſo that the ſaid Erle fell ſtreyght
+                        wayes dead out of hys ſhippe into the ſea, which when Magnus behelde, he
+                        ſayde ſcornfully in the Daniſhe tongue, <hi rend="italic">leit loupe,</hi> that is, let
+                        him leape nowe: yet the Engliſhe menne had the victorie at that tyme (as
+                        ſome wryte) and chaſed away theyr ennimyes wyth greate ſlaughter and
+                        diſhonour.</p>
+                     <p>
+                        <pb ed="MS" n="685_329"/>
+                        <note place="marg">
+                           <p>Fab. ex Guidone de Columna. Polidor.</p>
+                           <p>An. Reg. <hi rend="bold">12. 1099</hi>
+                           </p>
+                        </note>Soone after alſo, y<hi rend="sup">e</hi> Erle of Cheſter going ouer into Wales, with
+                        long and continuall warres, brought vnder and tamed the wilde and
+                        rebellious Welchmen, who for a good while after durſt not ſhew their faces.
+                        The K. being thus at quietneſſe without warre in all places, began nowe to
+                        ſet his minde on building, and firſte cauſed newe walles to be made about
+                        the Tower of London, and alſo layde the foundation of Weſtminſter Hall,
+                        which though it be a right large and roome-thy <milestone n="10" unit="unspec"/> place, yet after it was finiſhed, and that at his returne
+                        out of Normandy, he came to viewe it, and held his Court therein with great
+                        pomp and honor,<note place="marg">Fabian. Ran. Higd. Mat. Par.</note> he
+                        repented that he had cauſed it to be made no larger, ſaying, it was too
+                        little by the half, and therefore determined to haue made a newe, and that
+                        this other ſhould haue ſerued but for a dining chamber. A diligent ſearcher
+                        (ſaith Math. Paris) mighte yet finde out the foundation of the hall, whiche
+                        he had purpoſed to build, ſtretching from <milestone n="20" unit="unspec"/>
+                        the Thames ſide vnto the common ſtreete. But though thoſe his buildings were
+                        great ornamẽts to the Realme, yet bycauſe that he gathered money of his
+                        ſubiects in moſt greeuous wiſe towards the charges of the ſame, he was euill
+                        ſpoken of in thoſe his beneficiall doings,<note place="marg">Polidor.</note>
+                        the fame being ſpred, that he ſhould take them in hand, but onely vnder a
+                        colour to ſpoyle his ſubiectes in gathering a far greater ſumme than the
+                        expenſes of them did amount vnto.<note place="marg">The reward of euill
+                           men.</note> But ſuch is the reward of euil men, <milestone n="30" unit="unspec"/> that their well doings are either moſt commonly defaced
+                        with ſome notorious faulte, or elſe miſtaken by ſome wrong and enuious
+                           interpretation.<note place="marg">The King goeth ouer into
+                           Normãdy</note> About the ſame time that King William began theſe
+                        buildings, hee wente ouer into Normandy to vnderſtande in what ſtate, that
+                        countrey ſtoode. Aboute the ſame time, or rather two yeare before, to witte
+                        .1097. neere to Abington, At a towne called Finchamſteede in Barkſhire, a
+                        well or fountayne flowed with bloud,<note place="marg">
+                           <hi rend="bold">Finchamſteed</hi> Ran. Higd. Hen. Hunt. Mat. VVeſt. VVil. Mal.</note>
+                        in manner <milestone n="40" unit="unspec"/> as before it vſed to flowe with
+                        water, and this continued for the ſpace of three dayes, or as Wil. Malm.
+                        hath, fifteene dayes togither. After the K. had diſpatched his buſineſſe in
+                        Normandy, and was returned into Englande, it chaunced as hee was making
+                        prouiſion to ride foorth on hunting, a meſſenger came ſuddaynely to hym,
+                        bringyng worde,<note place="marg">Hen. Hunt. Mat. Paris.</note> that the
+                        City of Mans was beſieged, and like to be ſurpriſed. The King was as then at
+                        dinner, meaning firſt to make an end thereof, and <milestone n="50" unit="unspec"/> after to take aduice in that matter: but beeing
+                        reprooued by the meſſenger, that he ſhould in ſuche daunger of his
+                        ſubiectes that were beſieged make any delay, rather than to goe and ſuccour
+                        them; with all ſpeede, he taketh y<hi rend="sup">e</hi> mans raſh language in ſo good parte,
+                        that hee called ſtraighte way for Maſons to breake downe the wall, to the
+                        ende he mighte paſſe through the nexte way, and not bee driuen to ſteppe ſo
+                        farre out of his path, as to goe foorth by the dores and ſo withoute any
+                        long aduiſement taken in the cauſe he rode ſtraight way to the Sea,<note place="marg">VVil. Malm.</note> ſending to his Lordes a commaundemente
+                        to followe, who when they came <gap extent="1" unit="word">
+                           <desc>illegible</desc>
+                        </gap> his preſence, counſelled hym <gap extent="+1" unit="letters">
+                           <desc>illegible</desc>
+                        </gap>o ſtay till his people were aſſembled: but hee woulde not giue eate
+                        to their aduice in that poynte, but ſayd, ſuche as loue mee I knowe well
+                        will folowe me, and ſo went a Shipboorde, ſetting aparte all doubtes of
+                        perils, and yet was y<hi rend="sup">t</hi> weather very darke, rough and clowdy, in ſo muche,
+                        that the maſter of the Shippe was afraide, and counſelled hym to tarry till
+                        the winde might ſettle in ſome quiet quarter: but he commaunded hym to hoyſe
+                        vp ſayles, and to make all the ſpeed that he could for his life,
+                        encouraging hym with theſe wordes, that he neuer heard as yet of anye King
+                        that was drowned.<note place="marg">The ſaying of K. William Rufus.</note>
+                        Thus paſſing the Seas, he landed in Normãdy, <!--<figure n="685" rend="block"/>-->
+                        where he gathered his power,<note place="marg">Mans deliuered from an
+                           aſſeege.</note> and made towards Mans. When thoſe which helde the ſiege
+                        before that Citie, hearde of his approche, they brake vp their campe, and
+                        departed thence: howbeit, the Captaine named Helias,<note place="marg">Helias.</note> that pretended by title and right to be Earle of Mans,
+                        was taken by a trayne, and brought to the Kings preſence, who ieſted at him
+                        as though he had bin but a foole and a Cowarde, wherevppon, the ſaid Helias
+                        kindled in wrath, boldly ſayde vnto him: whereas thou haſt taken me
+                        priſoner, it was by meere chaunce, and not by thy manhoode: but if I were at
+                        libertie againe, I woulde ſo vſe the matter with thee, that thou ſhouldeſt
+                        not thinke I were a man ſo lightly to be laughed at: no ſhould (ſayth y<hi rend="sup">e</hi>
+                        king,) well then I giue thee thy libertie, and goe thy wayes, doe euen the
+                        worſt that lieth in thy power againſt me, for I care not a button for thee.
+                        Helias being thus ſet at libertie, did nothing after to make any accompt of
+                        againſt the Kyng, but rather kepte himſelfe quiet. Yet ſome write,<note place="marg">Hen. Hunt. Polidor.</note> that he was not taken at al, but
+                        eſcaped by flight. But to proceede, King William being returned <pb n="686_330"/> into Englande, and puffed vp with pride of hys victories,
+                        and now ſeeing himſelfe alſo fully deliuered from all troubles of warre,
+                        began after hys olde manner to ſpoyle and waſt the countrey by vnreaſonable
+                        exactions, tributes and paymentes.</p>
+                     <p>
+                        <note place="marg">Variance betwixt the King, and the Archbiſhop
+                           Anſelme.</note>There fel alſo a great cõtrouerſie betwene Anſelme and
+                        the K. who pretended a reproche of his cruell ſurcharging of his commons
+                        with ſubſedies, lones, and vnreaſonable fines: but the chiefe cauſe was,
+                        for that hee mighte not call hys Synodes, <milestone n="10" unit="unspec"/>
+                        nor correct the Biſhops, but as the King would. The King alſo chalenged the
+                        inueſture of Prelates, and indeede ſore taxed both the ſpiritualtie and
+                        temporaltie, ſpending the money vpon the reparations and buildings of the
+                        Tower, and Weſtminſter Hall, as is before remembred. And beſides this, his
+                        ſeruauntes ſpoyled the Engliſhmen of their goodes by vnreaſonable meanes:
+                        but eſpecially one Raulf that was ſometime Chaplayne vnto William the
+                        Conquerroure, and at <milestone n="20" unit="unspec"/> this time, the kings
+                        procurator and collector of his taſkes &amp; ſubſedies, was ſo malitious
+                        and couetous, that in ſtede of two taſkes, he would leuie three, pilling
+                        the rich, and bearing downe y<hi rend="sup">e</hi> pore, ſo that many through his cruell
+                        dealing were oftentimes made to forfeyte their lands for ſmall offences,
+                        &amp; by his meanes diuers Biſhoprickes were bought and ſold, as
+                        playnely as other kinds of merchandiſes,<note place="marg">The Cleargie out
+                           of order.</note> whereby he was had in ſingular fauour with the King. The
+                        Cleargie alſo were <milestone n="30" unit="unspec"/> holden very ſtraightly,
+                        &amp; as I ſuppoſe, not without good cauſe: for ſurely in thoſe dayes
+                        it was farre out of order, not onely by couetous practiſings, but alſo in
+                        all kinds of worldly pompe and vanitie, for they vſed buſſhed and brayded
+                        perukes, long ſide garmentes and very gorgeous, gilte girdels, and gilt
+                        ſpurres, with many other vnſeemely enormities. To be ſhorte, the contention
+                        roſe ſo farre betwixte the K. and Anſelme, who woulde alſo haue corrected
+                        ſuch vices in the <milestone n="40" unit="unspec"/> Cleargie (as ſome write)
+                        that in the ende the Archbiſhop was quite caſt out of fauoure.<note place="marg">Math. Paris.</note> There are which alledge the very firſt
+                        and originall occaſion of their falling out to be,<note place="marg">A
+                           thouſand markes demaunded of Anſelme.</note> for that the Archbiſhop
+                        denyed to pay a thouſand markes of ſiluer at his requeſt: in conſideration
+                        of the Kings great beneuolence ſhewed in preferring him to his See, whereas
+                        the Archbiſhop iudged the offence of Simonie, to reſt as well in giuing,
+                        after his promotion receyued, as if he had bribed him aforehand, &amp;
+                           <milestone n="50" unit="unspec"/> therfore refuſed to make any ſuche
+                           paymente:<note place="marg">Edmerus.</note> but yet (as Eadmerus writeth)
+                        hee offered him fyue hundred pounds of ſiluer, whiche woulde not bee
+                        accepted, for the King was enformed by ſome of his Counſell, that the
+                        Archbiſhop in conſideration of his bounteous liberalitie extended towards
+                        hym, oughte rather to giue him two thouſande poundes, than fiue hundred,
+                        adding, that if hee would but chaunge his countenaunce, and gyue him no
+                        friendly lookes for a while, he ſhould perceiue that Anſelme would adde to
+                        the firſt offer, other fiue hundred pounds. But Anſelme was ſo farre from
+                        being brought to the kings lure with ſuche fetches, that openly to the Kings
+                        face hee told him, that better it ſhoulde be for his maieſtie to receyue of
+                        him a ſmall ſumme granted of him with a free and franke heart, ſo as he
+                        mighte help him eftſoones with more, than to take from him a great deale at
+                        once, without his good will, after ſuche ſorte, as though he were his
+                        bondman. For your grace (ſaith hee) may haue me, and all that mine is, to
+                        ſerue youre turne with friendly beneuolence: but in the way of ſeruitude
+                        and bõdage, you ſhal neither haue me nor mine. With whych words, y<hi rend="sup">e</hi> King
+                        was in a marueilous chaufe, and therewith ſayde in his anger: well then, get
+                        thee home, take that whiche is thine to thy ſelfe, that whiche I haue of
+                        mine owne I truſt will ſuffiſe me. The Archbiſhop beeing on his knees, roſe
+                        heerewith and departed, r<gap extent="+1" unit="letters">
+                           <desc>illegible</desc>
+                        </gap>ioycing in his mynde that the King had refuſed his offer, whereby hee
+                        was deliuered out of ſuſpition to haue bribed the King, and gyuen hym that
+                        money in way of reward for his prefermente to the myter, as of malitious
+                        men woulde happily haue bin conſtrued. Wherevpon beeing after laboured to
+                        double the ſumme, he vtterly refuſed ſo to do, &amp; determining rather
+                        to forſake the Realme than to commit any ſuche offence,<note place="marg">Mat. Paris.</note> made ſuite to the King to haue licence to goe vnto
+                        Rome to fetch his Pall of the Pope. The King hearing the Pope to be
+                           named,<note place="marg">The King could not abide to heare the Pope
+                           named.</note> waxed maruellous angry: for they of Rome began already to
+                        aſke giftes and paymentes, more impudently than they were hitherto
+                        accuſtomed. And as it chanced, there was a ſciſme euen then in the Church,
+                        by reaſon that the Emperour Hẽry had placed a Pope of his owne ſetting vp,
+                        (one named Wibteth, Archbiſhoppe of Rauenna) agaynſte Pope Vrbane: for the
+                        Emperour maineteyned that it belonged to his office only to chooſe and
+                        appoynt what Pope ſoeuer it pleaſed hym.</p>
+                     <p>King Williã therefore
+                        taking occaſion thereof, conceyued diſpleaſure againſt Vrbane, which
+                        withſtoode the emperours pretence, and alledged by the like that no
+                        Archbiſhop or Biſhop within hys Realme, ſhould haue reſpect to the Churche
+                        of Rome, nor to anye Pope, with whome they had nothing to doe, eyther by way
+                        of ſubiection, or otherwiſe, namely ſith the Popes flatly appeared to goe
+                        oute of the ſteppes whiche Peter trode, ſeeking after bribes, lucre and
+                        worldly honor alſo, that they coulde not reteyne the power to loſe and
+                        bynde, which they ſometyme hadde ſince they ſhewed themſelues nothing at all
+                        to followe his moſt vertuous lyfe and holy conuerſation. Hee added
+                        furthermore, that for <pb n="686_331"/> himſelfe <gap extent="+1" unit="letters">
+                           <desc>illegible</desc>
+                        </gap>ithence the conuerſion of the Realme to the Chriſtian faith, he hadde
+                        as great authoritie, franchiſes and liberties within the ſame, as the
+                        Emperour had in his Empire. And what hathe the Pope then to doe (quoth he)
+                        in the Empire or in my Kingdome touching temporal liberties, to whome onely
+                        it belongeth to bee carefull for the ſoule of man, and where hereſies ſpring
+                        vp, if the Prelates of the prouince or Countrey be not able to reforme the
+                        ſame, then might the Pope ſeke <milestone n="10" unit="unspec"/> redreſſe
+                        thereof, eyther by hymſelfe or by hys Legates. And againe, by reaſon of the
+                        ſciſme, and for y<hi rend="sup">e</hi> diſpleaſure that he bare towards Pope Vrbane,<note place="marg">
+                           <hi rend="bold">Eadmerus.</hi> The Kings demaund to Anſelme.</note> he aſked of
+                        Anſelme of which Pope he wold require his Palle, ſith hee was ſo haſty to
+                        goe to Rome for it: to whiche demaund Anſelme aunſwered, that of Pope
+                        Vrbane he woulde require it. The which when the Kyng heard, he ſayde, I haue
+                        not as yet receyued him for Pope, and that it was againſte the cuſtome vſed
+                        eyther in hys <milestone n="20" unit="unspec"/> time, or in his fathers
+                        time, that any man within the Realme of England, ſhould name or obey any
+                        man for Pope, without the Kings licence and conſent, ſaying moreouer, that
+                        if the ſayd Anſelme would ſeke to take that prerogatiue and dignitie from
+                        him, it ſhould be all one, as if he ſhould goe about to take away from him
+                        his Crowne and all other regall dignitie. Wherevnto Anſelme aunſwered, that
+                        at Rocheſter before hee was ſacred Biſhop he had declared his minde therein,
+                        that being Abbot of Bechellouin in Normandy, he had receyued Vrbane for
+                        Pope, and therefore whatſoeuer chaunced, he might not goe frõ hys obedience
+                        and ſubiection promiſed to hym.</p>
+                     <p>The King beeing yet
+                        further kindled heerewith proteſted in playne wordes, that Anſelme could
+                        not both keepe his fayth and allegiance towards him, and alſo his obedience
+                        to the See of Rome, againſt his will and pleaſure. But to cõclude, this
+                        matter wente ſo farre in controuerſie betwixt the King and the Biſhop, that
+                        a Counſell was called at Rockyngham in Rutlandſhire, and there in the
+                        Church within the Caſtell,<note place="marg">A counſell at Rockingham in
+                           Rutland+ſhire.</note> the matter was earneſtly debated, and muche adoe
+                           <!--<figure n="686" rend="block"/>--> was made on euery ſide, to haue
+                        conſtreyned Anſelme to renounce his opinion, but hee would not. Wherefore it
+                        was then deuiſed, that if hee woulde not agree to the Kings pleaſure, they
+                        would by and by ſee if they mighte in anye wiſe depriue him: but ſtill
+                        Anſelme helde hard, and coulde not bee feared by all theſe threats, and in
+                        like manner to iudge of an Archbiſhops cauſe, the other Biſhops concluded
+                        that they had no authoritie. <milestone n="50" unit="unspec"/>
+                     </p>
+                     <p>Moreouer, while the
+                        matter was in conſultation among the Biſhops, another of the Kyngs Counſel
+                        a Knight came before Anſelme in place where hee ſate almoſt alone to looke
+                        for an aunſwere by them from the Kyng, whiche Knyghte kneeling downe before
+                        the Archbiſhop, ſpake theſe words vnto him: Reuerend father, your humble
+                        children beſech your grace not to haue your heart troubled with theſe things
+                        whiche you heare, but call to remembrance that bleſſed man Iob, vanquiſhing
+                        the Deuill on the Dounghill, and reuenging Adam whome he had ouercome in
+                        Paradice. Which words the Archbiſhop cõſideryng with a friendly
+                        countenance, perceyued that the mindes of the people remayned on his ſyde,
+                        wherof both he and ſuch as were about him, were right ioyfull and greatly
+                        comforted, hauing a cõfidence according to the Scripture, that the voyce
+                        of the people was the voyce of God. When the King vnderſtood all theſe
+                        things, he was maruellouſly diſquieted in his mind, and therfore
+                        perceiuing that the Biſhops and other of hys counſell had promiſed more
+                        than they coulde performe, blamed them for it: vnto whome the Biſhoppe of
+                           <pb n="687_332"/> Durham that was the chiefe doer in thys matter, ſhaped
+                        thys aunſwere: hee ſpake ſo fayntly (quoth hee) and ſo coldly at the fyrſt,
+                        that he ſeemed not to haue any ſtore of wit or wiſedome at all.</p>
+                     <p>Finally, the matter was
+                        deferred vntill the next morning, and then the ſayd Biſhop of Durham
+                        alledging that they coulde not well ouercome hym by argumentes, ſo long as
+                        he grounded hys opinion in ſuche wiſe vpon the ſcripture, <milestone n="10" unit="unspec"/> and the authoritie of Saint Peter, The beſt way therefore
+                        (ſayde hee) ſhall bee, to compell hym by force, eyther to agree to the Kyngs
+                        mynde, or elſe to depriue hym of hys Ring and ſtaffe, and after baniſh hym
+                        the Realme: but the Lordes of the Counſell allowed not the Biſhops wordes
+                        heerein: wel ſayth the King, and what other way will you thynke good, if
+                        thys lyke you not: ſo long as I may lyue, I will not ſurely ſuffer any to be
+                        my peere within my Realme: and if you knewe <milestone n="20" unit="unspec"/> hys cauſe to be ſo good, why dyd you ſuffer mee to begynne thys action
+                        agaynſte hym: goe youre wayes therefore, and take aduice togyther, for by
+                        Goddes face (for that was hys othe) if you condemne hym not at my will, I
+                        will reuenge my ſelfe vpon you, but when hee was enformed that bycauſe hee
+                        was an Archbiſhop, they had no power to iudge or condemne hym, though his
+                        cauſe prooued neuer ſo euill, whiche they could not perceyue ſo to be. He
+                        tolde them yet they mighte at <milestone n="30" unit="unspec"/> the
+                        leaſtwiſe renounce their obedience to him, and forſake hys company, which
+                        they ſaid they might do. Then do it (ſayth the King) with ſpeede, that hee
+                        may when hee ſhall ſee hymſelfe abandoned, and deſpiſed of all men, repent
+                        that hee hathe followed Vrbane, and neglected mee his ſoueraigne Lorde and
+                        maſter. And that yee may doe it the more ſafely, I firſte of all doe depriue
+                        hym of the ſuretie and allegiance whiche he may pretende to haue of me
+                        within all my dominions,<note place="marg">The King renounceth the
+                           Archbiſhop for his ſubiecte.</note> and from <milestone n="40" unit="unspec"/> hencefoorth I will haue no affiance in hym, nor take hym
+                        for an Archbiſhop.</p>
+                     <p>The Biſhops woulde fayne
+                        haue perſwaded Anſelme to haue ſhewed himſelfe conformable to the Kyngs
+                        pleaſure, and therefore trauelled with hym earneſtly in that behalfe, but
+                        all woulde not ſerue: hee anſwered indeede very curteouſly, but hys benefice
+                        he would not renounce, as touching the name and office, though in exterior
+                        thyngs he were neuer ſo muche diſquieted. The King perceyuing <milestone n="50" unit="unspec"/> hym to ſtande ſtiffe in hys opinion, ſayd vnto hys
+                        Lordes, his words are euer contrary to my mynde, and I will not take hym for
+                        my friende whoſoeuer doth fauour hym.</p>
+                     <p>I ſhall therefore require
+                        you that bee peeres of my Realme, to renounce all the fayth and
+                        friendſhippe whyche you beare hym, that hee maye ſee what hee hath gayned
+                        by that allegiance, whyche to the offending of my pleaſure hee obſerueth to
+                        the Apoſtolike See. The Lords aunſwered herevnto: As for vs, we were neuer
+                        hys menne, and therefore cannot we abiure any fealtie whiche we neuer
+                        acknowledged. He is oure Archbiſhop, and hath the gouernaunce of matters
+                        perteynyng to the Chriſtian religion within this lande, and for that cauſe,
+                        we which are Chriſtians, may not refuſe hys authoritie whyleſt we remayne
+                        heere on earthe, namely, ſyth there is no blemiſhe of haynous crime that
+                        toucheth hym, whyche may conſtreyne vs otherwiſe to doe. The Kyng refrayned
+                        to declare hys wrath, leaſt he ſhould prouoke them further to diſpleaſure
+                        by ſpeakyng againſt theyr reaſon.<note place="marg">The Biſhops driuen to
+                           their ſhiftes how to ſhape an anſwere.</note> The Biſhops were greatly
+                        abaſſhed heerewith, and were broughte to a ſhrewde pinche. When immediately
+                        after, the Kyng required to know of euery of them a part, whether they
+                        vtterly renounced all manner of ſubiection and obedience vnto Anſelme
+                        withoute any condition intermitted, or elſe that only whiche hee did
+                        pretende by authoritie of the Pope. When the Byſhoppes did aunſwere
+                        heerevnto diuerſly, the Kyng appoynted thoſe to ſitte downe by hym as
+                        faythfull ſubiects, whyche acknowledged that theyr renunciation was
+                        abſolutely made, withoute intermittyng of anye manner of condition: but the
+                        other whyche proteſted that they renounced theyr ſubiection and obedience
+                        vnto hym, but onely in that whyche hee preſumed vppon the behalfe of the
+                        Pope, hee commaunded them aſyde, to remayne in a corner of the houſe to
+                        heare the ſentence of their condemnation pronounced againſt them.</p>
+                     <p>They therefore beeyng
+                        putte in a maruellous feare, gote them aſyde, but yet ſtrayghte wayes they
+                        deuiſed a ſhifte whyche they hadde beene well acquainted withall
+                           before,<note place="marg">The meane to pacifie the King.</note> that is
+                        to witte, they preſented to the Kyng a greate maſſe of money to appeaſe hys
+                        wrathe, and ſo thereby they were reſtored to hys fauoure.<note place="marg">The ſtiffenes of Anſelme in withſtanding the Kings pleaſure.</note>
+                        Anſelme notwithſtandyng ſtoode ſtill ſtiffe in hys opinion, ſo that in the
+                        ende when no other way coulde be hadde, the ſentence touching this
+                        controuerſie betwixt hym and the King, was reſpited till the Octaues of
+                        Pentecoſt nexte enſuing. All whyche thyngs were notifyed well ynough to the
+                           Pope,<note place="marg">Math. Paris.</note> who lyke a wary Prelate vſed
+                        the matter with ſuche moderation, that by ſecrete aduertiſementes gyuen, hee
+                        tooke away from hys breethren all rigorous wayes of proceedings, ſaying,
+                           <hi rend="bold">Dum furor in curſu est, currenti cede furori,</hi> but the Kynges
+                        enmitie towardes Anſelme was openly declared, and that chiefly for the
+                        denyall of the money <pb ed="MS" n="687_333"/> which he demaunded, &amp;
+                        at length gote it, though not with any free beneuolent will of the
+                        Archbiſhop, in ſomuch that he was reputed of the Kyng giltie of
+                           treaſon.<note place="marg">The Biſhop of Alba reconcileth the Pope to
+                           the Kings fauour.</note> But within a few dayes after, Walter the Biſhop
+                        of Alba bringing to him hys Palle, with wiſdome reconciled the Pope to the
+                        Kings fauour: albeit Anſelme yet could not purchaſe throughly the Kings
+                        good will, though hee wiſely diſſembled for the time: and when the Byſhop
+                        of Alba ſhould returne vnto Rome, he made <milestone n="10" unit="unspec"/>
+                        ſute to haue licence to goe with him, but for aunſwere the Kyng offered
+                        hym, that if hee woulde leaue off his purpoſe, and ſweare vpõ the
+                        Euangeliſts neyther to goe to Rome; nor to appeale in any cauſe to the
+                        Popes Court, he mighte lyue in quietneſſe and reſt out of all daunger: but
+                        if hee would not be ſo contented, he might depart at his perill, without
+                        hope to returne hither agayne, for ſurely (ſaith he) if he goe I will ſeaſe
+                        the Archbiſhopricke into myne owne handes,<note place="marg">Edmerus.</note> and receyue <milestone n="20" unit="unspec"/> him no
+                        more for Archbiſhop. Anſelme heerewith departing from the Court, came to
+                        Canterbury, declaring openly what had bin ſayde vnto hym, and immediately
+                        ſought to flee out of the Realm in the night, prouiding for hymſelfe a
+                        Shippe at Douer. But hys purpoſe being reuealed to the King,<note place="marg">Fabian.</note> one William Warlewaſt that was the Kings
+                        ſeruaunte, was ſente after hym, and finding hym ready to departe, tooke
+                        from hym all that he had, and after permitted hym to keepe on <milestone n="30" unit="unspec"/> his iourney, who repayring to Rome, made vnto Pope
+                        Vrbane a greeuous information agaynſte the Kyng,<note place="marg">
+                           <hi rend="bold">Math. Paris.</hi> Anſelme comming to Rome compleyneth of the
+                           King.</note> declaring into what miſerable ſtate he had brought the
+                        Realme, and how that for want of aſſiſtance in his Suffraganes it lay not in
+                        him to reforme the matter. Indeede we finde not that any of the Biſhops held
+                        with Anſelme in the cõtrouerſie betwixt hym and the Kyng, except Ranulph
+                        Biſhop of Chicheſter, who both blamed y<hi rend="sup">e</hi> King, and alſo rebuked all ſuch
+                        Biſhops as had <milestone n="40" unit="unspec"/> refuſed to ſtand with
+                        Anſelme, and fauoured the King in cauſes concerning the foreſaid variance.
+                           Moreouer,<note place="marg">Ranulf Biſhop of Chicheſter.</note> the ſame
+                        Biſhop of Chicheſter withſtoode the King and his officers in taking of
+                        fines of Prieſtes for the crime of fornication, by reaſon of which
+                        preſumption, the King became ſore offended with hym, and obteyned ſuch
+                        fauour, that he founde meanes to ſuſpend many Churches of his dioceſſe, but
+                        yet in the ende, the Biſhoppe demeaned himſelfe in ſuche wiſe, that he
+                        hadde hys <milestone n="50" unit="unspec"/> owne will, and hys Churche dores
+                        were opened agayne, that before were ſtopped with thornes. And further,<note place="marg">Fines of Prieſts that had wiues as by ſome writers it
+                           ſeemed. <hi rend="bold">Polidor.</hi>
+                        </note> the King was contented, that the ſayde Biſhop ſhould haue the fines
+                        of Prieſtes in crimes of fornication within his dioceſſe, and enioy many
+                        other priuileges in right of his church. But how beneficiall ſo euer he was
+                        vnto the Sea of Chicheſter, troth it is (as Polidor writeth) that he let
+                        foorthe dyuers Abbeyes, and the reuenewes of the Biſhoprickes of Wincheſter
+                        and Saliſburie, and alſo of the Archbiſhopricke of Canterbury vnto
+                        certayne perſons that fermed the ſame at his handes for greate ſummes of
+                        money, in ſo muche, that beſide the ſayd Biſhopricks of Canterbury,
+                        Wincheſter, and Saliſburie, whiche at the tyme of his death he held in his
+                        hands, he alſo receyued the profites of .11. Abbeyes which he had let to
+                        ferme, or otherwiſe vſed to his moſt aduantage.</p>
+                     <p>Roberte Loſaunge, of ſome
+                        called Herbert,<note place="marg">
+                           <hi rend="bold">Robert Loſaunge.</hi> Ran. Higd. VVil. Malm.</note> y<hi rend="sup">t</hi> ſometime
+                        hadde bin Abbot of Ramſey, and then Biſhop of Thetford by gift of a
+                        thouſande poũds to the King (as before yee haue hearde) repented him alſo
+                        for y<hi rend="sup">t</hi> he was inueſted by the K. And after he had <gap extent="+1" unit="letters">
+                           <desc>illegible</desc>
+                        </gap>ewayled his offence, he wẽt to Rome in like manner, and dyd for the
+                        ſame all ſuche penance as the Pope enioyned hym. Whiche beeing done, hee
+                        returned into Englande, remouing ere long his See from Thetforde to Norwiche
+                        where he founded a faire Monaſterie of his owne charges, and not of y<hi rend="sup">t</hi>
+                        Churches goodes (as ſome ſay) but therein is a doubt, conſidering hee was
+                        firſt an Abbot, and after a Biſhop.</p>
+                     <p>About this time
+                           alſo,<note place="marg">Stephan Harding a Monke</note> by the meanes of
+                        Stephan harding a Monke of Shireborne, an Engliſhman, <gap extent="1" unit="word">
+                           <desc>illegible</desc>
+                        </gap> order of Eaſteaux or white Monkes had his beginning within the
+                        countrey of Burgongne, as witneſſeth Ranulph the Monke of Cheſter: <gap extent="1" unit="word">
+                           <desc>illegible</desc>
+                        </gap> other writers,<note place="marg">Ran. Higd. Iac<gap extent="+1" unit="letters">
+                              <desc>illegible</desc>
+                           </gap>bus Philippus Bergomas.</note> (as Iacobus Philippus ſay) that
+                        this Stephan was the ſeconde Abbot of that place, and that it was founded
+                        by one Roberte Abbot of Molmenſe in the yere of grace 1098. This order was
+                        after broughte into England by one called Walter Eſpeke, who founded the
+                        firſte Abbey of that Religion within thys Realme at Riuall about the yeare
+                        of grace .1131. But to returne againe to the Kyng,<note place="marg">
+                           <hi rend="bold">An. Reg.</hi> 13. 1100</note> hee ſtill continued in his wilfull
+                        couetouſneſſe, pullyng from the riche, and thoſe that hadde any thing, to
+                        waſt and ſpend it out in all exceſſe, vayne riot, and giftes beſtowed on
+                           <gap extent="1" unit="word">
+                           <desc>illegible</desc>
+                        </gap> had leaſt deſerued the ſame.<note place="marg">The Kings lauiſh
+                           prodigalitie.</note> And yet hee was warned by many ſtraunge wonders
+                        (as the common people did interpretate) to refray<gap extent="2" unit="letters">
+                           <desc>illegible</desc>
+                        </gap> from ſuch euill doyngs: for the Thames did riſe with ſuch high
+                        ſprings and tides, that many townes were drowned,<note place="marg">Strange
+                           wonders. <hi rend="bold">VVil. Mal.</hi>
+                        </note> and muche other hurt done in places about London, and elſewhere,
+                        Dyuers other things happened alſo the ſame time, whiche I paſſe ouer. But
+                        the King hearing heereof, did nothing regard them, that were ſo bolde as to
+                        tell hym that they were euidente tokens, ſignifying ſome vengeaunce to
+                        follow vpon the <gap extent="1" unit="word">
+                           <desc>illegible</desc>
+                        </gap>. He himſelf alſo on a night as hee <gap extent="1" unit="word">
+                           <desc>illegible</desc>
+                        </gap> and dreamed,<note place="marg">
+                           <hi rend="bold">A dreame.</hi> Math. VVeſt. VVil. Malm.</note> hee thoughte that the
+                        veynes of hys armes were broken, and that the bloud iſſued out in great
+                        abundance. Lykewiſe, <pb n="688_334"/> he was told by Robert Fitz Hamõ,
+                        that a Mõke ſhould dreame in his ſleepe, how he ſaw the king gnawe with his
+                        teeth the image of Chriſt crucified, and that as hee was about to teare
+                        with hys teeth the legges of the ſame Image, Chriſt with his feete ſhould
+                        ſpurne him downe to the ground, and as hee lay ſo on the earthe, there came
+                        out of his mouth a flame of fyre, and ſuch abundance of ſmoke, that the ayre
+                        was darkned therewith. But the Kyng made a ieſt of theſe and the lyke
+                           <milestone n="10" unit="unspec"/> tales. He is a right Monke (ſayth he)
+                        and to haue a peece of money, he dreameth ſuch things, gyue him therefore an
+                        hundred Shillings, and bid him dreame of better fortune to our perſon. Yet
+                        was the King ſomewhat moued herewith, and doubtfull, whether he ſhoulde goe
+                        into the new Forreſt to hunt on Lammas day as he had already purpoſed, or
+                        no, bycauſe hys friendes counſelled hym not to trie the trouth of dreames to
+                        his own loſſe and hinderaunce, wherevppon hee forbare to goe <milestone n="20" unit="unspec"/> foorth before dynner, but after hee had dyned and
+                        made himſelfe merrie with receyuing more drinke than commonly he vſed to
+                        doe, abroade he got hym into the Forreſt with a ſmall company aboute hym:
+                        and amongſt other was one Sir Walter Tirrell a Frenche Knighte,<note place="marg">Sir Walter Tirell.</note> whome hee had reteyned in ſeruice
+                        with large ſtipend. Thys Sir Walter chaunced to remayne with y<hi rend="sup">e</hi> King, when
+                        all the reſt of the company was diſperſed here and there, as the manner in
+                        hunting is, and now as the ſunne began to draw lowe, the King perceyuing an
+                        Hart to come alongſt by hym, hee ſhot at the ſame, and with hys arrow ſtroke
+                        him, but not greatly hurting hym, hee fledde away. The Kyng alſo to marke
+                        whiche way the Hart tooke, and the manner of hys hurte, caſt vp his hand to
+                        ſhadow the ſunne from daſeling on hys eyes, and as he ſtoode in that ſorte,
+                        foorth came another Hart, at the which as Sir Walter Tirrell let driue an
+                        arrow, the ſame by glauncing ſtroke the King into the breſt, ſo that hee
+                        neuer ſpake worde,<note place="marg">The Kyng ſlayne.</note> but breaking
+                        off ſo much of the arrow as appeared out of his body, hee fell downe, and
+                        gyuing only one grone, immediately dyed, without <!--<figure n="688" rend="block"/>--> more noyſe or mouing. Sir Walter running to him, and
+                        perceyuing no voyce nor ſenſe to remayne in hym, ſtraight wayes gote to his
+                        Horſe, and riding away, eſcaped and ſaued himſelfe: for few there were that
+                        purſued him, euery man beeing amaſed at the chaunce: and ſome departyng one
+                        way, and ſome another, to ſee to their owne aduauntage and commoditie, as
+                        the tyme then ſerued. The dead body of the King was ſtraighte <milestone n="50" unit="unspec"/> conueyed to Wincheſter, and there buryed y<hi rend="sup">e</hi>
+                        morow after, which was the ſecond day of Auguſt, the yere of our Lord
+                        .1100.</p>
+                     <p>
+                        <note place="marg">VVil. Malm.</note>To this ende came K. William, after he
+                        had reigned almoſt .13. yeres, and liued .4<gap extent="+1" unit="letters">
+                           <desc>illegible</desc>
+                        </gap>. and ſomewhat more. And though this Prince bee euill reported of by
+                        writers for the couetous taſ<gap extent="+1" unit="letters">
+                           <desc>illegible</desc>
+                        </gap>ing of his ſubiects, and namely for reteyning of eccleſiaſtical
+                        linings in his hands, yet was he endowed with many noble and princely
+                        qualities: he hadde good knowledge in the feates of warre, and could well
+                        endure trauaile and bodily labour. In al his affayres he was circumſpect
+                        inough, ſtedfaſt and ſtable of promiſe, and in his warres no more diligent
+                        than fortunate. He gaue to the Monkes called <hi rend="italic">monachi de charit<gap extent="+1" unit="letters">
+                              <desc>illegible</desc>
+                           </gap>te</hi> in Southwarke, y<hi rend="sup">e</hi> greate new Church of S. Sauiour of
+                        Bermõdſay, and alſo Bremõds eye it ſelfe. He alſo foũded a goodly
+                        Hoſpitall in the Citie of Yorke, called S. Leonards, for the ſuſtentation
+                        and finding of the pore as well breethren as ſyſters. Towardes Souldiers
+                        and men of warre he was very liberall, and to enrich them, he paſſed not to
+                        take from Fermors and huſbandmen what ſoeuer could be gottẽ. Hee was
+                        indeede of a prodigall nature, and therefore <pb n="688_335"/> when in the
+                        beginning of his raigne, doubtyng ſome troubles, he hadde aſſembled togither
+                        many men of war for his defence, there was nothyng y<hi rend="sup">t</hi> they could aſke which
+                        he would deny to them, in ſo much, that his fathers treaſures were ſoone
+                        cõſumed, by reaſon whereof he was put to his ſhifts to prouide more: for
+                        though ſubſtance wanted to ſhew his liberalitie, yet there wanted not in hym
+                        a mind ſtill to be bountifull, for the continual vſe of giuing rewards, was
+                        in manner turned in him <milestone n="10" unit="unspec"/> to a nature,<note place="marg">The liberall hart of Kyng William.</note> ſo that to furniſh
+                        himſelfe of money &amp; other things, and to beſtow of ſome, he was
+                        driuen to take from other: for in ſuch ſort he was liberall, that
+                        therewith he was prodigall, and ſo of a ſtout courage as proude withall, and
+                        in ſuche wiſe ſeuere, as hee ſeemed alſo cruell and hard to be entreated. In
+                        what maner he vſed to make hys beſt of benefices and ſpirituall liuings, it
+                        partly before appeareth. In deede ſuch was his conditiõ, that who ſoeuer
+                        woulde giue, might haue, &amp; that <milestone n="20" unit="unspec"/>
+                        oftentimes withoute reſpect, whether their ſute was reaſonable and allowable
+                        or not, in ſomuch, that it is tolde of him,<note place="marg">Iewes.</note>
+                        that beeing in Roan one tyme, there came to hym dyuers Iewes whyche
+                        inhabited in that Citie, complayning to him, that diuers of their nation had
+                        renounced their Iewiſh Religion, and were become Chriſtians, wherefore they
+                        beſought him, that for a certaine ſumme of money whiche they offered to
+                        gyue, it myghte pleaſe him to conſtreyne them to abiure Chriſtianitie,
+                           <milestone n="30" unit="unspec"/> and turne to the Iewiſh law againe: hee
+                        was contented to ſatiſfie their deſires, and ſo receiuing the money, called
+                        them afore him, &amp; what with threats and putting thẽ otherwiſe in
+                        feare, he conſtreyned dyuers of them to forſake Chriſt, and returne to their
+                        old errors. Ther was alſo about the ſame time a yong man a Iew, the which
+                        by a viſion appearing vnto him (as is ſaide,) was conuerted to the Chriſtian
+                        faith, and beeing baptiſed, was named Stephan, bycauſe S. Stephan
+                           <milestone n="40" unit="unspec"/> was the man that had appeared to him in
+                        the viſion, as by the ſame he was enformed. The father of hym being fore
+                        troubled in that his ſonne was thus become a Chriſtian, and hearing what the
+                        King had done in ſuch like matters, preſented to him .60. markes of ſiluer,
+                        vpõ condition he ſhould compell his ſonne to returne to his Iewiſh
+                        Religion. Herevpon was the yong man broughte before the K. vnto whome the
+                        K. ſaid, Sirra, your father here complayneth that without his licence
+                           <milestone n="50" unit="unspec"/> ye are become a Chriſtian: if this be
+                        true, I commaund thee to returne againe to the Religion of your natiõ,
+                        without any more adoe: vnto whom the yong man anſwered, your grace as I
+                        ſuppoſe doth but ieſt: wherewith the K. bring moued ſaid, what thou dunghill
+                        knaue ſhuld I ieſt with thee, get thee hence quickly, and fulfill my
+                        commaundement, or by S. Lukes face I ſhall cauſe thyne eyes to be plucked
+                        out of thine head: the yong mã nothing abaſſhed therewith, with conſtant
+                        voyce aunſwered, truly I will not do it, but know for certaine, that if you
+                        were a good Chriſtian man,<note place="marg">An anſwere of a good
+                           Iewe.</note> you would neuer haue vttered any ſuch wordes, for it is the
+                        part of a Chriſtian to reduce them again to Chriſt, which be departed from
+                        hym, and not to ſeparate them from him which are ioyned to him by faith. The
+                        K. herewith cõfounded, cõmanded the Iew out of his ſighte: but his father
+                        perceyuing that the king coulde not perſwade his ſonne to forſake the
+                        Chriſtian faith, hee required to haue his money againe, but the K. ſaid, he
+                        had done ſo much as hee promiſed to doe, that was, to perſwade him ſo far as
+                        he might. At length when he would haue had the K. to haue dealt further in
+                        the matter, y<hi rend="sup">e</hi> K. to ſtop his mouth, returned back to him the one halfe of
+                        his money,<note place="marg">A prety deuiſion.</note> and reteyned y<hi rend="sup">e</hi>
+                        other halfe. Moreouer, to encreaſe the ſuſpition which mẽ had of his
+                        infidelitie, it is written,<note place="marg">King Williã ſuſpected of
+                           infidelitie.</note> that he cauſed a diſputatiõ to be kept betwixt y<hi rend="sup">e</hi>
+                        Iewes and the Chriſtians, promiſing that if the Iewes ouercame y<hi rend="sup">e</hi>
+                        Chriſtians in argument, he woulde turne to their ſide: but y<hi rend="sup">e</hi> Iewes being
+                        ouercome, and receyuing the foyle, would not confeſſe theyr errors, but
+                        alleadged, that by factions and not by reaſon, they wer put to the worſe.
+                        But what opinion ſoeuer he had of the Iewes fayth,<note place="marg">Edmerus</note> it appeareth by writers that he doubled in many poyntes
+                        of the Religion then in credite, for hee ſticked not to proteſt openly that
+                        hee beleeued there was no Saint could profit any man in the Lords ſight, and
+                        therefore neyther woulde he nor any other y<hi rend="sup">t</hi> was wiſe (as he affirmed) make
+                           interceſſion,<note place="marg">Praying to Saincts. His ſtature. Whereof
+                           he tooke his ſurname Rufus.</note> either to Peter, or to any other for
+                        helpe. He was of ſtature not ſo tall as the common ſort of men, redde of
+                        heare, whereof hee tooke his ſurname Rufus, ſomewhat groſſe in the wombe,
+                        and not ready of tong, ſpecially in his anger, for then vnneth could he
+                        vtter a ready word, hee dyed withoute iſſue, vſing Concubines all the dayes
+                        of hys lyfe. I find that in apparel he loued to be gay and gorgeous, and
+                        coulde not abide to haue anye thing that hee ware eſteemed at ſmall
+                           valure,<note place="marg">VVil. Malm.</note> in ſo muche that one morning
+                        when he ſhould pull on a new paire of hoſe, hee aſked the groome of his
+                        chamber that brought them to him what they coſt, three Shillings ſaith he,
+                        why thou <gap extent="1" unit="word">
+                           <desc>illegible</desc>
+                        </gap> reſon ſayd the Kyng, doth a payre of hoſe of three Shillings price
+                        become a Kyng to weare, got thy wayes and feted me a payre that ſhall coſt
+                        a marke of <gap extent="1" unit="word">
+                           <desc>illegible</desc>
+                        </gap>. The grome went, and brought him an other paire, for y<hi rend="sup">e</hi> which he
+                        paid ſcarcely ſo much as y<hi rend="sup">e</hi> other coſt, but when the K. aſked what they
+                        ſtood him in, he told him they coſt a marke, &amp; th<gap extent="+1" unit="letters">
+                           <desc>illegible</desc>
+                        </gap> was he well ſatiſfied &amp; ſaid, yea mary, theſe are more <gap extent="2" unit="letters">
+                           <desc>illegible</desc>
+                        </gap>ter for a K. to weare, and to drew them vpon his legges.</p>
+                     <p>In this king days Iohn
+                        biſhop of Welles ioyned <pb ed="MS" n="689_336"/> the monaſterie of Bathe
+                        vnto his ſea, &amp; repai+ring the ſame monaſterie, began to inhabite
+                        there in the yere .1094. alſo the Churche of Couentry was in like ſort
+                        ioyned vnto the ſea of Cheſter by Robert biſhop of that dioceſſe.<note place="marg">Couentrie Church ioined to the See of Cheſter.</note>
+                        Wulſtan biſh. of Worceſter died aboute the ſame tyme, and Anſelme hauing
+                        purchaſed bulles of Pope Paſcall, wherin was cõteined an admonition vnto
+                        King William to deſiſt from his grieuous oppreſſing the churche, &amp;
+                        to amende his former doings, was <milestone n="10" unit="unspec"/> now on
+                        his returne towards England, when by y<hi rend="sup">e</hi> way he heard of the kings death.
+                        Hugh earle of Cheſter in this kings dayes builded the Abbey of Cheſter, and
+                        procured Anſelme that was after archbiſhop of Canterbury to come ouer foorth
+                        of Normãdie, that he might direct the ſame abbey, and place ſuch religious
+                        perſons as were neceſſarie for the purpoſe of that foũdation. Long it was
+                        ere Anſelme wold come ouer, bicauſe he doubted to be ſuſpected of an
+                        ambicious deſire to ſeke to be made Archbiſhoppe of Caunterbury, for it was
+                        talked y<hi rend="sup">t</hi> if he went ouer into England, he ſhould ſurely be elected before
+                        he returned into Normãdie: but at length ſo it chaunced, that the forſayd
+                        Hugh erle of Cheſter fel ſick, and diſpairing of life ſent with all ſpeede
+                        vnto Anſelme, requiring him moſt inſtantly to come ouer vnto him, lying in
+                        y<hi rend="sup">e</hi> extremitie of ſickneſſe, that if hee haffed not the ſooner, it would be
+                        too late, wherof he would after repent him. Then Anſelme for that he might
+                        not fayle hys friend in ſuch neceſſitie, came ouer, and gaue order to the
+                        Abbey, according to that that ſeemed beſt to him for eſtabliſhmente of
+                        Religion there.</p>
+                     <!--<p>
+                        <figure n="689" rend="block"/>
+                     </p>-->
+                  </div>
+      </body>
+  </text>
+</TEI>
