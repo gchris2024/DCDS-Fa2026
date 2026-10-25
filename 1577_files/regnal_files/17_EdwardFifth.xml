@@ -1,0 +1,2081 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="https://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The firste [laste] volume of the chronicles of England, Scotlande, and Irelande
+               conteyning the description and chronicles of England, from the first inhabiting vnto
+               the conquest : the description and chronicles of Scotland, from the first original of
+               the Scottes nation till the yeare of our Lorde 1571 : the description and chronicles
+               of Yrelande, likewise from the first originall of that nation untill the yeare 1571 /
+               faithfully gathered and set forth by Raphaell Holinshed.</title>
+            <author>Holinshed, Raphael, d. 1580?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1577</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16408 KB of XML-encoded text transcribed from 1493 1-bit group-IV TIFF page
+            images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2009-10">2009-10 (EEBO-TCP Phase 1).</date>
+            <idno type="DLPS">A03448</idno>
+            <idno type="STC">STC 13568B</idno>
+            <idno type="STC">ESTC S3985</idno>
+            <idno type="EEBO-CITATION">34382662</idno>
+            <idno type="OCLC">ocm 34382662</idno>
+            <idno type="VID">29044</idno>
+            <availability>
+               <p>This keyboarded and encoded edition of the work described above is co-owned by the
+                  institutions providing financial support to the Early English Books Online Text
+                  Creation Partnership. This Phase I text is available for reuse, according to the
+                  terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Creative
+                     Commons 0 1.0 Universal</ref>. The text can be copied, modified, distributed
+                  and performed, even for commercial purposes, all without asking permission.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 1, no. A03448)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29044)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1897:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The firste [laste] volume of the chronicles of England, Scotlande, and
+                     Irelande conteyning the description and chronicles of England, from the first
+                     inhabiting vnto the conquest : the description and chronicles of Scotland, from
+                     the first original of the Scottes nation till the yeare of our Lorde 1571 : the
+                     description and chronicles of Yrelande, likewise from the first originall of
+                     that nation untill the yeare 1571 / faithfully gathered and set forth by
+                     Raphaell Holinshed.</title>
+                  <author>Holinshed, Raphael, d. 1580?</author>
+               </titleStmt>
+               <extent>2 v. (ca. 2969 p.in various pagings) : ill. </extent>
+               <publicationStmt>
+                  <publisher>Imprinted for Iohn Hunne,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1577.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes indexes.</note>
+                  <note>Title printed within ornamental border.</note>
+                  <note>The second volume has title: The laste volume of the chronicles of England,
+                     Scotlande, and Irelande, with their descriptions.</note>
+                  <note>Errata: 2 p. at end of v.1; 4 p. at end of v.2.</note>
+                  <note>Imperfect: tightly bound and with print show-through.</note>
+                  <note>Signatures: V. 1: [par.]⁶, A-Q⁸, r¹, a-s⁸, t¹, A², *b*², *a*- *b*⁶, A-2J⁸,
+                     2K⁴, 2L-2M⁶, [fleuron]² A-C⁸, D⁴, A-D⁸, E⁵, F-G⁸, H⁶, I³; V. 2: [par]², t²⁻⁸,
+                     v-z⁸, A-4Z⁸, A-N⁴.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl, TEI @ Oxford. </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the
+               publisher ProQuest to create accurately transcribed and encoded texts based on the
+               image sets published by ProQuest via their Early English Books Online (EEBO) database
+               (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy
+               (usually the first edition) of every monographic English-language title published
+               between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project
+               restraints of time and funding, and therefore chose to create diplomatic
+               transcriptions (as opposed to critical editions) with light-touch, mainly structural
+               encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during
+               Phase 1 of the project have been released into the public domain as of 1 January
+               2015. Anyone can now take and use these texts for their own purposes, but we
+               respectfully request that due credit and attribution is given to their original
+               source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any
+               assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature
+               (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then
+               their works are eligible for inclusion. Selection was intended to range over a wide
+               variety of subject areas, to reflect the true nature of the print record of the
+               period. In general, first editions of a works in English were prioritized, although
+               there are a number of works in other languages, notably Latin and Welsh, included and
+               sometimes a second or later edition of a work was chosen if there was a compelling
+               reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic
+               encoding. Quality assurance was then carried out by editorial teams in Oxford and
+               Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for
+               accuracy and those which did not meet QA standards were returned to the keyers to be
+               redone. After proofreading, the encoding was enhanced and/or corrected and characters
+               marked as illegible were corrected where possible up to a limit of 100 instances per
+               text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these
+               processes should make clear that, while the overall quality of TCP data is very good,
+               some errors will remain and some readable characters will be marked as illegible.
+               Users should bear in mind that in all likelihood such instances will never have been
+               looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the
+               TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with
+               mnemonic sdata character entities); displayable XML (TCP schema; characters
+               represented either as UTF-8 Unicode or text strings within braces); or lossless XML
+               (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref
+                  target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership
+                  web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)"
+               replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)"
+               replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"
+            />
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain -- History -- Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2008-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+         <change>
+            <date>2026-01-02</date>
+            <label>Diane Jakacki</label> Created segment version for LEAF-Writer and removed
+            facsimile images) </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div n="Edward V" type="reign">
+            <pb n="1356" rendition="simple:additions"/>
+            <head>¶The hiſtorie of king Edward the fifth, and king Richard the third vnfiniſhed,
+               written by Maiſter Thomas Moore then one of the vnder Sheriffes of London, about the
+               yeare of our lorde .1513. according to a Copie of his owne hande: Printed among his
+               other woorkes.</head>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <note place="margin">Edward the .v.</note> KIng Edward of that name the fourth, after
+               that hee had liued fiftie and three yeres,<note place="margin">1483</note> ſeuen
+               monethes, and ſixe dayes, and therof raigned twoo and twentie years, one Monethe, and
+               eyght dayes, died at Weſtminſter the ninth day of Aprill, the yeare of our
+               redemption, a thouſande foure hundreth foure ſcore and three, leauyng muche fayre
+               iſſue, that is to witte, Edwarde the Prince, a thirteene yeare of age: Richarde Duke
+               of Yorke, twoo yeare yonger: Elizabeth, whoſe fortune and grace was after to bee
+               Queene, wyfe vnto Kyng Henry the ſeuenth, and mother vnto the eyght: Cicelie not ſo
+               fortunate as faire: Briget, whyche repreſentyng the vertue of hyr, whoſe name ſhee
+               bare, profeſſed and obſerued a religious life in Dertforde, an houſe of cloſe Nunnes:
+               Anne, that was after honourablye married vnto Thomas, then Lorde Hawarde and after
+               Earle of Surrey: And Katherine, which long time toſſed in either fortune, ſomtime in
+               wealth, ofte in aduerſitie, at the laſte, if this be the laſte, for yet ſhee liuethe,
+               is by the benignitye of hir Nephewe King Henry the eyghte, in very proſperous eſtate,
+               and worthy hir birthe and vertue.</p>
+            <p>This noble Prince deceaſſed at his Palaice of Weſtminſter, and wyth greate funerall
+               honour and heauineſſe of his people from thence conueyed,<note place="margin">The
+                  loue of the people.</note> was enterred at Windſor. A King of ſuch gouernaunce and
+               behauiour, in time of peace (for in warre eche parte muſte needes bee others enimye)
+               that there was neuer any Prince of this lande, attainyng the Crowne by battaile ſo
+               hartelye beeleued wyth the ſtaunce of the people: nor he hymſelfe ſo ſpeciallye in
+               anye parte of hys life, as at the time of hys deathe. Whiche fauour and affection,
+               yet after hys deceaſſe by the crueltie, miſchiefe, and trouble of the tempeſtuous
+               worlde that followed, highelye towarde him more increaſed. At ſuche tyme as he died,
+               the diſpleaſure of thoſe that bare hym grudge, for Kyng Henryes ſake the ſixte, whome
+               he depoſed, was well ged, and in effect quenched, in that, that many of them were
+               deade in more than twentye yeares of hys raigne, a greate parte of a long life: And
+               many of them in the meane ſeaſon growen into his fauour, of whiche he was neuer
+               ſtrange. He was a goodlye perſonage,<note place="margin">Deſcription of Edvvarde the
+                  fourthe.</note> and Princely to beholde, of harte couragious, pollitique in
+               counſell, in aduerſitie nothyng abaſhed, in proſperitie rather ioyfull than proud, in
+               peace iuſte and mercifull, in warre ſharpe and fierce, in the fielde bolde and
+               hardye, and natheleſſe no further than wiſedome woulde aduenturous, whoſe warres who
+               ſo wel conſider, hee ſhall no leſſe commende hys wiſedome where hee voyded, than his
+               manhoode where he vanquiſhed. Hee was of viſage lonelye, of body mightye, ſtrong, and
+               cleane made: Howbeit in his latter dayes wyth ouer liberall dyer, ſomewhat corpulent
+               and boorely, and atheles not vncomely, hee was of youth greately giuen to fleſhely
+               wantonneſſe: from which health of body in great proſperity and fortune, without a
+               ſpeciall grace hardely refraineth.</p>
+            <p>Thys faulte not greately greeued the people: for neyther coulde anye one mans
+               pleaſure, ſtretche and extende to the diſpleaſure of verye manye, and was wythout
+               violence, and ouer that in hys latter dayes leſſed and well lefte. In, whiche time of
+               his latter dayes, this Realme was in quiet and proſperous eſtate, no feare of
+               outwarde enemyes, no warre in hand, nor none towarde, but ſuche as no man looked for,
+               the people towarde the Prince, not in a conſtrained feare, but in a willyng and
+               louyng obedience: among themſelues, the commons in good peace. The Lordes whome hee
+               knewe at variaunce, hymſelfe in his deathe bed appeaſed: hee hadde lefte all
+               gathering of money (whiche is the onely thing that withdraweth the hartes of
+               Engliſhemen fro the Prince) nor any thing intended he to take in hande, by whyche hee
+               ſhoulde bee driuen thereto, for hys <pb n="1357"/> tribute,<note place="margin"
+               > </note> of Fraunce; hee hadde before obteyne do And the yeare foregoing his deathe
+               hadde obteyned Warwicke. And albeit that the time of his raigne hee was wyth his
+               people, ſo beigne coueous, and ſo families, that no part of his vertues more eſemen
+               yet yt condition in the ende of his dayes (in whyche many Princes by along continued
+               tie, like proud por from boain b r their beginnyng) warde flye in hym grewe and
+               increaſed ſo farre, forth that in the e that ſawe, hys hm being at Wi unting, thee
+               for the Mor and Alderm of London to hym for none errande, and to them hband and he
+               mrye with hym; where hee made them not ſo ly, but ſo friendely and ſo familiar
+               cheare, and fence veſon from thence ſo freely into the Citie that no ng in many dayes
+               before, ga hym eyther m heartes or more heartye fauour amongeſt the common people,
+               whiche oftentimes more eſteeme and take for greater kindnes, a little courteſie, than
+               a greate benefite. So deceaſſed (as I haue ſayde) this noble King, in that time, in
+               whiche his life was moſte deſired. Whoſe loue of hys people, and their entire
+               affection towarde him▪ hadde bene to hys no children (hang in themſelues alſo as
+               manye gifts of nature many Princely vertues, aſmuche goodlye towardneſſe at their age
+               coulde receyue) a llo fortreſſe and fate armour, if diuiſion &amp; diſſention of
+               their friendes had not vnarmed them, and leſſe them deſtitute, and the execrable
+               deſire of ſouerainty, prouoked hym to their deſtruction, whiche if eyther kinde of
+               kindneſſe hadde houlden place, muſte needes haue bene their chiefe defence. For
+               Richarde the Duke of Glouceſter, by nature their vncle, by office their protectour,
+               to their father: be, to themſelfe by othe and allegiaunce bonden, all the bandes
+               broken that binde ma and man togyther, wythout anye reſpecte of God or the worlde,
+               vnnaturally contriued to berene them, not only their dignitie, but alſo their
+               liues.</p>
+            <p>But for aſmuche as this Dukes demeanor miniſtreth in effect all the whole matter
+               whereof this booke ſhall intreate, it is therefore conuenient, ſomewhat to ſhewe you
+               ere wee farther goe, what manner of man thys was, that coulde finde in his harte ſo
+               muche miſchiefe to conceiue.</p>
+            <p>
+               <note place="margin">Richarde Duke of Yorke.</note>Richarde duke of Yorke, a noble
+               man and a mightie, beganne not by warre, but by lawe, to chalendge the Crowne,
+               puttyng hys claime into the Parliament, where his cauſe was eyther for righte or
+               fauour ſo farre forthe auaunced, that King Henry his bloude (albeit he has a goodly
+               Prince) vtterly reiected, the Crowne was by aucthoritie of parliament entailed vnto
+               the Duke of Yorke and his iſſue male in remainder, immediatly after the deathe of
+               Kyng Henry. But the Duke not induryng ſo long to carry but entendyng vnder pretexte
+               of diſſention and debate ariſing in the Realme to preuent his time, and to take vppon
+               hym the rule in Kyng Henry his life, was with many nobles of the Realme at Wakefielde
+               ſlaine, leauing three ſonnes, Edwarde, George and Richard, All three as they were
+               greate ſtates of birth, ſo were they great and ſtately of ſtomack, greedy and
+               ambitious of auctoritie,<note place="margin">Edvvarde.</note> and impatient of
+               partners. Edwarde reuenging his fathers deathe, depriued Kyng Henry,<note
+                  place="margin">George Duke of Clarence.</note> and attained the Crowne. George
+               Duke of Clarence was a goodly noble prince &amp; at all points fortunate, if either
+               his owne ambition had not let him againſte hys brother or the enuy of his enimies his
+               brother againſte hym. For were it by the Queene and lordes of hir bloude whiche
+               highly maligned the kings kired (as women commonly not of malice, but of nature hate
+               them whom their huſbands loue, (or were it a proude appetite of the duke hymſelf,
+               intending to be king at the leaſt wiſe heinous treſon was there layde to his charge,
+               and finally were hee faultie, were he faultleſſe, taynted was he by Parlyamente, and
+               iudged to the deathe, and there vpon haſhly drowned in a hutte of Malmeſey, whoſe
+               death kyng Ewarde (albeit hee commaunded it) when he wyſt it was done piteouſly
+               bewayled, and ſorowfully repented.</p>
+            <p>Richarde the thirde ſonne,<note place="margin">The diſcription Richard the
+                  thirde.</note> of whome wee nowe intreate, was in witte and courage gall with
+               either of them, in bodie and prowes farre vnder them both, little of ſtature, yll
+               featured of limmes, crooke backed, his left ſhoulder muche hygher than hys ryght,
+               harde fauoured of viſage, and ſuche as is in ſtates called warlye, in other men
+               otherwyſe, he was malicious, wrathfull, enuious, and from afore his byrth euer
+               frowards. It is for truth reported, that the Ducheſſe his mother hadde ſo much adoe
+               in hir trauaile, that ſhe could not be deliuered of hym vncut, and that he cam into
+               the world with the feete forward, as mē be borne outward, and (as the fame runneth)
+               alſo not vntoothed, whether men of hatred report aboue the truth, or elſe that nature
+               chaunged hir courſe in his beginning, which in the courſe of his life many things
+               vnnaturally committed.</p>
+            <p>None euill captain was he in the warre, as to which his diſpoſition was more metely
+               than for peace. Sundry victories had he, and ſomtimes ouerthrewes, but neuer in
+               default as for his owne perſon, eyther of hardineſſe or politike <pb n="1358"/>
+               order, free was he called of diſpence: and ſomewhat aboue hys power liberall, wyth
+               lardge giftes hee gate hym vnſtedfaſte friendeſhippe, for whiche he was faine to pill
+               and ſpoile in other places, and gette hym ſtedfaſte hatred. Hee was cloſe and
+               ſecrete, a deepe diſſimuler, lowly of countenaunce, arrogant of harte, outwardelye
+               coumpinable were hee inwardelye hated, not lettyng to kiſſe whome hee thought to
+               kill: diſpitions and cruell, not for euill will alwaye, but offer for ambition, and
+               eyther for the ſurety or increaſe of hys eſtate. Frend and foe was muche what
+               indifferent, where his advauntage grewe, hee ſpared no mans deathe, whoſe life
+               wythſtoode his purpoſe. Hee flewe wyth his owne handes Kyng Henry the ſixte,<note
+                  place="margin">The deathe of Kyng Henry the ſixte.</note> being priſoner in the
+               Tower, as men conſtantly ſaide, and that wythout commaundement or knowledge of the
+               Kyng, which woulde vndoubtedlye, if hee hadde intended that thyng, haue appointed
+               that butcherly office to ſome other, than his owne borne brother.</p>
+            <p>Some wiſe men alſo weene that his drifte couertly conueyed, lacked not in helpyng
+               forth his brother of Clarence to his deathe: whiche hee reſiſted openly, howdeit
+               ſomewhat (as men deemed) more faintly than hee that were hartelye minded to hys
+               wealthe. And they that thus deeme, thinke that hee long time in King Edwards life,
+               foreſt ought to be King in caſe that the King his brother (whoſe life hee looked that
+               euill diet ſhoulde ſhorten) ſhoulde happen to deceaſſe (as in deede hee did) while
+               his children were yong. And they deeme, that for this intent hee was gladde of his
+               brothers deathe the duke of Clarence, whoſe life muſt needes haue hindered hym ſo
+               intending, wheather the ſame Duke of Clarence hadde kepte hym true to his Nephewe the
+               yong Kyng, or enterpriſed to be King himſelfe. But of all this pointe, is there no
+               certaintie, and who ſo deuineth vppon coniectures, may aſwell ſhoote to farre as to
+               ſhorte. Howebeit this haue I by credible enformation learned, that the ſelfe nyght,
+               in whyche Kyng Edward dyed, one Miſtlebrooke long ere morning, came in greate haſte
+               to the houſe of one Pottier dwellyng in Redecroſſtreete wythout Creeplegate: and when
+               hee was wyth haſtye rappyng quicklye letten in, hee ſhewed vnto Pottier that King
+               Edwarde was departed. </p>
+            <p>By my truth man quod Pottier, then will my Maiſter the Duke of Glouceſter bee King.
+               What cauſe hee had ſo to thinke harde it is to ſaye, whether hee beeing towarde hym,
+               anye thyng knewe that hee ſuche thing purpoſed, or otherwiſe hadde any inkeling
+               thereof: for he was not likelye to ſpeake it of nought.</p>
+            <p>But nowe to retourne to the courſe of this hyſtorye, were it the Duke of hadde olde
+               ſpringded this was nowe at ee in hope by the occaſion of the a good yong Princes, has
+               Nephewes (as and likel of ſpeeds putteth a rage of that) hee not intende that hee
+               contriued their deſtruction, vſurpation of theeg dignitie vpon ▪ And for aſmuche as
+               hee wiſe and utae, along continudige brenning beetweene the Queenes kin the Kings
+               eyther partie authoritie, he that ſion ſhoulde beca it was intended beginnyng to the
+               purſuite of hys int a ſure grounde, for the fount of all buildyng, if hee mighte
+               firſte vnder the pre of reuenging of diſpleaſure, abuſe the anger and ignorants of
+               the tone partie, to the diſtruction of the other: and then winne to his purpoſe as
+               many as he could, &amp; thoſe that could not bee wonne, myght hee loſte ere they
+               therefore: For of oethyng was hee certayne, that if hys intent were perceyued hee
+               ſhoulde ſoone haue made peace betwene the bothe partie with hys owne bloude.</p>
+            <p>Kyng Edwarde in hys life, alheit that this diſſention betweene his friendes ſomewhat
+               in d hym: yet in his good healthe he ſomewhat the leſſe regarded it, bycauſe hee
+               thought whatſoeuer buſines ſhould a fall betwene the, himſelfe ſhoulde always bee
+               able to ule othe the parties. But in his laſt ſicknes, when hee perceyued his
+               naturall ſtrengthe ſo ſore enfeebled, that hee diſpaired all recouerie, then hee
+               conſideryng the youth of his children, alheit he pothyng leſſe miſtruſted than that
+               that happened, yet well foreſeeing that many harmes myghte growe by their debate,
+               while the youthe of hys children ſhoulde lacke diſcretion of them ſelfe, and good
+               counſaile of their friendes, of whiche eyther partie ſhoulde counſaile for their owne
+               commoditie and rather by pleaſaunt aduiſe to wynne themſelfe fauoure, than by
+               profitable aduertiſement to doo the children good hee called ſome of them before hym
+               that were at vaniaunce, and in eſpeciall the Lorde Marques Dorſet the Queenes ſonne
+               by his firſte huſband, and William the Lord Haſtings a noble man then Lorde
+               Chamberlaine, againe whom the Queene ſpecially grudged, for ye great fauour the King
+               bare hym:<note place="margin"> </note> and alſo for that ſhe thought hym ſecretely
+               familiar with the Kyng in wanton company. Hir kinred alſo bare him ſore, aſwell for
+               that the Kyng hadde made hym Capytayne of Caleys, whyche Office the Lorde Riuers
+               brother to the Queene claymed <pb n="1359"/> of the kings former, promiſſe, no for di
+               other great gifts which he receiued yt they looked for. When theſe Lorden wyth diuers
+               other of hothe the parties were come fences, the Kyngs lifting vp himſelfe and
+               vnderſet to as it is porte and his wife ſaide vnto them▪ My Lordes,<note
+                  place="margin">The Oration of the King in to death bed.</note> my deare kin and ,
+               in what plight I lye you ſee, and I erle▪ By which the leſſe while I ooke to liue
+               wyth y the more deepely am I care in what caſe Alcou you for ſuche you ſuch hee my
+               children like to . Which they ſhoulde, what God finde you at might ba to felthſe was
+               at warre, re their diſcretion woulde ſerue to ſet you at peace, yee et their youth,
+               of whyche I recken the only ſuretye to reſte in your concorde. For it ſuffiſeth not
+               that all you loue them, if eche of you bare other if they were men your faithfulneſſe
+               happily woulde ſuffi. But childehoode muſte be maintained by mens aucthoritie, and
+               ſlipper youthe vnderped with elder counſell, whiche neyther they can haue, but yee
+               giue it, nor yee giue it, if yee gree not. For what a eche laboureth to breake that
+               the other maketh and for hatred of eche of others perſon, im neth eche others
+               counſaile, there muſte at edes bee long eaye good concluſion go forward: And alſo
+               while eyther partye laboure to bee chiefe ttene ſhal haue more place than plaine and
+               faythfull aduiſe, of whiche mue needes inſue the euill bringing vp of the Prince,
+               whoſe minde it tender youthe infecte, ſhall redily fall to miſchiefe and riot, and
+               drawe downe wyth his noble Realme to ruine, but if grace urne hym ſo wiſedome: whyche
+               if god ſende, then they that by euill meanes before pleaſed hym beſte, ſhall after
+               fall fartheſt out of fauoure, ſo that euer at length euill drifts draw to nought, and
+               good plaine wayes proſper. Greate variaunce hathe there long bene betweene you, not
+               alwaye for greate cauſes. Sometime a thyng right well intended, our miſconſtruction
+               tourneth vnto worſe, or a ſmall diſpleaſure done vs, eyther our owne affection or
+               euill tonges aga neth. But this woe I well yee neuer hadde ſo greate cauſe of hatred,
+               as ye haue of loue. That wee bee all men, that wee bee Chriſtenmen, this ſhall I
+               leaue for preachers to tell you (and yet I wolare whether any preachers words ought
+               more to moue you, thā his that is by and by going to the place that they all preache
+               of).</p>
+            <p>But this ſhall I deſire you to remember, that the one parte of you is of my bloude,
+               the other of mine alies, and eche of you wyth other eyther of kinred affinitie,
+               whyche ſpirituall kinred of affinitie, if the Sacramentes of Chriſtes Churche, hears
+               that weyght wyth vs, that woulde God they didde, ſhoulde no leſſe moue vs to
+               Charitie, than the reſpecte of fleſhely conſanguinitye. Our Lorde forbidde, that you
+               loue togyther the worſe for the ſelfe cauſe yt you ought to loue the better. And yet
+               that happeneth, and no where find we ſo deadly debate oad, among them, whyche by
+               nature and, oweſt ought to agree togither. Suche a peſtian Serpent is ambition,<note
+                  place="margin">Ambition.</note> and deſire of vaine glorie and ſoueintie, whiche
+               among ſtates where hee once entreth, creepeth forth ſo farre, till with diuiſion and
+               variaunce he turneth all to miſchiefe. Firſt longyng to banext the heſte afterwarde
+               all wyth the beſte, and at laſte fe and aboue the beſte. Of whiche immoderate
+               appetite of worſhippe and thereby of debate and diſſention, what loſſe, what ſorrowe,
+               what trouble hathe within theſe fewe yeares growne in this Realme, I pray God aſwell
+               forget as wee well remember.</p>
+            <p>Which things if I could aſwell haue foreſeene I haue with my more paine then pleaſure
+               proued, by Goddes bleſſed Ladye (that was er his othe). I woulde neuer haue won the
+               ſe of mens knees, wyth the loſſe of ſo many heades. But ſithen thinges paſſed cannot
+               hee gayne called, muche oughte wee the more beware, by what occaſion we haue taken ſo
+               greate hurte afore, that we eftſoones fall not in that occaſion agayne. Now hee thoſe
+               griefs paſſed, and all is (God be thanked quiet) and likely, right well to proſper in
+               wealthfull peace vnder your couſins my children, if God ſende them life and you loue.
+               Of whiche two things, the leſſe loſſe were they by whome, thoughe God did his
+               pleaſure, yet ſhoulde the Realme alway finde Kings, and peraduenture as good Kings.
+               But if you among your ſelfe in a childs raigne fall at debate, many a good man ſhall
+               periſhe and haplye hee to, and yee to, ere this lande, finde peace againe. Wherefore
+               in theſe laſte wordes that euer I looke to ſpeake wyth you. I exhorte you and require
+               you all, for the loue that you haue euer borne to mee: for the loue that I haue euer
+               borne vnto you: for the loue that our Lord beareth to vs all, from this time forwarde
+               all griefs forgotten eche of you loue other. Whiche I verely ruſte you will, if yee
+               any thing earthly regarde, eyther God or your King, affinitie or kinred, this realme,
+               your owne counter, or your own fuertie: And therewithall the King o longer induryng
+               to ſtte vp, laid him downe on his righte ſide, hys face towarde them: and none was
+               there preſent that coulde refraine from weepyng. But the Lordes recomfortyng him wyth
+               as good wordes as they coulde, and aunſweryng for the time as they thought ſtand with
+               hys <pb n="1360"/> pleaſure, there in hys preſence, as by theyr wordes appeared, eche
+               forgaue other, and ioyned theyr handes togyther, when (as it after appeared by theyr
+               deedes) their hartes, were farre aſunder. As ſoone as the King was departed, the
+               noble Prynce his ſonne drewe towarde London, whiche at the time of hys deceaſſe,
+               kepte hys houſholde at Ludlowe in Wales, whiche countrey beeing farre rom the lawe
+               and recourſe to Iuſtice, was begon to be far out of good wil, and waxen wyld robbers
+               &amp; reuers, walkyng at libertie vncorrected.</p>
+            <p>And for thys enchon the Prince was in the life of hys father ſente thither, to the
+               ende that the aucthoritie of his preſence, ſhoulde refraine euill diſpoſed perſons
+               fro the boldeneſſe of their former outrages. To the gouernaunce and orderyng of this
+               yong Prince at hys ſendyng thither, was there appoynted Sir Anthony Wooduile lord
+               Riuers, and brother vnto the Queene,<note place="margin">Lorde Riuers.</note> a right
+               honourable man, as va ant of hand as politike in counſel. Adioyned wer there vnto him
+               other of ye ſame partie, &amp; in effect euery one as he was nereſt ofn vnto the
+               Quene, ſo was planted next about ye Prince.</p>
+            <p>That drifte by the Queene not vnwiſely deuiſed, whereby hir bloude mighte of yohe bee
+               rooted in the Princes fauoure, the Duke of Glouceſter tourned vnto their deſtruction,
+               and vppon that grounde ſette the foundation of all his vnhappye buildyng. For
+               whomſoeuer he perceyued, eyther at variaunce wyth them, or bearing hymſelfe theyr
+               fauoure, hee brake vnto them, ſome by mouthe, ſome by writyng and ſecret meſſengers,
+               that it neyther was reaſon nor in any wiſe to bee ſuffered, that the yong Kyng their
+               Maiſter and kinſman, ſhoulde bee in the handes and cuſtodye of his mothers kinred,
+               ſequeſtred in manner from their company and attendaunce, of whiche euery one oughte
+               hym as faithfull ſeruice as they, and manye of them farre more honourable parte of
+               kinne than his mothers ſide. Whoſe bloude (quod hee) ſauing the Kings pleaſure, was
+               full vnmeetelye to bee matched wyth his: whiche nowe to bee as who ſaye remoued from
+               the Kyng and the leſſe noble to bee left aboute hym, is (quod he) neyther honourable
+               to his Maieſtie nor vnto vs, and alſo to his grace no ſuretie to haue the mightleſt
+               of his friendes from hym, and vnto vs no little ieoperdye, to ſuffer our well pro ed
+               euill willers to growe in ouer great auctoritie with the prince in youth, namely
+               whiche is lighte of beleefe and ſoone perſwaded. Yee remember I trowe King Edwarde
+               hymſelfe, albeit he was a man of age and of diſcretion, yet was he in many things
+               ruled by the bende, more than ſtoode either with his honour, or our proue, or wt the
+               condition of any only the of Which whether they rer own weale, or our o, it were hard
+               I went geſſe. And if ſome houlde better place wyth the Kyng ny reſpect of , thys
+               myght pd eaſilye haue be trapped and broughte ſome of vs re this. Why not as they
+               haue done other already, of his royall hathe wroughte his will, and grace that perill
+               is paſſe. How is growing, it we ſuffer this yong enemies hande, whiche wythout his
+               myght abuſe the name of hys co ment, to any of out ndooyng, whiche God and good
+               prouiſion forbidde.</p>
+            <p>Of whiche good prouiſion none of hath anything the leſſe neede, for the la
+               attonement, in which the kings pleſure had place than the parties willes. Nor none of
+               , I beleeue is ſo vnwiſe, ouerſoone to leſſe a newe friende made of an olde for, or
+               to thinke that an hourely kindeneſſe, ſodainely tracte in one houre, continued yet
+               ſcante foryght ſhoulde bee deeper ſettled in their ſtomacke than a long accuſtomed
+               malice many yes ted. Wyth theſe wordes and writyngs and ſuche other, the Duke of
+               Glouceſter ſame ſet a fire, them that wer of themſelf ethe to kindle, &amp; in
+               eſpeciall twayn, Edward duke of Buckingham, &amp; William Lord Haſtyngs &amp;
+               Chamberlain, both men of honour and of great power.</p>
+            <p>The tone by long ſucceſſion from his aunceſtrie: the tother by his office, and the
+               Kyngs fauoure. Theſe twoo not bearing ethe to other ſo muche loue as hatred bothe
+               vnto the Quenes part: in this poynt accorded togyther wyth the Duke of Glouceſter,
+               that they woulde vtterly amoue from the kings companye, all hys mothers frends, vnder
+               the name of theyr enemies.</p>
+            <p>Vppon this concluded, the Duke of Glouceſter vnderſtandyng that the Lordes whiche at
+               that time were aboute the King, entended to bring him vp to his coronation
+               accompanied with ſuche power of their friends, that it ſhuld bee harde for hym to
+               bring his purpoſe to paſſe, without the gathering &amp; great aſſēble of people
+               &amp; in maner of open warre, wherof ye nd he wiſt was doubtfull, &amp; in which the
+               K. being on their ſide, his parte ſhuld haue the face and name of a rebellion: he
+               ſecretly therfore, by diuers meanes cauſed the Queene to bee perſwaded &amp; brought
+               in the minde, that it neyther were neede, &amp; ſo ſhoulde bee ieopardous, the Kyng
+               to cop ſtrong. For whereas nowe euerye Lorde loued other, and none other thyng vpon
+                  <pb n="1361"/> but about the Coronation and honour of the King: if ye Lordes of
+               hir kindred ſhould aſſemble in the Kings name muche people, they ſhoulde ge the
+               Lordes atwixte whome and them had in ſometime debate, to feare and ſuſpect, leaſte
+               they ſhould gather thys people, not for ye Kings ſafegard, whome no man impugned, but
+               for theyr deſtruction, hauing more regarde to theyr olde variance, than theyr new
+               attonement. For whiche cauſe they ſhoulde aſſemble on the other partie muche people
+               agayne for theyr defence, whoſe power the wiſt well farre ſtretched. And thus ſhould
+               all the Realme fall on a core. And of all the hurt that thereof ſhould enſue, which
+               was likely not to bee little, and the moſt harme there like to fall where ſhe leaſt
+               would, all the worlde would put hir and hir kindred in the wight, and ſay that they
+               hadde vnwiſely and vntruely alſo broken the amitie and peace, that the Kyng hir
+               huſband ſo prudently made, betweene his kinne and hirs in his deathe bed, and whiche
+               the other partie faithfully obſerued.</p>
+            <p>The Queene beeing in this wiſe perſwaded, ſuch word ſent vnto hir ſonne, and vnto hir
+               brother beeing about the King, and ouer that the Duke of Glouceſter himſelfe and
+               other Lordes the chiefe of his bende, wrote vnto the King ſo reuerently, and to the
+               Queenes friendes there ſo louingly, that they nothing earthly miſtruſting brought the
+               King vp in great haſt, not in good ſpeede, with a ſober companye. Now was the King in
+               his way to London gone frō Northampton, when theſe Dukes of Glouceſter and
+               Buckingham came thither, where remayned behinde the Lord Riuers the Kings Vncle,
+               intending on the morrowe to followe the Kyng, he with him at Stome Stratford, myles
+               thence earely or he departed. So was there made that night muche friendly cheere
+               betweene theſe Dukes and the Lorde Riuers a greate whyle. But incontinente, after
+               that they were openly with great curteſie departed, and the Lorde Riuers lodged, the
+               Dukes ſecretely with a fewe of moſt priuie friends, ſet them downe in coū ſayle,
+               wherein they ſpente a greate parte of the ight. And at their riſing in the dawning of
+               the day, they ſente about priuily to their ſeuntes in their Innes and lodgings about,
+               giuing them commandement, to make themſelfe ſhortly readie, for their Lordes were to
+               horſebacke warde. Vppon whiche meſſages, manye of theyr folke were attendaunce, when
+               many of the Lord Riuers ſeruauntis were vnready. Nowe had theſe Dukes taken alſo into
+               their cuſtodie the keyes of the Inne, that none ſhoulde paſſe foorth without the
+               licence.</p>
+            <p>And ouer this, in the high way toward Stonie Stratford, where the King lay, they had
+               beſtowed certaine of their folke, that ſhoulde ſende backe agayne, and compell to
+               returne, any man that were goten out of Northampton; towarde Stonie Strafforde, till
+               they ſhoulde giue other licence. For as much as the Dukes themſelfe intended for the
+               ſhewe of theyr diligence, to bee the firſte that ſhoulde that daye attende vpon the
+               Kings highneſſe out of that Towne: thus bare they folke in hand. But when the Lorde
+               Riuers vnderſtoode the gates cloſed, and the wayes on euery ſide beſet, neyther his
+               ſeruauntes nor hymſelfe ſuffered to gone out, perceyuing well ſo great a thing
+               without his knowledge not begun for naughte, comparing this manner preſente, with
+               this laſt nightes cheere, in ſo fewe houres ſo great a change, maruellouſly miſliked.
+               Howbeit, ſith he could not get away, and keepe hymſelfe cloſe he woulde not, leaſt
+               hee ſhoulde ſeeme to hyde hymſelfe for ſome ſecrete feare of hys owne faulte, whereof
+               hee ſawe no ſuche cauſe in himſelfe. He determined vpon the ſuretie of hys owne
+               conſcience, to goe boldly to them, and inquire what this matter myghte meant, whome
+               as they ſawe, they began to quarrel with him and ſay, that he intended to ſet
+               diſtaunce betweene the King and them, and to bring them to reſion, but it ſhould not
+               lie in his power. And when he began (as he was a very well ſpoken in all) in goodly
+               wiſe to excuſe himſelfe, they tarried not the ende of his aunſwere,<note
+                  place="margin">The Lorde Riuers put in warde.</note> but ſhortly tooke hym, and
+               put him in ward, and that done, forthwith wente to Horſebacke, and tooke the way to
+               Stony Stratforde, where they founde the King with hys companie, readie to leape on
+               Horſebacke, and departe forwarde to leaue that lodging for them, bycauſe it was to
+               ſtraight for both companyes. And aſſoone as they came in his preſence, they lighte
+               adowne with all theyr companie about them. To whome the Duke of Buckingham ſayde, goe
+               afore Gentlemen, and yeomen keepe your twines.</p>
+            <p>And thus in a goodly aray, they came to the King, and on their knees in very humble
+               will, ſalued his grace, whiche receyued them in verye ioyous and amiable manner,
+               nothing earthly knowing nor miſtruſting as yet. But euen by and by in his preſence,
+               they piked a quarrell to the Lorde Richarde Grey,<note place="margin">The Lorde
+                  Grey.</note> the Kings other brother by his mother, ſaying, that he with ye Lorde
+               Marques his brother, and the Lord Riuers hys Vncle, had compaſſed to the King and the
+               Realme, and to ſet variance among the ſtates and to ſubdue and deſtroy the noble
+               proud of the Realme. Towarde the accompliſhing whereof they ſayd that the Lord
+               Marques had entred into the Tower of London, and thence taken out the Kings treaſure,
+               and ſente menne to the Sea.</p>
+            <p>
+               <pb n="1362"/>All which things theſe Dukes wiſt wel were done for good purpoſes &amp;
+               neceſſarie by the whole counſayle at London, ſauing that ſomewhat they muſt ſay. Vnto
+               whiche wordes the Kyng aunſwered. What my brother Marques hathe done I cannot ſay:
+               But in good faithe I dare well aunſwere for mine vncle Riuers and my brother heere,
+               that they be innocent of anye ſuch matter. Yea my liege quoth the Duke of Buckingham,
+               they haue kept theyr dealing in theſe matters farre fro the knowledge of youre good
+               grace. And forthwith they areſted the Lord Richard and Sir Thomas Vaughan Knighte, in
+               the Kings preſence, and brought the King and all backe vnto Northampton, where they
+               tooke againe further Counſell. And there they ſente away from the Kyng, whome it
+               pleaſed them, and ſet new ſeruauntes about hym, ſuche as lyked better them than him.
+               At whiche dealing hee wepte, and was nothing contente, but it booted not. And at
+               dinner, the Duke of Glouceſter ſent a diſh from his owne table to the Lord Riuers,
+               praying him to bee of good cheere, all ſhoulde bee well ynough. And hee thanked the
+               Du e, and prayed the meſſenger to beare it to his nephewe the Lord Richard with the
+               ſame meſſage for his comfort, who bee thoughte hadde more neede of comforte, as one
+               to whome ſuch aduerſitie was ſtrange. But hymſelfe hadde bin all hys dayes in vre
+               therewith, and therefore could beare it the better. But for all thys comfortable
+               curteſie of the Duke of Glouceſter, hee ſente the Lorde Riuers,<note place="margin"
+                  >The death of the L. Riuers and other.</note> and the Lorde Richarde, with ſir
+               Thomas Vaughan into the North Countrey, into dyuers places to priſon, and afterwarde
+               all to Pomfraite, where they were in concluſion beheaded.</p>
+            <p>In this wiſe, the Duke of Glouceſter tooke vpon hymſelfe the order and gouernaunce of
+               the yong Kyng, whome with much honor &amp; humble reuerence, hee conueyed vpwarde
+               towarde the Citie. But anone, the tidyngs of thys matter came haſtily to the Queene a
+               little before the midnighte following, and that in ye ſoreſt wiſe, that the King hir
+               ſonne was taken, hir brother, hir ſonne, and hir other friendes arreſted, and ſent no
+               man wiſt whither, to bee done with GOD wot what. With whyche tydyngs, the Queene in
+               greate flighte and heauineſſe, bewayling hyr childes raigne, hir friendes miſchance,
+               and hyr owne infortune, damning the tyme that euer ſhe diſſwaded the gathering of
+               power about the King, gate hir ſelfe in all the haſt poſſible with hir yonger ſonne
+               and hir daughters, out of the palace of Weſtminſter, in which ſhe then lay, into the
+                  Sanctuarie,<note place="margin">The Q taketh Sanctuary.</note> lodging hir ſelfe
+               and hir cō panie there in the Abbots place.</p>
+            <p>Nowe came there one in likewiſe not long after midnight fro the Lord Chamberlayne, to
+               the Archbyſhoppe of Yorke, then Chancellor of England, to his place not farre from
+               Weſtminſter. And for that hee ſhewed his ſeruauntes that he hadde tidings of ſo
+               greate importaunce, that his maiſter gaue him in charge, not to forbeare his reſt,
+               they letted not to wake hym, nor hee to admitte this meſſenger into his beds Of whome
+               hee hearde that theſe Dukes were gone backe with the Kings grace from Stonie
+               Stratford vnto Northampton. Notwithſtanding Sir (quoth hee) my Lorde ſendeth youre
+               Lordſhippe worde, that there is no feare: for ee aſſureth you that all ſhall bee
+               well. I aſſure him quoth the Archebyſhoppe, be it as well as it vpō ▪ it will neuer
+               be ſo well as we haue ſeene it. And therevpon, by and by after, the meſſenger
+               departed, he cauſed in all the haſt all his ſeruauntes to bee called vp, and ſo with
+               hys owne houſeho about hym, and euerye man weaponed, he tooke the greate ſeale with
+               hym, and came yet before day vnto the Queene. About whome he founde muche heauineſſe,
+               rumble, haſt and buſineſſe, cariage and conueyance of hir ſtuffe into Sanctuarie,
+               cheſtes, coffers, packes, fardels, truſſed all on mens backes, no man vnoccupyed,
+               ſome lading, ſome going, ſome diſcharging, ſome comming for more, ſome breaking downe
+               the walles to bring in the nexte way, and ſome yet d to them that holp to carrrie a
+               wrong way.</p>
+            <p>The Queene hir ſelfe ſate alone on the ruſhes all deſolate and diſmayde, whome the
+               Archbyſhop comforted in the beſt manner hee coulde, ſhewyng hir that hee truſted, the
+               matter was nothyng ſo ſore as ſhe tooke it for. And that hee was putte in good hope
+               and out of feare by the meſſage ſent hym from the Lord Chamberlayne. Ah wo worth him
+               (quoth ſhe) for he is one of them that laboureth to deſtroy my bloud.</p>
+            <p>Madame (quoth he) be yee of good cheers, for I aſſure you, if they Crowne anye other
+               than youre ſonne, whome they nowe with them, wee ſhall on the morrowe Crowne hys
+               brother, whome you haue heere with . And heere is the greate ſcale, whiche in
+               lykewiſe as that noble Prince youre huſband deliuered it vnto me, ſo heere I deliuer,
+               it vnto you, to ye vſe and behoofe of your ſonne, and therewith hee betooke hir ye
+               greate ſeale, &amp; departed home againe, yet in ye dawning of the day. By which tyme
+               might in his chamber window, ſee al ye full of boates of the D. of Gloeſters ſeru,
+               watching that no man ſhould goe to Sanctuarie, nor none could paſſe vnſearched. Then
+               was there great commotion and murmure, as well <pb n="1363"/> in other places about,
+               as ſpecially in the Citie, the people diuerſly diuining vpon thys dealing. And ſome
+               Lordes, Knyghtes, and Gentlemen, eyther for fauoure of the Queene, or for feare of
+               themſelues, aſſembled in ſundrye companyes, and wente flockemele in harneys and many
+               alſo, for that they reckoned this demeanoure attēpted, not ſo ſpecially againſte the
+               other Lordes, as againſt the King hymſelfe in the diſturbance of his Coronation. But
+               then by and by ye Lords aſſembled togither at Towarde whyche meeting, the
+               Archebyſhoppe of Yorke fearing that it woulde bee aſcribed (as it was indeede) to hys
+               ouermuche lightneſſe, that hee ſo ſuddaynely hadde yeelded vp the greate ſeale to the
+               Queene, to whome the cuſtodie thereof nothing perteyned, without eſpeciall
+               commaundement of the Kyng, ſecretely ſent for the ſeale agayne, and brought it with
+               him after the cuſtomable manner. And at thys meetyng the Lorde Haſting, whoſe trouth
+               toward the king, no man doubted nor needed to doubte, perſwaded the Lordes to
+               beleeue, that the Duke of Glouceſter was ſure and faſtly faythfull to his Prince, and
+               that the Lorde Riuers and Lord Richard with the other Knightes were for matters
+               attempted by them againſte the Dukes of Glouceſter and Buckingham, put vnder areſt
+               for their ſuretie, not for the Kings ieoperdie: and that they were alſo in ſafegarde,
+               and there no longer ſhoulde remayne, than til the matter were, not by ye Dukes only,
+               but alſo by al the other Lordes of the kings counſayle indifferently examined, and by
+               other diſcretions ordered and eyther iudged or appeaſed.</p>
+            <p>But one thing he aduiſed them beware, that they iudged not the matter too farre
+               foorthe, ere they knewe the trueth, nor turning theyr priuate grudges into the common
+               hurte, yrriting and prouokyng men vnto anger, and diſturbing the Kings Coronation,
+               towarde whych the Dukes were commyng vp, that they myght peraduenture bryng the
+               matter ſo farre out of ioyne, that it ſhoulde neuer bee broughte in frame agayne.
+               Which ſtrife if it ſhould happe, as it were likely to come to a fielde though both
+               parties were in all other things egall, yet ſhoulde the authoritie be on that ſyde
+               where the King is himſelfe, with theſe perſwaſions of the Lorde Haſtings, wherof
+               parte hymſelfe beleeued, of parte hee wiſt the contrarie, theſe commotions were
+               ſomewhat appeaſed. But ſpeciallie by that that the Dukes of Glouceſter and Buckingham
+               were ſo neere and came ſo ſhortly on with the Kyng, in none other manner, with none
+               other voyce or ſemblaunce than to hys coronation, cauſing the fame to be blowen
+               about, that theſe Lordes and Knyghtes which were taken, had contriued the deſtruction
+               of the Dukes of Glouceſter and Buckyngham, and of other the noble bloud of the
+               Realme, to the ende that themſelfe woulde alone, demeane and gouerne the Kyng at
+               theyr pleaſure.</p>
+            <p>And for the coulourable proofe thereof, ſuche of the Dukes ſeruauntes as rode with
+               the cartes of theyr ſtuffe that were taken (among whyche ſtuffe, no maruell though
+               ſome were harneys, whyche at the breaking vppe of that houſholde, muſt needes eyther
+               bee broughte away, or caſt away) they ſhewed vnto the people al the wayes as they
+               wente: loe heere bee the barrels of harneys that theſe Traytors hadde priuily
+               conueyde in theyr carriage to deſtroye the noble Lordes withall.</p>
+            <p>Thys deuiſe albeit that it made the matter to wiſe menne more vnlykely, well
+               perceyuing that the intendours of ſuche a purpoſe woulde rather haue hadde theyr
+               harneys on theyr backes than to haue bounde them vppe in barrels, yet muche parte of
+               the common people were therewith verye well ſatiſfyed, and ſayde it were almoyſe to
+               hang them.</p>
+            <p>When the King approched neere to the Citie, Edmonde Shaa goldeſmith, then Maior, with
+               William White, and Iohn Mathewe Sheriffes, and all the other Aldermen in Scarlette,
+               with fyue hundred Horſe of the Citizens in violet receyued hym reuerently at
+               Harneſey: and riding from thence accompanyed hym into the Citie,<note place="margin"
+                  >The Kings comming to London.</note> whyche hee entred the fourth daye of Maye,
+               the fyrſte and laſte yeare of hys raigne.</p>
+            <p>But the Duke of Glouceſter bare hym in open ſyght ſo reuerently to the Prince, with
+               all ſemblaunce of lowlyneſſe, that from the greate obloquie in whych he was ſo late
+               before, he was ſuddaynely fallen in ſo greate truſt, that at the Counſayle nexte
+               aſſembled, hee was made the onely man choſe and thought moſt meete,<note
+                  place="margin">The protectour made.</note> to be Protector of the King and hys
+               Realme, ſo (that were it deſtenie or were it follie) the lambe was betaken to the
+               wolfe to keepe. At whych Counſayle alſo, the Archebyſhoppe of Yorke Chauncellour of
+               Englande whyche hadde deliuered by the greate ſeale to the Queene, was thereof
+               greately reprooued, and the Seale taken from hym, and deliuered to Doctor Ruſſell
+               Byſhoppe of Lincolne, a wiſe men and a good,<note place="margin">The Biſhop of
+                  Lincolne made Lorde Chancellour.</note> and of muche experience, and one of the
+               beſte learned menne vndoubtedly that England had in hys tyme. Diuers Lordes and
+               Knyghtes were appoynted vnto diuers roomes. The Lord Chamberlayne and ſome other
+               kepte ſtill theyr offices that they had before.</p>
+            <p>
+               <pb n="1364"/>Now all were it ſo that the Protector ſo ſore thirſted for the
+               furniſhing of that hee hadde begunne, that thoughte euerye daye a yeare, till it were
+               atchieued, yet durſt he no further attempte, as long as hee hadde but halfe his pray
+               in hys hande: well witting, that if he depoſed the one brother, all the Realme woulde
+               fall to the tother, if hee eyther remayned in Sanctuarie, or ſhoulde happely bee
+               ſhortlye conueyd to hys fathers libertie. Wherefore incontinent at the next meeting
+               of the Lordes at the Counſaile, he propoſed vnto them, that it was a haynous deede of
+               the Queene,<note place="margin">The protectors orations.</note> and proceeding of
+               great malice towarde the Kings Counſailers, that ſhe ſhould keepe in Sanctuarie the
+               kings brother frō hym, whoſe ſpeciall pleaſure and comforte were to haue his brother
+               with him. And that by hir done to none other intente, but to bring all the Lords in
+               obloquie, and murmure of the people. As though they were not to be truſted with ye
+               kings brother, that by the aſſente of the Nobles of the land, were appoynted as the
+               kings neereſt friēds, to the tuition of his owne royall perſon. The proſperitie
+               whereof ſtandeth (quoth he) not all in keeping from enimies, or ill vyande, but
+               partlye alſo in recreation, and moderate pleaſure: which hee cannot in this tender
+               youth, take in the companie of auncient perſons, but in the familiar cō uerſacion of
+               thoſe that be neyther farre vnder, nor farre aboue his age. And naytheleſſe of eſtate
+               cō uenient to accompanie his noble maieſtie, wherfore with whome rather, than with
+               hys owne brother? And if any man thinke this conſideration (whiche I thinke no man
+               thinketh that loueth the King) let him conſider, that ſometyme without ſmall thinges,
+               greater cannot ſtande. And verily, it redoundeth greately to the diſhonor both of the
+               Kinges highneſſe, and of all vs that bene about his grace, to haue it runne in euery
+               mans mouth, not in this Realme only, but alſo in other lands (as euill wordes walke
+               farre) that the kings brother ſhoulde bee fayne to keepe Sanctuarie. For euery man
+               will weene, that no man will ſo do for naught. And ſuch euil opinion once faſtned in
+               mens heartes, harde it is to wraſt out, and may growe to more griefe than any man can
+               heere deuine. Wherefore me thynketh it were not worſt to ſende vnto ye Queene, for
+               the redreſſe of this matter, ſome honorable truſtie man, ſuche as both tendereth the
+               Kynges wealt, and the honour of his counſayle, and is alſo in fauoure and credence
+               with hir. For all whiche conſiderations, none ſeemeth mee more meetely, than our
+               reuerende father heere preſent, my Lorde Cardinall, who maye in this matter doe moſt
+               good of any man, if it pleaſe him to take the payne, whiche I doubte not of hys
+               goodneſſe he will not refuſe for the Kyngs ſake and ours, and wealth of the yong Duke
+               himſelf, the kings moſt honorable brother, and after my ſouerai Lorde hymſelfe, my
+               moſte deere nephewe, conſidered that thereby ſhall be ceaſſed the ſlaunderous rumor
+               and obloquie nowe goyng, and the hurtes auoyded that thereof myghte enſue, and muche
+               reſt and quiete growe to all the Realme. And if ſhe bee percaſe ſo obſtinate, and ſo
+               preciſelie ſette vppon hir owne will, that neyther hys wiſe and faythfull
+               aduertiſemente, cannot moue hir, nor anye mans reaſon contente hir: then ſhall we by
+               myne aduice, by the kyngs authoritie, fetche hym out of that priſon, and bryng him to
+               his noble preſence, in whoſe continuall companie, hee ſhall be ſo well cheriſhed and
+               ſo honorablie intreated, that all the worlde ſhall to our honor and hir reproche
+               perceyue, that it was only malice, frowardneſſe, or follie, that cauſed hir to keepe
+               him there: this is my mynde in this matter for this time, except any of youre
+               Lordſhippes any thing perceyue to the contraiſe, for neuer ſhall I by Goddes grace ſo
+               wedde my ſelfe to myne owne will, but that I ſhall be readie to change it vpon your
+               better aduiſes.</p>
+            <p>When the Protector hadde ſayde, all the Counſayle affirmed, that the motion was good
+               and reaſonable, and to the King and the Duke his brother, honorable, and a thing that
+               ſhoulde ceaſſe great murmure in the Realme, if ye mother mighte be by good meanes
+               enduced to delyuer him. Which thing the Archbiſhop of Yorke, whome they all agreed
+               alſo to bee thereto moſt conueniente, tooke vppon hym to moue hir, and therein to doe
+               his vttermoſt deuoire. Howbeit, if ſhe could be in no wiſe intreated with hir good
+               will to deliuer him, then thought he, and ſuch other as were of the Spiritualtie
+               preſente, that it were not in anye wiſe to bee attempted to take him out againſt hir
+               wil. For it would be a thing that ſhould turne to the great grudge of all men,<note
+                  place="margin">Sanctuary.</note> and high diſpleaſure of God, if the priuiledge of
+               that holy place ſhoulde nowe be broken, whyche had ſo manie yeares be kept, whiche
+               both Kings and Popes ſo good had graunted, ſo many hadde confirmed, and whiche holy
+               grounde was more than fyue hundred yeares agoe by S. Peter in his owne perſon in
+               ſpirite accompanyed, with great multitude of Angels by nighte, ſo ſpecially halowed,
+               and dedicate to God (for the prit whereof, they haue yet in the Abbey Saynt Peters
+               Cope to ſhew) that from that time hy ward, was there neuer ſo vndeuout a King, that
+               durſt that ſacred place violate, or ſo holy a Byſhop, that durſt it preſume to
+               conſecrate. And therefore (quoth the Archebyſhop of Yorke) God forbid that any man
+               ſhuld for any thing earthly enterpriſe to breake the immunitie and libertie of ye
+               ſacred Sanctuarie, that hath bin ye ſafegard <pb n="1365"/> of ſo many a good mans
+               life and I will (quoth hee) with Goddes grace, wee ſhall not neede it. But for any
+               manner neede, I would not we ſhoulde doe it. I truſt that ſhee ſhall bee with reaſon
+               contented, and all thynges in good maner obteyned. And if it happen that I bryng it
+               not ſo to paſſe, yet ſhall I towarde it ſo farrefoorth doe my beſt, that yee ſhall
+               all well perceyue, that no lacke of my deuoire, but the mothers dread and womaniſhe
+               feare, ſhall bee the lette. Womaniſhe feare, naye womaniſhe frowardeneſſe (quoth the
+               Duke of Buckyngham▪) For I dare take it vpon my ſoule, ſhe well knoweth ſhee needeth
+               no ſuche thyng to feare, eyther for hir ſonne or for hir ſelfe. For as for hir, heere
+               is no man that will be at warre with women. Woulde God ſome of the men of hir kinne,
+               were women too, and then ſhoulde all be ſonne in reſt. Howheit, there is none of hir
+               kynne the leſſe loued, for that they hee hir kynne, but for there owne euill
+               deſeruing. And natheleſſe, if we loued neither hir nor hir kinne, yet were there no
+               cauſe to thynke that we ſhould hate the kings noble brother, to whoſe Grace, we once
+               ſelfe bee of kynne. Whoſe honoure, if ſhe as muche deſired as our diſhonoure, and as
+               muche regarde tooke to hys wealthe, as to hir owne will, ſhee woulde hee as loth to
+               ſuffer hym from the King, as any of vs he. For yf yee haue anye witte, (as woulde God
+               ſhee had as good will as ſhee hathe ſhrewde witte) ſhe reckoneth his ſelfe no wiſer,
+               than ſhee thynketh ſome that be heere, of whoſe faythfull mynde, ſhee nothyng
+               doubteth, but verily beleeueth and knoweth, that they would bee as ſorie of hys harme
+               as hir ſelfe, and yet woulde haue hym from hir if ſhee hyde there: And we all I
+               thynke) content, that both he with hir, if ſhee come thence and byde in ſuche place
+               where they may with theyr honour be.</p>
+            <p>Nowe then if ſhee refuſe in the deliueraunce of him, to followe the reconſaile of
+               them, whoſe wiſedome ſhee knoweth, whoſe trueth ſhe well truſteth is ethe to
+               perceyue, that frowardneſſe letteth hir, and not feare. But go to ſuppoſe that ſhe
+               feare (as who may lette hir to feare hir owne ſhadowe) the more ſhee feareth to
+               deliuer hym, the more ought we feare to leaue him in hir ād For if ſhee caſt ſuch
+               fond doubtes, that ſhe feare his hurt: then will ſhe feare that he ſhall bee ſette
+               thence. For ſhe will ſoone thynke, that if menne were ſette (whych God forbidde) vpon
+               ſo greate a miſchiefe, the Sainctuarie woulde little lette them: which good menne
+               myghte as me thynketh, without ſinne, ſomewhat leſſe regard than they doe.</p>
+            <p>Nowe then, if ſhe doubte, leaſt hee myghte be fetched from hir is it not lykely
+               ynough that ſhe ſhal ſend hym ſome where out of the realme? Verily I looke for other.
+               And I doubte not, but ſhee nowe as mynde th as we lette thereof. And if ſhee mighte
+               happen to bryng that to paſſe, t were o greate maiſt wee letting hir (alone) all the
+               worlde woulde ſaye that we were a wiſe for of Counſailers aboute a Kyng, that lette
+               his brother he caſt y vnder oure noſes. And therefore, I enſure you faythfully for my
+               mynde. I will gre hir minde fetch him away, then leaue him there, till hir
+               frowardneſſe and fonde feare away. And yet will I breakend Sainctuarie therefore. For
+               verily, ſith the priuileges of that place and other lyke, haue bene of long conued. I
+               am not bee that would be about to breake them. And in good fayth, if they were now to
+               beginne: I woulde not be he that ſhoulde he about to make them.</p>
+            <p>Yet will I not ſay naye,<note place="margin">Of Sāctuarles.</note> but that it is a
+               deede of pitie, that ſuch menne as the Se, their euill dettours haue broughte in
+               pouertie, ſhoulde haue ſome place of libertie, to keepe theyr b dyes, out of the
+               daunger of theyr tours.</p>
+            <p>And alſo, if the Crowne happen (as it hathe done) to come in queſtion, whyle eyther
+               pe taketh other as Traytors, I will well there be ſome places of refuge for both.</p>
+            <p>Bys for thenes, of whyche, theſe places bee ll, and whyche neuer fall from the
+               crafte, after they once fall thereto, it is pitie the Sanctuarie ſhoulde ſerue them.
+               And much more miſ quellers, whome GOD: hade to take from the Au and yll them if theyr
+               were wilfull. And where it is otherwiſe; there neede wee o the Sanctuaries that God
+               appoynted in the olde lawe. For if eyther neceſſit hys owne defence, or miſfortune
+               draweth hym to that deede a pardon reth, whiche eyther the lawe graueth of courſe
+               King of pae maye.</p>
+            <p>Then looke me nowe howe fewe Sanctuarie mē there be, whom f noble eſſiedpelled to
+               goe thyther. And then ſee on the other ſyde, what a ſort, there be commonly therein
+               of the whome wilfull vnthneſſe, hathe braught to naught.</p>
+            <p>What a noble of thence, myther and malitious heynous Traytors and th places
+               ſpecially. The n at the elbowe of the Citie, the tother in the verye well anow it,
+               may the g that the doe,<note place="margin">Weſtminſter and Saint Mertina.</note>
+               with the hurte that mth of them, yee ſhall fynde it muche better to looke both than
+               haue bothe. And thys I ſaye, although they were not abuſed as they nowe bee, and ſo
+               long haue bee, that I they ee, whyle menne be afrayde to ſette their hand to <pb
+                  n="1366"/> the mendmente, as though God and Saincte Peter, were the pates of
+               vngratious lyuing.</p>
+            <p>
+               <note place="margin">The abuſe of Sanctuaries.</note>Nowe vnthriftes riote, and runne
+               in debte, vpon the boldneſſe of theſe places, yea, and rich men runne thither with
+               poore mens goodes, there they buylde, there they ſpende, and blode theyr creditors
+               goe whiſtle them.</p>
+            <p>Mens wines runne thyther with theyr huſbandes plate, and ſaye, they dare not abyde
+               with theyr huſbands for beating.</p>
+            <p>Theeues bring thither theyr ſtollen goodes, and there lyue thereon.</p>
+            <p>There deuiſe they newe robberies, nightelie they ſteale out, they robbe, and reae,
+               and kyll, and come in agayne, as though thoſe places gaue them not onely a ſauegarde
+               for the harme they haue done, but a licence alſo to doe more. Howbeit, much of thys
+               miſchiefe if wiſe menne would ſette theyr handes to it, might be amended, with great
+               thankes of God, and no breathe of the priuiledge.</p>
+            <p>The reſidue, ſith ſo long agoe I wore neere what Pope, and what Prince more piteous
+               than politike, hathe graunted it, and other men, ſince of a certayne religious feare,
+               haue not broken it, ete vs take a payne therewith, and lette it a Goddes name ſtde in
+               force, as farre forthe as reaſon will, whych is not fully ſo farre forthe, as maye
+               ſerue to lette vs of the fetching forthe of thys noble man, to hys honor and wealthe,
+               out of that place, in whyche hee neyther is, nor can be a Sanctuarie man.</p>
+            <p>A Sanctuarie ſerueth alway to defende the bodye of that man that ſtandeth in daunger
+               abroade, not of greate hurte onely, but alſo of lawfull hurte, for agaynſte vnlawfull
+               harmes, neuer Pope nor Kyng intended to priuiledge any one place, for that priuiledge
+               hathe euerye place: knoweth anye man, anye place, wherein it is lawefull one manne to
+               doe another wrong?</p>
+            <p>That no man vnlawfully take hurte, that lybertie, the Kyng, the lawe, and verye
+               nature, forbyddeth in euery place, and maketh to that regarde, for euery man euery
+               place a Sanctuarie.</p>
+            <p>But where a man is by lawfull meanes in perill, there needeth he the tuicion of ſome
+               ſpeciall priuiledge, whyche is the onely grounde and cauſe of all Sanctuaries: from
+               whyche neceſſitie, thys noble Prince is farre, whoſe loue to hys Kyng, nature and
+               kindred proueth, whoſe innocencie to all the worlde, his tender youth proueth, and ſo
+               Sanctuarie, as for hym, neyther none he needeth, nor alſo none can haue.</p>
+            <p>Men come not to Sanctuarie, as they come to Baptiſme, to require it by theyr
+               Godfathers, he muſt aſke it himſelfe, that muſt haue it, reaſon, ſith no man hathe
+               cauſe to haue it, but whoſe conſcience of his owne fault maketh him fayne, neede to
+               require it, what will then yonder babe? whyche and if hee hadde diſcretion to require
+               it, if neede were, I dare ſaye woulde nowe bee ryght angrie with them that keepe hym
+               there: and I would thynke without anye ſcruple of conſcience, withoute any brea of
+               priuiledge, to bee ſomewhat more hounly with them that be there Sanctuarie menne
+               indeede.</p>
+            <p>For if one goe to Sanctuarie with ther mans goodes, why ſhoulde not the Kyng, leauing
+               his bodye at libertie, ſatiſfie the partie of hys goodes, euen within the Sanctuarie
+               for neyther Kyng nor Pope can gyue any place ſuche a priuiledge, that it ſhall
+               diſcharge a man of his debtes, beeyng able to pay: and with that, dyuers of the
+               Cleargie that were preſente, whyther they ſayde it for hys pleae, or as they thought,
+               agreed playnelye, thirty the lawe of God and of the Churche, the goodes of a
+               Sanctuarie man ſhoulde be deſyuered in paymente of hys debtes, and goodes to the
+               owner, and onely lybertie teſ ued hym to gette hys liuing with the laboure of hys
+               handes, verilye (quoth the Duke) I thynke you ſay very trueth, and what if a mans
+               wife will take Sanctuarie, bycauſe ſhee to runne from hir huſbande, I woulde w if
+               ſhee coulde alledge none other cauſe, hee maye lawfully, withoute anye diſpleaſure to
+               Peter, take hir out of Sainte Peters by the arme.</p>
+            <p>And if no bodye maye bee taken out of Sanctuarie, that ſayeth hee will byde there,
+               then if a childe will take Sanctuarie, bycauſe he feareth to goe to Schole, hys
+               maiſter muſt lette him alone.</p>
+            <p>And as ſimple as that ſample is, yet is there leſſe reaſon in our caſe than in that,
+               for therein, though it bee a childiſhe feare, yet is there, at the leaſtwiſe ſome
+               feare, and heerein to there none at all. And verily, I haue often hearde of
+               Sanctuarie menne, but I neuce hearde earle of Sanctuarie children.</p>
+            <p>And therefore, as for the concluſion of my mynde, who ſo maye haue deſerued to neede
+               if, if they thynke it for theyr ſuretie, let them keepe it.</p>
+            <p>But hee can bee no Sanctuarie man, that neyther hathe wiſedome to deſire it, nor
+               malice to deſerue it, whoſe life or libertie, can by no lawfull proceſſe ſtande in
+               ieoperdie.</p>
+            <p>And hee that taketh one out of Sanctuarie to doe hym good, I ſaye playnely, that hee
+               breaketh no Sanctuarie.</p>
+            <p>
+               <pb n="1367"/>When the Duke hadde done, the Temporall menne whole, and a good parte
+               of the ſpirituall alſo, thynkyng no hurte earthely, meant towarde the yong babe,
+               condiſcended in effect, that if hee were not delyuered, hee ſhoulde bet fetched.</p>
+            <p>Howbeit, they thoughte it all beſt, in the auoydyng of all manner of rumor, that the
+               Lord Cardinall ſhoulde fyrſte aſſay to gette hym with hir good will. </p>
+            <p>And therevppon, all the Counſayle came vnto the Starre Chamber at Weſtminſter, and
+               the Lorde Cardinall, leauing the Protector with the Counſayle in the Starre Chamber,
+               departed into the Sanctuarie to the Queene, with dyuers other Lordes with hym, were
+               it for the reſpect of hys honoure, or that ſhee ſhoulde by preſence of ſo manye
+               perceyue, that thys errande was not one mans mynde: or were it, for that the protect
+               or intended not in thys matter, to truſt anye one manne alone, or elſe, that if ſhee
+               finallye were determined to keepe hym, ſome of that companie hadde happily ſecrete
+               inſtruction incontinente, mangre hir mynde, to take hym, and to leaue hir no reſpite
+               to conuey hym, whyche ſhe was lykelye to mynde after thys matter, broken to hir, if
+               hir time woulde in any wiſe ſerue hir.</p>
+            <p>When the Queene, and theſe Lordes were come togyther in preſence, the Lorde Cardinall
+               ſhewed vnto hir, that it was thoughte vnto the protector, and vnto the whole
+               Counſayle, that hir keepyng of the Kynges brother in that place, was the thyng,
+               whyche highlye ſounded, not onely to the greate rumour of the people and theyr
+               obloquie, but alſo to the importable griefe and diſpleaſure of the Kynges royall
+               maieſtie, to whoſe grace it were as ſingular comforte, to haue hys naturall brother
+               in companye, as it was their bothe diſhonoure, and all theyrs and hirs alſo, to
+               ſuffer hym in Sanctuarie, as though the one brother ſtoode in daunger and perill of
+               the tother.</p>
+            <p>And hee ſhewed hir, that the Counſayle therefore hadde ſente hym vnto hir, to require
+               hir the deliuerie of hym, that hee myghte be broughte vnto the Kynges preſence at hys
+               lybertie, out of that place, whyche they reckoned as a priſon, and there ſhoulde hee
+               bee demeaned, accordyng to hys eſtate, and ſhee in thys doyng, ſhoulde both doe
+               greate good to the Realme, pleaſure to the Counſayle, and profite to hir ſelfe,
+               ſuccoure to hir friendes that were in diſtreſſe, and ouer that (whyche hee wiſt well
+               ſhee ſpecially tendered,) not onely greate comforte and honor to the Kyng, but alſo
+               to the yong Duke hymſelfe, whoſe both greate wealthe it were to bee together, as well
+               for many greater cauſes, as alſo for theyr both diſporte, and decreation: whyche
+               thyng, the Lorde eſteemed no ſlighte,<note place="margin">Protector.</note> though it
+               ſeeme lyghte, well pondering that their youth without recreation and playe, cannot
+               endure, nor anye ſtraunger, for the conuenience of their both ages and eſtates, ſo
+               meerely in that pointe for any of them, as eyther of them for other.</p>
+            <p>My Lorde (quoth the Queene) I ſaye not naye, but that it were very conueniente,<note
+                  place="margin">The Queenes aunſwere.</note> that thys Gentleman whome yee require
+               were in companye of the Kyng hys brother: and in good faythe, mee thynketh it were as
+               greate commoditie to them bothe, as for yet awhile, to beene in the cuſtodie of theyr
+               mother, the tender age conſidered of the elder of them both, but ſpecially, the
+               yonger, which beſydes hys infancie, that alſo needeth good lookyng to, hathe awhyle
+               beene ſo ſore diſeaſed, vexed wyth ſickneſſe, and is ſo newly rather a little
+               amended, than well recouered, that I dare putte no perſone earthely in truſt wyth hys
+               keepyng, but my ſelfe onely, conſideryng that there is (as Phiſitians ſaye) and as
+               wee alſo fynde, double the perill in the recidination, that was in the fyrſte
+               ſickneſſe, with whyche diſeaſe, Nature beeyng ſore laboured, foreweeried and
+               weakened, war the leſſe able to beare out &amp; ſuſteine a newe ſurfette.</p>
+            <p>And albeeit there myghte bee founden other that woulde happely doe theyr beſte vnto
+               hym, yet is there none that eyther knoweth better howe to order hym, than I that ſo
+               long haue kepte hym: or is more tenderlye lyke to cheryſhe hym, than hys owne mother
+               that bare hym.</p>
+            <p>No manne denyeth, good Madame, (quod the Cardinall) but that youre grace were of all
+               folke moſte neceſſary aboute your chyldren and ſo woulde all the Counſell not onely
+               bee contente, but gladde that ye were, if it myghte ſtande wyth youre pleaſure to bee
+               in ſuche place as myghte ſtande wyth theyr honoure. But yf you doe appoynte youre
+               ſelfe to tarry heere, then thynke they it more conuenyente that the Duke of Yorke
+               were wyth the King honourably at hys lybertye to the coumforte of them bothe: then
+               heere as a Sanctuarye manne, to their bothe diſhonour and obloquie, ſithe there is
+               not alwaye ſo greate neceſſytie to haue the Chylde to bee with the Mother: but that
+               occaſion maye ſometime be ſuche, that <pb n="1367"/> it ſhoulde be more expediente to
+               keepe hym elſe where, whyche in thys well appeareth, that at ſuche time as youre
+               deereſt ſonne then Prince, and nowe Kyng, ſhoulde for hys honor, and good order of
+               the Countrey, keepe houſholde in Wales, farre out of your company: youre grace was
+               well contente therewith youre ſelfe. Not very well contente quoth the Queene: And yet
+               the caſe is not lyke, for the tone was then in healthe, and the tother is nowe ſicke:
+               In whiche caſe, I maruell greately, that my Lord protector is ſo deſirous to haue hym
+               in his keeping, where if the childe in hys ſickneſſe miſcarried by nature, yet myghte
+               hee runne into flaunder and ſuſpition of fraude. And where they call it a thing ſo
+               ſore agaynſte my childes honor, and theyrs alſo, that he bydeth in this place: it is
+               all theyr honors there to ſuffer hym byde, where no man doubteth he ſhall bee beſt
+               kepte, and that is heere, whyle I am heere, which as yet intende not to come forth,
+               and ieobarde my ſelfe after other of my friendes, whiche woulde God were rather heere
+               in ſuretie with me, than I were there in ieoperdie with them. Why Madame (quoth
+               another Lorde) knowe you anye thyng why they ſhoulde be in ieoperdie? Nay verily ſir
+               quoth ſhee, nor why they ſhoulde bee in priſon neyther, as they nowe bee. But it is I
+               trow, no greate maruell though I feare, leaſt thoſe that haue not letted to put them
+               in dureſſe withoute couloure, will let as little to procure theyr deſtruction without
+               cauſe.</p>
+            <p>The Cardinall made a countenaunce to the other Lorde, that hee ſhoulde harp no more
+               vpon that ſtring, and then ſaid he to the Quene, that he nothyng doubted, but that
+               thoſe Lordes of hir honorable kynne, whyche as yet remayned vnder arreſt, ſhoulde
+               vppon the matter examined, doe well ynough: and as towarde hir noble perſon, neyther
+               was, nor could be any manner ieoperdy. Whereby ſhoulde I truſt that (quoth the
+               Queene) in that I am giltleſſe? as though they were giltie, in that I am with theyr
+               enimies better loued than they? when they hate them for my ſake, in that I am ſo
+               neere of kynne to the King? and howe farre they be of, if that would helpe, as God
+               ſende grace it hurt not, and therefore as for me, I purpoſe not as yet, to depart
+               hence. And as for thys Gentleman my ſonne, I mynde that hee ſhall bee where I am,
+               tyll I ſee further: for I aſſure you, for that I ſee ſome menne ſo greedie, without
+               any ſubſtantiall cauſe to haue hym, thys maketh me much the more fearder to delyuer
+               hym. Truely madame, quoth hee, and the fearder that you bee ſo deliuer hym, the
+               fearder bin other menne to ſuffer you to keepe him, leaſt your cauſeleſſe feare
+               myghte cauſe you farther to conuey him, and many bee there that thynke he can haue no
+               priuiledge in thys place, whiche neyther will to aſke it, nor malice to deſerue it,
+               and therefore, they recken no priuiledge broken, though they fetche hym out, whyche
+               if yet f nally refuſe to delyuer hym, I verily thynke they will. So muche dread hathe
+               my Lorde hys Vncle, for the tender loue hee beareth him, leaſt your grace ſhould hap
+               to ſend him away.</p>
+            <p>A Syr (quod the Queene) hath the Protector ſo tender zeale,<note place="margin">The
+                  Queene.</note> that hee feareth nothyng but leaſte, hee ſhoulde eſcape hym?
+               Thyketh hee that I woulde ſende hym hence, whyche neyther is in the plyghte to ſende
+               oute and what place coulde I recken hym ſure, if hee not ſure in thys Sanctuarie?
+               whereof was neuer Tyraunt yet ſo diuellyſhe that durſte preſume to breake. And I
+               truſte God is as ſtrong nowe to withſtande hys aduerſaries, as euer he was.</p>
+            <p>But my foure can deſerue no Sanctuarye, and therefore he can not haue it. For hee
+               hathe founden a goodlye gloſe, by whyche that place that may: defende a Theefe, maye
+               not ſaue an Innocente. But hee is in no ieopadye, nor hathe no neede, thereof, wolde
+               God hee hadde not. Troweth the Protecture (I praye GOD hee maye proue a Protectoure)
+               troweth hee that I perceyue not where vnto hys paynted proceſſe draweth? It is not
+               honourable that the Duke byde heere: It were comfortable for them both, that hee were
+               wyth hys brother, bycauſe the Kyng lacketh a play fellowe bee ye ſure. I praye God
+               ſende them bothe better playfellowes than hym, that maketh ſo a matter vppon ſuche a
+               tryfelyng proceede: thoughe there coulde none bee founden to playe wyth the Kyng, but
+               if hys brother that hath luſte to playe for ſickeneſſe, come out of ſanctuarye out of
+               hys ſafegarde to playe with hym: As though princes as yōg as they be, could not play
+               but with their peeres, or children coulde not play but with their kinred, with whom
+               for the more parte they agree much woorſe than withſtrangers.</p>
+            <p>But the chylde can not requyre the priuiledge, who told him ſo, he ſhal heare him aſk
+               it, &amp; he wil. Howbeit this is a gay matter, ſuppoſe he coulde not aſke it,
+               ſuppoſe he woulde not aſke it, ſuppoſe he woulde aſke to goe oute, if I ſay he ſhall
+               not, if I aſke the priuiledge but for my ſelfe, I ſay he that agaynſt my will taketh
+               him oute, breaketh the Sanctuarie. Serueth this libertie for my perſon onely, or for
+               my goodes Ye may not hence take my horſe fro me: and maye you take my childe fro me?
+               He is alſo my ward: <pb n="1369"/> for as my learned counſaile ſheweth me, ſithe hee
+               hath nothing by diſſent holden by knightes ſeruice, the lawe maketh his mother his
+               gardaine. Then may no man I ſuppoſe take my warde fro me out of Sanctuarie, without
+               the breache of the Sanctuarie. And if my priuiledge coulde not ſerue him, nor be aſke
+               it for himſelfe, yet ſith the lawe committeth to me the cuſtodie of him, I may
+               require it for him, except the law giue a child a gardaine onely for his goodes and
+               landes, diſcharging him of the cure and ſafekeeping of hys bodie, for whiche onely
+               both landes and goodes ſerue.</p>
+            <p>
+               <note place="margin"> that is betwene marke * d it is marke wit by him in gliſh but
+                  is ed out this Hiſtory which he aen.</note>And if examples be ſufficient to
+               obteyne priuiledge for my childe, I neede not farre to ſeeke. For in this place in
+               which we now be (and which is nowe in queſtion whether my childe may take benefite of
+               it) mine other ſonne nowe king was borne, and kept in his Cradle, and preſerued to a
+               more proſperous fortune, which I pray God lōg to continue. And as all you know, this
+               is not the firſt time that I haue taken Sanctuarie. For when my Lord my huſbande was
+               baniſhed, and thruſt out of hys kingdome, I fled hither, beeing great with childe,
+               and here I bare the Prince. And when my Lorde my huſbande returned ſafe againe, and
+               had the victorie, then went I hence to welcome him home, &amp; from hence I brought
+               my babe the Prince vnto his father, when he firſt tooke him in his armes. And I pray
+               God that my ſonnes palace may bee as great ſauegarde vnto him now raigning, as this
+               place was ſometyme to the kings enimie. In which place I intende to keepe his brother
+               ſithe. &amp;c. Wherefore here intende I to keepe him, ſince mans law ſerueth the
+               gardaine to keepe the infant. The law of nature will the mother keepe hir childe,
+               Gods lawe priuiledgeth the Sanctuarie, and the Sanctuarie my ſonne, ſithe I feare to
+               put him in the Protectors handes that hath his brother alreadie, and were (if both
+               fayled) inheritor to the crowne. The cauſe of my feare hath no man to do to examine.
+               And yet feare I no farther than the lawe feareth, which as learned men tell me,
+               forbiddeth euerye man the cuſtodie of them, by whoſe death he may inherite leſſe
+               lande than a kingdome. I can no more, but whoſoeuer he be that breaketh this holy
+               Sanctuarie, I pray God ſhortly ſende him neede of Sanctuarie, when hee may not come
+               to it. For taken out of Sanctuarie would I not my mortall enimie were.</p>
+            <p>The Lorde Cardinall perceyuing that the Queene waxed euer the longer the farther off,
+               and alſo that ſhe began to kindle and chafe, and ſpake more byting wordes agaynſt the
+               Protector, and ſuch as he neither beleeued, and was alſo loth to heare, he ſayd to
+               hir for a finall concluſion, that he would no longer diſpute the matter: but if ſhe
+               were content to deliuer the duke to him, and to the other Lordes preſent, he durſt
+               lay his owne bodie and ſoule both in pledge, not onely for hys ſuretie but alſo for
+               his ſtate. And if ſhe woulde giue re anſwere to the contrarie, hee woulde forthwith
+               depart therewithall, and ſhyfte who ſo woulde with this buſineſſe afterwardes, for
+               hee neuer intended more to moue hir in that matter, in which ſhe thought that he and
+               al other alſo ſaue hirſelfe lacked eyther wit or truth. Wit if they were ſo bull that
+               they coulde nothing perceyue what the Protector intended: truth if they ſhould
+               procure hee ſonne to be deliuered into hys handes, in whom they ſhoulde perceyue
+               towarde the childe any euill intended.</p>
+            <p>The Queene with theſe wordes ſtood a good while in a greate ſtudie. And foraſmuche as
+               hir ſeemed the Cardinall more readie to depart than ſome of the remnant, and the
+               Protector himſelfe readie at hande, ſo that ſhee verily thought ſhee coulde not keepe
+               him there, but that he ſhould incontinent bee taken thence: and to conuey hym elſe
+               where, neyther had ſhe time to ſerue hir, nor place determined, nor perſōs
+               appointed, al things vnredie, this meſſage came on hir ſo ſodainly, nothing leſſe
+               looking for, than to haue him ſet out of Sancturie, which ſhe thought to be now beſet
+               in ſuch places about, that he could not be conueyed out vntaken, and partly as ſhee
+               thought it myght fortune, hir feare to bee falſe, ſo well ſhe wyſſe it was eyther
+               needleſſe or bootleſſe: wherefore if ſhe ſhould needes go from him, ſhe deemed it
+               beſt to deliuer him. And ouer that, of the Cardinalles fayth ſhee nothing doubted,
+               nor of ſome other Lordes neyther, whom ſhe there ſawe. Whiche as ſhe feared leaſt
+               they might be deceyued: ſo was ſhe well aſſured they woulde not bee corrupted: then
+               thought ſhee it ſhoulde yet make them the more warely to looke to him, and the more
+               circumſpectly to ſee to his ſurety, if ſhe with hir own handes betooke him to them of
+               truſt. And at the laſt ſhe tooke the yong duke by the hande, &amp; ſayde vnto the
+               Lordes: My Lordes (quoth ſhee) and all my Lordes, I neyther am ſo vnwyſe to myſtruſte
+               youre wyttes, nor ſo ſuſpitious to myſtruſt your truthes: Of which thing I purpoſe to
+               make you ſuche a proofe, as if eyther of both lacked in you, myghte turne bothe mee
+               to greate ſorowe, the Realme to muche harme, and you to great reproch. For we, heere
+               is (quoth ſhe) thys Gentleman, whome I doubt not, but I coulde heere keepe ſafe, if I
+               woulde, whatſoeuer anye man ſaye: and I doubte not alſo, but there bee ſome abrode ſo
+               deadly enimies vnto my bloud, that if they wyſt where any of it laye in theyr owne
+               bodie, they would let it out. Wee haue alſo experience that the deſire of a kingdom
+               knoweth no kindred. The brother hath beene the <pb n="1370"/> brothers bane: and may
+               the nephewes be ſure of theyr vncle? Eche of theſe children is the others defence
+               while they be aſunder, and eche of theyr liues lieth in the others bodie. Keepe one
+               ſafe and both be ſure, and nothing for them both more perillous, than to be both in
+               one place. For what wiſe Marchant aduentureth all his goodes in one ſhip? All this
+               notwithſtanding, here I deliuer him, and his brother in him, to keepe, into youre
+               handes, of whom I ſhall aſke thē both afore god and the world. Faythfull ye be that
+               wore I well, and I know well you be wiſe. Power &amp; ſtrength to kepe him if you
+               liſt, neither lack ye of your ſelf, nor can lacke helpe in this cauſe. And if ye
+               cannot elſe where, then may you leaue him here. But only one thing I beſeech you, for
+               the truſt which his father put in you euer, &amp; for ye truſt that I put in you
+               nowe, that as farre as yee thinke that I feare too muche, be you well ware that you
+               feare not as farre too little. And therewithall ſhe ſayde vnto the childe, fare well
+               mine owne ſweete ſon, God ſend you good keeping: let me kiſſe you yet once ere you
+               goe, for God knoweth when wee ſhall kiſſe togither agayne. And therwith ſhe kiſſed
+               him, and bleſſed him, turned hir backe &amp; wept, and went hir way, leauing the
+               childe weeping as faſte.</p>
+            <p>When the Lorde Cardinall, and theſe other Lordes with him, had receyued this yong
+               duke, they brought him into the ſtarre Chamber, where the Protector tooke him in his
+               armes, and kiſſed him,<note place="margin">O diſsimulation.</note> with theſe wordes:
+               now welcome my Lord euen with all my very heart. And he ſayd in that of likelyhoode
+               as he thought. Therevpon forthwith they brought him vnto the king his brother, into
+               the Biſhoppes Palace at Poules, and from thence throughe the Citie honourably into
+               the Tower, out of the which after that day they neuer came abrode.</p>
+            <p>
+               <note place="margin">This that is heere betwene this marke * and ts marke * was not
+                  written by him in engliſh bt is tranſlated out of this Hiſtory which he wrot in
+                  Latten.</note> When the Protector had both the children in his handes, he opened
+               himſelfe more boldely, both to certaine other men, and alſo chiefly to the duke of
+               Buckingham. Although I knowe that many thought that this duke was priuy to al the
+               Protectors counſaile, euen from the beginning, and ſome of the Protectors friends
+               ſayde, that the duke was the firſt mouer of the Protector to this matter, ſending a
+               priuie meſſenger vnto hym, ſtreight after king Edwards death. But other againe which
+               knew better the ſubtil wit of the protector, denie that he euer opened his enterpriſe
+               to the duke, vntill he had brought to paſſe the things before rehearſed. But when hee
+               had impryſoned the Queenes kinſfolkes, and gotten both hir ſonnes into his owne
+               handes, then he opened the reſt of his purpoſe with leſſe feare to them whō he
+               thought meet for the matter, and ſpecially to the duke, who being woon to his
+               purpoſe, he thought his ſtrength more than halfe .</p>
+            <p>The matter was broken vnto the duke till folkes, and ſuch as were their craftmaiſt in
+               the handling of ſuch wicked deuiſes who declared vnto him that the yong king was with
+               him for hys kinſfolkes ſake and if hee euer able he would nge them. Who wt pricke him
+               forwarde therevnto if they they would remember their impriſonmēt) or if they were
+               put to death, without doubt the yong king woulde bee carefull for their deathes,
+               whoſe impriſonment was grieuous vnto him. And that with repenting the duke ſhoulde
+               nothing auaile, for there was no way left to redeeme his offence by benefites, but he
+               ſhoulde ſooner deſtroy hymſelfe than ſaue the king, who with his brother and his
+               kinſfolkes he ſawe in ſuch places impriſones, as the Protectour myghte wyth a backe
+               deſtroye them all: and that it were no doubt but he would doe it in deede, if there
+               were any newe enterpriſe attempted.</p>
+            <p>And that it was likely, that as the Protectour had prouided priuie garde for
+               himſelfe, ſo hadde hee ſpyalles for the Duke, and traynes to catche him, if hee
+               ſhoulde be agaynſte hym, and that peraduenture from them, whome hee leaſte ſuſpected.
+               For the ſtate of things and the diſpoſitions of men were then ſuch, that a man coulde
+               not well tell whom he might truſt, or whome he might feare.</p>
+            <p>Theſe things and ſuch like, beyng beaten into the Dukes mynde, brought him to that
+               point that where hee had repented the way that he had entred, yet woulde he goe forth
+               in the ſame, and ſince he had once begoonne, he would ſtoutely go through. And
+               therefore to this wicked enterpriſe which he beleeued coulde not be voyded, he bent
+               himſelfe, and went through and determined, that ſince the common miſchiefe coulde not
+               be amended, he would turne it as much as he might to his owne commoditie.</p>
+            <p>Then it was agreed, that the Protector ſhould haue the Dukes ayde to make him king,
+               and that the Protectors onely lawfull ſonne ſhould mary the Dukes daughter, and that
+               the Protectour ſhould graunt him the quiet poſſeſſion of the erledome of Hertford,
+               which he claymed as his inheritaunce, and could neuer obteyne it in king Edwardes
+               tyme.</p>
+            <p>Beſides theſe requeſtes of the Duke, the Protector of his owne minde promiſed him a
+               greate quantitie of the kings treaſure, and of his houſeholde ſtuffe. And when they
+               were thus at a point betwene themſelues, they went about to prepare for the
+               coronation of the yong king as they wold haue it ſeme. And that they might turne both
+               the eies &amp; minds of men frō perceyuing of their drifts otherwhere, the lords
+               being ſent for frō all partes <pb n="1371"/> of the Realme, came thicke to that
+               ſolemnitie. But the Protectour and the Duke af that, that they had ſent the Lorde
+               Cardinal, the Archbiſhop of Yorke then Lorde Chauncellour, the Biſhop of Elie, the
+               Lorde Stanley, and the lord Haſtings then Lorde Chamberlaine, with many other noble
+               men to common and deuiſe aboute the coronation in one place, as faſt were they in
+               another place, contriuing the contrarie, and to make the Protector King. To which
+               Councell, albeit there were adhibited very few, and they were ſecrete: yet began
+               there here and there aboute, ſome maner of muttering among the people, as though all
+               ſhould not long he well, though they neyther wyſte what they feared, nor whefore,
+               were it that before ſuch great things mens hearts of a ſecrete inſtinct of nature
+               miſgiue them.</p>
+            <p>As the ſea without wind ſwelleth of himſelf ſometime before a tempeſt: or were it
+               that ſome one man happily ſomewhat perceyuing▪ filled many men with ſuſpition, though
+               hee ſhewed fewe men what hee knew. Howheit ſomewhat the dealing it ſelf made men to
+               muſe on the matter, though the Councell were cloſe. For by little and little, all
+               folke withdrewe from the Tower, and drewe to Croſbies in Biſhops gates ſtreet, where
+               the Protector kept his houſhold. The protectour had the reſort, the King in manner
+               deſolate. </p>
+            <p>While ſome for theyr buſineſſe made ſute to them that had the doing, ſome were by
+               theyr friendes ſecretely wanted, that it might happily turne them to no good, to bee
+               too much attendante about the King wythout the Protectors appoyntment, whiche remoued
+               alſo diuerſe of the princes olde ſeruants from him, and ſet new about him.</p>
+            <p>Thus many things comming togyther, partly by chance, partly of purpoſe, cauſed at
+               length not common people onely, that wound with the winde, but wiſe men alſo, and
+               ſome Lordes e to marke the matter, and muſe there ſo farre forth, that the Lorde
+               Stanley that was after Earle of Darby, wiſely miſtruſted it, and ſayde vnto the Lorde
+               Haſtings, that he muche miſlyked theſe two ſeuerall Councels. For while wee oth hee)
+               talke of one matter in the a place, little wote wee, whereof they talke in the tother
+               place. My Lorde, (quoth the Lorde Haſtgs) on my life neuer doubt you: for while one
+               man is there, which is neuer thence, neer can there he thing once moued, that ſhoulde
+               ſounde amiſſe towarde me, but it ſhoulde hee in nae euery ere it were well out of
+               their mouthes.</p>
+            <p>
+               <note place="margin">Caby.</note>This ment he by Cateſby, which was of hys neare
+               ſecrete counſaile, and whome he verie familiarly vſed, and in his moſt weightie
+               matters put no man in ſo ſpecial truſt, riche thing himſelfe to no man ſo liefe,
+               fithe hee well wyſt there was no man ſo muche to him beholden as was thys Cateſbie,
+               which was a man well learned in the lawes of this lande, and by the ſpeciall honour
+               of the Lorde Chamberlayne, in good authoritie, and much rule bare in all the Countie
+               of Leyceſter, where the Lorde Chamberleynes power chiefely laye.</p>
+            <p>But ſurely greate pitie was it, yt hee had not had eyther more truth or leſſe wit.
+               For his diſſimulation onely, kept all that miſchiefe vp. In whome if the Lorde
+               Haſtings, hadde not put ſo ſpeciall truſt, the Lorde Stanley and he had departed with
+               dyuerſe other Lordes, and broken all the daunce, for many yll ſignes that he ſawe,
+               which he nowe conſtrues all to the beſt. So ſurely thought he, that there coulde be
+               none hae toward him in that Councell intended, where Cateſhie was.</p>
+            <p>And of truth the Protectour, and the Duke of Buthingham, made verie good ſemblaunce
+               vnto the Lord Haſtings, and kept him much in companie. And vndoubtedly, the Protector
+               loued him well, and loth was to haue loſt him, ſauing for feare leaſt his lyfe
+               ſhoulde haue quayled their purpoſe. For which cauſe he mooued Cateſbie to proue with
+               ſome words caſt out a farre off, whether he coulde thinke it poſſible to win the
+               Lorde Haſtings vnto their part. But Cateſbie whether he aſſayed him, or aſſayed him
+               not, reported vnto them, that he found him ſo faſt, and heard him ſpeake ſo terrible
+               wordes, that hee dueſt no further breake.</p>
+            <p>And of truth the Lorde Chamberlaine of verie truſt ſhewed vnto Cateſbie the diſtruſt
+               that other beganne to haue in the matter. And therfore hee fearing leaſt theyr motion
+               mighte with the Lorde Haſtings niſhe his credence, where vnto onely all the matter
+               leaned, procured the Protector haſtily to rid him. And muche the rather, for that he
+               truſted by his death to obteyne muche of the rule that the Lorde Haſtinges ha in his
+               Countrey the onely deſire whereof was the allectiue that induced hym to bee partner
+               and one ſpeciall contriuer of all thys horrible treaſon.</p>
+            <p>Wherevpon ſoone after,<note place="margin">Thirtenth of Iune.</note> that is to wit
+               on the Fryday the day of many Lordes aſſembled in the Tower, and their ſte in
+               Councell, duiſhing the honourable ſolemnitie of the Kings Coronation, of which the
+               tyme appoynted then to neare approached, that the paantes and ſubtiltyes to ere king,
+               daye and night at Weſtminſter, and much vytayle killed therefore, that afterwarde was
+               caſt away.</p>
+            <p>Theſe Lordes ſo ſitting togither coning of this matter, the Protector came in amongſt
+                  <pb n="1372"/> them, firſt about .ix. of the clocke, ſaluting them courteouſly,
+               and excuſing himſelfe that hee had beene from them ſo long, ſaying merily had bene a
+               ſleeper that day.</p>
+            <figure/>
+            <p>And after a little talking with them, he ſayde vnto the Biſhop of Elie: My Lorde you
+               haue very good Strawberies at your Garden in Holborne, I require you let vs haue a
+               meſſe of them. Gladly my Lorde (quoth he) woulde God I had ſome better thing as
+               readie to youre pleaſure as that. And therewith in all the haſte hee ſent hys ſeruant
+               for a meſſe of Strawberies.</p>
+            <p>The Protectour ſet the Lordes faſt in communing, and therevpon praying them to ſpare
+               him for a little while, departed thence. And ſoone after one houre, betweene tenne
+               and eleuen he returned into the Chamber among them al, changed with a wonderful ſoure
+               angrie countenance, knitting the browes, frowning and fretting, and gnawyng on his
+               lyppes, and ſo ſatte hym downe in his place, all the Lordes muche diſmayde and ſore
+               marueyling of this maner of ſodaine chaunge, and what thing ſhould him ayle. Then,
+               when he had ſitten ſtill a while, thus he beganne: What were they worthie to haue
+               that compaſſe and ymagine the deſtruction of me, being ſo nere of bloud vnto the
+               king, and Protector of his royal perſon and his realme? At this queſtion, al the
+               Lordes ſat ſore aſtonied, muſing much by whom this queſtion ſhould be ment, of whiche
+               euery man wyſt himſelfe cleare.</p>
+            <p>Then the Lorde Chamberlaine as he that for the loue betwene them thought he might bee
+               boldeſt with him, aunſwered and ſayde, that they were worthie to be puniſhed as
+               heynous traitors, whatſoeuer they were. And all the other affyrmed the ſame. That is
+               quoth he yonder ſorcereſſe my brothers wife, and other with hir, meaning the
+               Queene.</p>
+            <p>At theſe wordes manye of the other Lordes were greatly abaſhed, that fauoured hir,
+               But the Lord Haſtings was in his minde content, yt it was moued by hir, thā by any
+               other whō he loued better: Albeit his heart ſow grudged, that he was not afore made
+               of in this matter, as he was of the taking of hir red, and of their putting to death,
+               which were by his aſſent before, deuiſed to be beheaded at Pon fret this ſelfe ſame
+               day, in which he was not ware that it was by other deuiſed, that himſelfe ſh be
+               beheaded the ſame day at London. Then ſayd the Protector, ye ſhall all ſee in what
+               wiſe t ſorcereſſe, and that other Witche of hir cou Shores wife with their affinitie,
+               haue by theyr ſorerſe and witchcraft waſted my bodie. ad therewith he plucked vp his
+               dubled ſleeue to hys elbow vpō his left arme, where he ſhewed a riſh withered arme,
+               and ſmall, as it was neuer other. And therevpon euery mans minde ſore miſgaue them,
+               well perceyuing that this was but a quarell. For they well wy Queene was too wiſe to
+               goe aboute anye folly. And alſo if ſhee woulde, yet woulde e of all folke leaſt, make
+               Shores wiſe of ou, whome of all women ſhee moſte hated, Concubine whom the king hir
+               huſband had loued.</p>
+            <p>And alſo, no man was there preſent but well knewe that his arme was euer ſuche ſince
+               hys byrth. Naytheleſſe the Lorde Cha (whiche fro the death of King Edwarde Shores
+               wyfe, on whome hee ſomewhat in the Kings lyfe, ſauing (as it is ſayd) he, ha while
+               forbare hir of reuerence Edwarde the or elſe of a certayne kynd of fidelitie to his )
+               aunſwered and ſayde: certainlye my Lorde, if they haue ſo heynouſly done, they be
+               worthie nous puniſhment.</p>
+            <p>
+               <pb n="1373"/>What (quoth the Protectour) thou ſerueſt me I wene wyth iffes and wyth
+               andes, I tell thee they haue ſo done, and that I will make good on thy bodie
+               traytour: and therewith as in a greate anger, he clapped his fyſt vpon the bourd a
+               great rappe. At which token giuen, one cried treaſon withoute the Chamber. Therewith
+               a doore clapped, and in come there ruſhing men in harneſſe, as many as the chamber
+               myght holde. And anone the Protectour ſayd to the Lord Haſtings: I arreſt thee
+               Traytour: What mee my Lorde? (quoth he) yea thee traytour quoth the Protector. And
+               another let flie at the Lorde Stanley,<note place="margin">The Lord Stā eded.</note>
+               whiche ſhrunke at the ſtroke, and fell vnder the Table, or elſe his heade had beene
+               cleft to the teeth: for as ſhortly as he ſhranke, yet came the bloud about his eares.
+               Then were they all quickly beſtowed in diuerſe Chambers, except the Lorde
+               Chamberlaine, whome the Protectour hade ſpeede and ſhrine him apace, for by Saint
+               Paule (quoth hee) I will not to dinner till I ſee thy head off.</p>
+            <p>It booted him not to aſke why, but heauily tooke a prieſt at auenture, and made a
+               ſhort ſhrift for a longer would not be ſuffered, the Protector made ſo much haſt to
+               dinner, which hee myghte not goe to, till this were done, for ſauing of hys othe. So
+               was hee brought forth into the greene beſide the Chappell within the Tower, and hys
+               heade layd downe vpon a long logge of tymber, and there ſtryken off, and afterwarde
+               his bodie with the heade enterred at Windſore beſyde the bodie of king Edwarde, whoſe
+               both ſoules oure Lorde pardon.</p>
+            <p>A marueylous caſe is it to heare eyther the warnings of that he ſhoulde haue voyded,
+               or the tokens of that hee coulde not voyde, for the ſelfe night next before his
+               death, the Lorde Stanley ſent a truſtie ſecrete Meſſenger vnto him at midnight in all
+               the haſt, requyring him to riſe and ryde away with hym, for hee was diſpoſed vtterlye
+               no longer to byde, hee hadde ſo fearefull a dreame,<note place="margin"> Lorde deyt
+                  e.</note> in whiche him thought that a Boare with his tuſkes ſo raſed them both by
+               the heades, that the bloud ranne about both theyr ſhoulders. And foraſmuch as the
+               Protector gaue the Boare for his cogniſaunce, this dreame made ſo fearefull an
+               impreſſion in his heart, ye he was throughly determined no lōger to tarie, but had
+               his horſe readie, if the Lorde Haſtings would go with him to ride yet ſo farre the
+               ſame night, that they ſhuld be out of daunger ere day. Ha good Lorde (quoth ye Lord
+               Haſtings to this meſſenger) leaneth my Lorde thy maiſter ſo much to ſuch tryfles, and
+               hath ſuch fayth in dreames, whiche eyther hys owne feare fantaſteth, or doe ryſe in
+               the nyghtes reſt by reaſon of his day thoughtes? Tell hym it is plaine witchcraft to
+               beleue in ſuch dreames, whiche if they were tokens of things to come, why thinketh he
+               not that we might bee as lykely to make them true by our goyng, if wee were caughte
+               and brought backe (as friends fayle fleers) for then had the Boare a cauſe likely to
+               race vs wyth hys Tuſkes, as folke that de for ſome falſehoode, wherefore eyther is
+               there no perill, nor none there is in deede: or if any bee, it is rather in going
+               than byding. And if wee ſhould needes coſt fall in perill one way or other, yet hadde
+               I lieffer that manne ſhoulde ſee that it were by other mennes falſehoode, than thinke
+               it were eyther by our owne faulte, or faynt heart. And therefore go to thy maiſter
+               man, and commende mee to him, and pray him be merie and haue no feare: for I enſure
+               him I am as ſure of the man that he woteth of, as I am of mine own hande. God ſend
+               grace ſir, quoth the meſſenger, and went his way.</p>
+            <p>Certaine is it alſo, that in ryding towardes the Tower the ſame morning in which he
+               was beheaded, hys Horſe twiſe or thriſe ſtumbled wyth him, almoſt to the falling,
+               which thing albeit eche man wote wel dayly happeneth to them to whome no ſuch
+               myſchaunce is towarde, yet hath it beene of an olde ryte and cuſtome, obſerued as a
+               token oftentymes notably foregoyng ſome great miſfortune.</p>
+            <p>Nowe this that followeth was no warning but an enuious ſkorne.</p>
+            <p>The ſame morning ere hee was vp, came a knight vnto him, as it were of courteſie, to
+               accompanie him to the Councell, but of truth ſent by the Protectour to haſt him
+               thitherwards, with whom he was of ſecret confederacie in that purpoſe, a meane man at
+               that time, and nowe of great authoritie.</p>
+            <p>This knight when it happed the Lord Chā berlayne by the way to ſtay his horſe, and
+               commane a while wyth a Prieſt whome he mette in the Tower ſtreete, brake his tale,
+               and ſayde merily to him, what my Lord I pray you come on, whereto talke you ſo long
+               wyth that Prieſt, you haue no neede of a Prieſt yet: and therewyth hee laughed vpon
+               him, as though he would ſay, ye ſhall haue ſoone. But ſo little wyſt the tother what
+               he ment, and ſo little miſtruſted, that he was neuer meryr, nor neuer ſo ll of good
+               hope in his lyfe, which ſelfe thing is a ſigne of chaunge. But I ſhall rather ſet
+               anye thing paſſe me, than the vaine ſuretie of mannes minde ſo neare his death.</p>
+            <p>Vpon the verie Tower Wharfe, ſo neare the place where his head was off ſoone after,
+               there met he with one Haſtings a Prſeuaunt of his owne name. And of theyr meeting in
+               that place, hee was put in remembraunce of another tyme, in whiche it had happened
+               them before to meete in <pb n="1374"/> like maner togither in the ſame place. At
+               which other time the Lorde chamberlaine had beene accuſed vnto King Edwarde by the
+               Lorde Ryuers the Queenes brother, in ſuche wiſe as hee was for the while (but it
+               laſted not long) farre fallen into the kings indignation, and ſtoode in great feare
+               of himſelfe. And foraſmuche as hee now met this Purſeuaunt in the ſame place that
+               ieopardie ſo well paſſed, it gaue him great pleaſure to talke with him thereof, wyth
+               whome he hadde before talked thereof in the ſame place, while he was therein. And
+               therefore he ſayd: Ah Haſtings art thou remembred when I met thee here once with an
+               heauie heart? Yea my Lorde, (quoth he) that remember I well, and thanked bee God,
+               they gat no good, nor you no harme thereby. Thou wouldeſt ſay ſo (quoth hee) if thou
+               kneweſt as much as I knowe, which few know elſe as yet, and mo ſhall ſhortly. That
+               ment hee by the Lordes of the Queenes kyndred that were taken before, and ſhould that
+               day be beheaded at Pomfret: which he well wyſt, but nothing ware that the Axe hung
+               ouer his owne heade. In fayth man (quoth he) I was neuer ſo ſorie, nor neuer ſtoode
+               in ſo greate dreade in my lyfe, as I did when thou and I mette here. And lo howe the
+               worlde is turned, nowe ſtand mine enimyes in the daunger (as thou mayeſt happe to
+               heare more hereafter) and I neuer in my lyfe ſo mery, nor neuer in ſo great ſuretie. </p>
+            <p>O good God the blindneſſe of our mortal nature, when he moſt feared, he was in good
+               ſuretie, when hee reckened himſelfe ſureſt he loſt his life, and that within two
+               houres after.</p>
+            <p>
+               <note place="margin">The diſcriptiō of the Lord Haſtings</note>Thus ended this
+               honourable man, a good Knight and a gentle, of greate authoritie wyth his Prince, of
+               lyuing ſomewhat diſſolute, plaine and open to his enimie, and ſecrete to hys friend,
+               eaſie to beguile, as he that of good heart and courage foreſtudied no perilles, a
+               louyng man and paſſing well beloued: verie faythfull and truſtie ynough, truſting too
+               much.</p>
+            <p>Nowe flewe the fame of this Lordes death ſwiftly through the Citie, and ſo foorth
+               further about like a wynde in euerie mans eare.</p>
+            <p>But the Protector immediately after dinner, entending to ſette ſome colour vpon the
+               matter, ſent in all the haſt for many ſubſtantiall men out of the Citie into the
+               Tower. And at theyr comming, himſelfe with the Duke of Buckingham, ſtoode harneſſed
+               in olde yll faring Bryganders, ſuche as no man ſhoulde wene that they woulde
+               vouchſafe to haue put vpon theyr backes, except that ſome ſodaine neceſſitie had
+               conſtrayned thē.</p>
+            <p>And then the Protector ſhewed them, that the Lorde Chamberlayne and other of his
+               conſpiracie had contriued to haue ſodainly deſtroyed him, and the Duke there the ſame
+               day in the coū cell. And what they intended further was as yet not well knowne. Of
+               whiche their treaſon hee neuer had knowledge before tenne of the clocke the ſame
+               forenoone, whiche ſodaine feare dra them to put on for theyr defence ſuch harneſſe as
+               came next to hande. And ſo had God holpen thē, that the miſchiefe turned vpon them
+               that would haue done it. And this hee requyred them to report.</p>
+            <p>Euery man aunſwered him fayre, as though no man miſtruſted the matter, which of troth
+               no man beleeued. Yet for the further appeaſing ofthe peoples mynde, hee ſent
+               immediately after dinner in all the haſte, one Heraulte of Armes,<note place="margin"
+                  >The protec Procla </note> with a Proclamation to be made through the citie in the
+               kings name, conteyning that the Lord Haſtings with diuers other of his traiterous
+               purpoſe, had before conſpired the ſame day, to haue ſlaine the Lorde Protectour, and
+               the Duke of Buckingham, ſitting in the Councell, and after to haue taken vpon them to
+               rule the king, and the Realme at theyr pleaſure, and thereby to pill and ſpoyle whome
+               they lyſte vncontrolled. And much matter there was in that proclamation, deuiſed to
+               the ſlaunder of the Lorde Chamberlain, as that hee was an euill Counſailer to the
+               kings father, intiſing him to manye things highly redounding to the miniſhing of his
+               honour, and to the vniuerſall hurt of his realme by his euil company, ſiniſter
+               procuring, &amp; vngracious enſample, as well in many other things, as in the vicious
+               liuing and inordinate abuſion of his bodie, both with many other, &amp; alſo
+               ſpecially with Shores wife, which was one alſo of his moſt ſecret counſaile of this
+               heynous treaſon, with whome he lay nightly, and namely the night laſt paſt next
+               before his death, ſo that it was the leſſe maruaile, if vngracious liuing brought him
+               to an vnhappie ending, which he was now put vnto, by the moſt dread commaundement of
+               the kings highneſſe, and of his honourable and faythfull counſayle, both for his
+               demerits being ſo openly taken in his falſly conceyued treaſon, and alſo leaſt the
+               delaying of his extention, myght haue encouraged other miſchieuous perſons partners
+               of his conſpiracie, to gather and aſſemble themſelues togither, in making ſome greate
+               commotion for his delyuerance: whoſe hope now being by his well deſerued death,
+               politikely repreſſed, all the realme ſhould by Gods grace, reſt in good quiet &amp;
+               peace.</p>
+            <p>Now was this Proclamation made within two houres after that he was beheaded, &amp; it
+               was ſo curiouſly indited, and ſo faire written in parhment, in ſo wel a ſet hand,
+               &amp; therwith of it ſelfe ſo long a proces, yt euery childe might well perceiue that
+               it was prepared before. For all the tyme betwene his death &amp; the proclayming,
+               could ſcant haue ſufficed vnto the hare writing alone, all had <pb n="1375"/> it bene
+               but in Paper, and ſcribled forth in haſte at aduenture. So that vpon the proclayming
+               thereof, one that was ſchoolmaiſter of Pauls of ae ſtanding by, and comparing the
+               ſhortneſſe of the time with the length of the matter, ſayd vnto them yt ſtood about
+               him, here is a gay goodly eaſt, foule caſt away for haſte: and a marchant aunſwered
+               him, that it was written by prophecie. Now then by and by, as it were for anger, not
+               for couetiſe, the Protectour ſent into the houſe of Shores wife (for hir huſbande
+               dwelled not with hir) and ſpoyled hir of all that euer ſhe had, aboue the value of
+               two or three thouſand mark, and ſent hir bodie to priſon. And when he had a while
+               layd vnto hir (for the maner ſake) that ſhe went about to bewitch him, and that ſhe
+               was of coūſaile with the Lorde Chamberlaine to deſtroy him: in concluſion when that
+               no colour coulde faſten vpon theſe matters, then hee layde heynouſly to hir charge,
+               that thing that hir ſelfe coulde not denie, that all the world wyſt was true, and
+               that naytheleſſe euerie man laughed at, to heare it then ſo ſodainly, ſo highly
+               taken, that ſhe was naught of hir bodie.</p>
+            <p>And for this cauſe (as a goodlye continent prince, cleane and faultleſſe of himſelfe,
+               ſent oute of heauen into this vicious world for the amendment of mens maners) he
+               cauſed the Biſhop of London to put hir to open penance, going before the Croſſe in
+               Proceſſion, vpon a Sunday wyth a Taper in hir hande. In whiche ſhee went in
+               countenaunce and pace demure ſo womanlye, and albeit ſhe were out of all array ſaue
+               hir kyrtle onely, yet went ſhe ſo fayre and lonely, namely while the wondering of the
+               people caſt a comely rudde in hir cheekes (of whiche ſhee before had moſt miſſe) that
+               hir great ſhame wanne hir much prayſe, among thoſe that were more amorous of hir
+               bodie, than curious of hir ſoule. And many good folk alſo that hated hir liuing, and
+               glad were to ſee ſinne corrected: yet pityed they more hir penaunce, than reioyced
+               therein, when they conſydered that the Protectour procured it, more of a corrupte
+               intente, than any vertuous affection.</p>
+            <p>This woman was borne in London, worſhipfully friended,<note place="margin">The
+                  deſcripti n of Shores </note> honeſtly brought vp, and verie well maryed, ſauing
+               ſomewhat too ſoone, hir huſbande an honeſt Citizen, yong and godly and of good
+               ſubſtaunce. But for aſmuche as they were coupled ere ſhe were well rype, ſhe not
+               verie feruently loued, for whome ſhee neuer longed, which was happely the thing that
+               the more eaſily made hir incline vnto the kings appetite, when hee required hir.
+               Howbeit the reſpect of hys royaltie, the hope of gay apparell, eaſe, pleaſure, and
+               other wanton wealth, was able ſoone to pierſe a ſoft tender heart.</p>
+            <p>But when the King hadde abuſed hir, anon hir huſbande (as hee was an honeſt man, and
+               are that coulde hys good, not preſuming to to he a Kings Concubine) left hir vp to
+               him altogither.</p>
+            <p>When the king died, the Lorde Chamberlaine looke hir, which in the kings dayes,
+               albeit he was ſore enamoured vpon hir, yet he forbare hir, eyther for reuerence, or
+               for a certaine friendlye faythfulneſſe, Proper ſhe was and fayre: nothing in hir
+               bodie that you would haue chaunged, but if you would haue wiſhed hir ſomewhat
+               higher.</p>
+            <p>Thus ſay they that knew hir in hir youth. Albeit ſome that now ſee hir (for yet ſhe
+               liueth) deme hir neuer to haue bene wel viſaged, whoſe iudgement ſeemeth me ſomewhat
+               like, as though men ſhould geſſe the beautie of one long before departed, by hir
+               ſcalpe taken out of the charuell houſe: for now is ſhe old, leane, withered, and
+               dryed vp, nothing left but riueld ſkinne and hard bone. And yet beeing euen ſuch: who
+               ſo well aduiſe hir vyſage, myght geſſe and deuiſe, which partes how filled woulde
+               make it a fayre face. Yet delyted not men ſo much in hir beautie as in hir pleaſant
+               behauiour. For a proper wit had ſhe, and could both read well and write, merrie in
+               companie, readie and quicke of aunſwer, neyther mute nor full of bable, ſomtime
+               taunting without diſpleaſure and not without diſport.</p>
+            <p>The king would ſay that he had three concubines,<note place="margin">King Edwarde
+                  three concubines.</note> which in three dyuerſe properties diuerſly excelled. One
+               the merieſt, another the wilyeſt, the thirde the holyeſt harlot in his realme, as one
+               whome no man coulde gette out of the Churche lightly to any place, but it were to his
+               bed. The other two were ſomewhat greater perſonages, &amp; naytheleſſe of theyr
+               humilitie cōtent to be nameleſſe, &amp; to forbeare the prayſe of thoſe propertyes.
+               But the merieſt was this Shores wife, in whom the King therefore tooke ſpeciall
+               pleaſure. For many he hadde, but hir he loued, whoſe fauor to ſay the troth (for
+               ſinne it were to velle the Diuell) ſhee neuer abuſed to any mannes hurt, but to many
+               a mannes comfort and reliefe on where the king tooke diſpleaſure ſhe woulde mitig and
+               appeaſe hys mynde: where men were out ſauour ſhee woulde bring them in hys gra. For
+               manye that had highly offended ſhee obteyned pardon. Of great forfeytures ſhe gat men
+               remiſſion. And finally, in many weightie ſuites ſhee ſtoode many men in great ſtea
+               ther for none or verye ſmall rewardes, and theſe rather gaye than riche▪ eyther for
+               that ſhee was content wyth the deede ſelfe well done, or for that ſhee delyted to bee
+               ſued vnto, and to ſhewe what ſhee was able to doe wyth the King, or for that wanton
+               women and welthie hee not alwayes couetous.</p>
+            <p>
+               <pb n="1376"/>I doubt not ſome ſhall thinke this woman to ſleight a thing to bee
+               written of, and ſet among the remembraunces of greate matters: whiche they ſhall
+               ſpecially thinke, that happily ſhall eſteeme hir onely by that they nowe ſee hir. But
+               me ſeemeth the chaunce ſo muche the more worthie to be remembred, in howe much ſhe is
+               nowe in the more beggerly condition, vnfriended and worne out of acquaintance, after
+               good ſubſtance, after as great fauour with the Prince, after as great ſute and
+               ſeeking to with al thoſe that thoſe dayes had buſineſſe to ſpeede, as many other men
+               were in theyr tymes, which be now famous only by the infamy of theyr yll deedes. Hir
+               doyngs were not much leſſe, albeit they be much leſſe remembred bicauſe they were not
+               ſo euill. For men vſe if they haue an euill turne, to write it in marble: and who ſo
+               doeth vs a good turne, we write it in duſt, whiche is not worſt prooued by hir: for
+               at this day ſhee beggeth of many at this day lyuing, that at thys day had begged if
+               ſhee had not beene.</p>
+            <p>Now was it ſo deuiſed by the Protector and his counſaile, that the ſelfe day in which
+               the Lord Chamberlaine was beheaded in the Tower of London, and aboute the ſelfe ſame
+               houſe, there (not without his aſſent) beheaded at P fret, the fore remembred Lordes
+               and Knightes that were taken from the King at Northampton and Stonie Stratforde.<note
+                  place="margin">Sir Richard Ratcliffe.</note> Which thing was done in the preſence,
+               and by the order of ſir Rycharde Ratcliffe knight, whoſe ſeruice the Protector
+               ſpecially vſed in that Councell, and in the execution of ſuch lawleſſe enterpriſes,
+               as a man that had beene long ſecrete with him, hauing experience of the worlde, and a
+               ſhrewde wit, ſhort and rude in ſpeech, rough and boyſteous of behauiour, bold in
+               miſchief, as farre from pitie as from all feare of God.</p>
+            <p>This knight bringing them out of the priſon to the ſcaffolde, and ſhewing to the
+               people aboute that they were traytors, not ſuffring them to declare and ſpeak their
+               innocencie, leaſt their words might haue inclined men to pitie them, and to hate the
+               Protector and his part:<note place="margin">The Lord uers and o beheaded.</note>
+               cauſed them haſtily without iudgement, proces, or maner of order to be beheaded,
+               &amp; without other earthly g, but onely that they were good men, too true to the
+               <figure/> king, and too nigh to the Queene.</p>
+            <p>Nowe when the Lorde Chamberlaine and theſe other Lordes and knights were thus
+               beheaded and ridde out of the way: then thought the Protector, that while men muſed
+               what the matter ment, while the Lordes of the Realme were about him out of their owne
+               ſtrengthes; while no man wyſt what to thinke, nor whome to truſt, ere euer they
+               ſhoulde haue ſpace to diſpute and diſgeſt the matter and make partyes, it were beſt
+               haſtily to purſue his purpoſe, and put himſelfe in poſſeſſion of the Crowne, ere men
+               coulde haue tyme to deuiſe any way to reſiſt.</p>
+            <p>But now was all the ſtudie by what meane this matter being of it ſelfe ſo heynous,
+               might be firſt broken to the people, in ſuche wiſe that i might be well taken.</p>
+            <p>To this councell they tooke diuerſe, ſuche as they thought meetly to be truſted,
+               likely to be duced to that part, and able to ſtāde them eyther by power or
+               policie.</p>
+            <p>Among whom they made of counſaile. Edmond Shaa knight then Maior of London,<note
+                  place="margin">Edmond Shaa Maior of London.</note> whiche vpon truſt of his owne
+               aduauncement, whereof hee was of a prowde heart highly rous, ſhould frame the Citie
+               to theyr apre. Of ſpirituall men they tooke ſuch as had wit, were in authoritie among
+               the people for op of theyr learnyng, and hadde no ſcrupulous conſcience.</p>
+            <p>
+               <pb n="1377"/>
+               <note place="margin"> Shaa .</note>Among theſe had they Iohn Shaa Clearke, brother to
+               the Maior, and Frier Penker, prouinciall of the Auguſtine Friers both Doctors of
+               diuinitie, both great Preachers, both of more learning than vertue, of more ſame than
+               learning. For they were before greatly eſtemed among the people: but after that neer.
+               Of theſe two the tone had a ſermon in prayſe of the Protector before the coronation,
+               the tother after, both ſo full of tedious flatterie, yt no mās eares could abide
+               thē. </p>
+            <p>Penker in his ſermon ſo loſt his voyce, that he was fain to leaue off &amp; come
+               downe in the midſt. Doctor Shaa by his ſermon loſt his honeſtie, and ſoone after his
+               life, for verie ſhame of the worlde, int which he durſt neuefter come abrode. But the
+               Frier forced for no ſhame, and ſo it harmed him the leſſe. Howbeit ſome doubt and
+               many thinken, that Penker was not of counſaile of the matter before the coronation,
+               but after the common maner fel to flatterie after: namely ſith his ſermon was not
+               incontinent vpon it, but at S. Marie Hoſpitall at the Eaſter after. But certain it
+               is, that Doctor Shaa was of counſaile in the beginning, ſo farre forth that they
+               determined that hee ſhoulde firſt breake the matter in a Sermon at Paules Croſſe, in
+               which he ſhoulde by the authoritie of his preaching, incline the people to the
+               Protectors ghoſtly purpoſe.</p>
+            <p>But nowe was all the labour and ſtudie, in the deuiſe of ſome conuenient pretext, for
+               which the people ſhoulde bee contente to depoſe the Prince, and accepte the
+               Protectour for King. In whiche dyuerſe things they deuiſed. But the chiefe thing and
+               the weightie of all that inuention, reſted in this that they ſhoulde alledge
+               baſtardie, eyther in king Edwarde himſelfe, or in his children or both. So that he
+               ſhould ſeeme diſabled to inherit the crowne, by the duke of York, and the prince by
+               him.</p>
+            <p>To lay baſtardie in king Edwarde, ſowned openly to the rebuke of the Protectors owne
+               mother, which was mother to them both, for in that poynt could be none other coulour
+               but to pretēd that hys owne mother was one aduoutreſſe, which notwithſtanding, to
+               further this purpoſe hee letted not: but naytheleſſe hee woulde that poynt ſhoulde
+               bee leſſe and more fauourably handled: not euen fully playne and directlye, but that
+               the matter ſhoulde bee touched aſlope craftily, as though men ſpared in that poynt to
+               ſpeake all the trothe, for feare of hys diſpleaſure.</p>
+            <p>But the other poynt concerning the baſtardie that they deuiſed to ſurmiſe in king
+               Edwards children, that woulde he ſhoulde be openly declared and inforced to the
+               vttermoſt. The colour and pretext whereof, cannot bee well perceyued. But if we firſt
+               repeate you ſome things long before done about king Edwards mariage.</p>
+            <p>After that King Edwarde the fourth had depoſed king Henrie the ſixth, and was in
+               peaceable poſſeſſion of the Realme, determining himſelfe to marrie as it was requiſit
+               both for hymſelfe and for the Realme, hee ſete once in Ambaſſade the Earle of
+               Warwike, with other noble men in his companie vnto Spaine, to intecate and conclude a
+               mariage betweene king Edward and the Kings daughter of Spaine. In which thing the
+               Earle of Warwicke founde the parties ſo towarde and willing, that hee ſpeedilye
+               according to his inſtructions wythout any difficultie, brought ye matter to verie
+               good cōcluſion</p>
+            <p>Now happened it, ye in the mean ſeaſon there came to make a ſute by petition to the
+               King Dame Elizabeth Gray,<note place="margin">Dame Elizabeth Gray.</note> whiche was
+               after hys Queene, at that time a Widowe, borne of noble bloud, ſpeciallye by hir
+               mother, whiche was Duches of Bedforde, ere ſhee maryed the Lorde Woodfielde hir
+               father. Howbeit this Dame Elizabeth hir ſelfe, being in ſeruice with Queene Margaret,
+               wyfe vnto King Henrie the ſixth, was maryed vnto one Graye an Eſquire, whome King
+               Henrie made Knight,<note place="margin">His name was Iohn Gray. Barnard heath by S.
+                  Albons.</note> vpon the fielde that he hadde on at agaynſt King Edwarde. And
+               little while enioyed he that knighthoode: for he was at the ſame field ſlaine.</p>
+            <p>After whiche done, and the Earle of Warwicke being in his Ambaſſade about the afore
+               remembred maryage, this poore Ladie made humble ſute vnto the king, that ſhe myght be
+               reſtored vnto ſuch ſmall landes as hir late huſbande had gyuen hir in ioynture. Whome
+               when the King behelde, and heard hir ſpeake, as ſhee was both fayre and of a goodlye
+               fauour, moderate of ſtature, well made, and verie wiſe: hee not onely pityed hir, but
+               alſo waxed enamoured of hyr. And taking hir afterwarde ſecretely aſide, beganne to
+               enter in talking more familiarlye.</p>
+            <p>Whoſe appetite when ſhe perceyued, ſhe vertuouſly denied him. But that did ſhee ſo
+               wiſely, and with ſo good maner, and wordes ſo well ſet, that ſhee rather kyndled his
+               deſyre than quenched it.</p>
+            <p>And finally, after many a meeting, muche wooyng, and many great promiſes, ſhe well
+               eſpyed the Kings affection towarde hir ſo greatly encreaſed, that ſhe durſt ſomewhat
+               the more boldly ſay hir mynde, as to him whoſe heart ſhe perceiued more feruently
+               ſet, than to fall off for a worde.</p>
+            <p>And in concluſion, ſhee ſhewed him playne, that as ſhe wyſt hirſelfe to ſymple to be
+               his wyfe, ſo thought ſhe hir ſelf too good to be his cōcubine. The King much
+               marueyling at hir conſtancie, as hee that had not beene woont elſe where to be ſo
+               ſtiffely ſayde nay, ſo much eſteemed hir continencie <pb n="1378"/> and chaſtitie,
+               that he ſet hir vertue in the ſtead of poſſeſſion and ryches, and thus taking
+               counſaile of his deſire, determined in all poſſible haſt to mary hir.</p>
+            <p>And after hee was thus appoynted, and had betwene them twaine enſured hir: then aſked
+               he counſaile of his other friendes, and that in ſuche maner, as they might then
+               perceiue, it booted not greatly to ſay nay.<note place="margin">The Kinges
+                  Mother</note> Notwithſtanding the Duches of Yorke his mother was ſo ſore moued
+               therwith, that ſhe diſſwaded the mariage aſmuch as ſhe poſſible might, alledging yt
+               it was his honour, profite, and, ſuretie alſo, to marie in a noble progeney out of
+               his realme, wherevpon depended greate ſtrength to his eſtate, by the affinitie and
+               greate poſibilitie of encreaſe of his poſſeſſion. And that he coulde not well
+               otherwiſe doe, ſtanding that the Earle of Warwike had ſo farre moued alreadie, which
+               were not likely to take it well, if all his voyage were in ſuch wiſe fruſtrate, and
+               his appoyntments deluded. And ſhe ſayde alſo, that it was not Princely to marie his
+               owne ſubiect, no great occaſion leading therevnto, no poſſeſſions, or other
+               commodities depending therevpon, but onely as it were a riche man that would marie
+               his mayd, only for a little wanton dotage vppon hir perſon. In which mariage many mo
+               cō mend the maidens fortune than the maſters wiſdome. And yet therein ſhe ſaide was
+               more honeſtie than honor in this mariage. Foraſmuch as there is betwene no marchant
+               and his own mayd ſo great difference, as betwene the king and this widow. In whoſe
+               perſon, albeit there was nothing to be miſlyked, yet was there (ſhe ſayd) nothing ſo
+               excellēt but that it might be found in diuerſe other that were more meetly (quoth
+               ſhe) for your eſtate, and maydens alſo, whereas the only wydowheade of Elizabeth
+               Gray, though ſhee were in all other things conuenient for you, ſhould yet ſuffice as
+               me ſeemeth to refrayne you from hir mariage, ſithe it is an vnſitting thing, &amp; a
+               verie blemiſh and highe diſparagement to the ſacred maieſtie of a Prince, that ought
+               as nigh to approche prieſthoode in cleanneſſe as he doth in dignitie, to bee defouled
+               with Bigamie in hys firſt mariage.</p>
+            <p>
+               <note place="margin">The Kinges Anſwere to his mother.</note>The king when his mother
+               had ſayde, made hir anſwere, part in earneſt part in play merily, as he that wyſt
+               himſelfe out of hir rule. And albeit hee woulde gladly that ſhe ſhould take it well,
+               yet was at a poynt in his owne minde, tooke ſhee it well or otherwiſe. Howbeit
+               ſomewhat to ſatiſfie hir, he ſayde, that albeit maryage beeyng a ſpirituall thing,
+               ought rather to bee made for the reſpect of God, where his grace enclineth the
+               parties to loue togither, as he truſted it was in hys, than for the regarde of any
+               temporall aduauntage: yet naytheleſſe, him ſeemed that this mariage euen worldly
+               conſidered, was not table. For he reckened ye amity of no earthly tion ſo neceſſarie
+               for him, as the friendſhip of his owne, whiche he thought likely to beate much the
+               more haetie fauour, in that he diſned not to mari with one of his owne lande. And yet
+               if outwarde alliance ware thought to requiſite, he woulde finde the meanes to nte
+               therevnto, much better by other of his kinde, where all the partyes could be
+               contented, then to mary himſelf whom he ſhould happely neuer loue, and for the
+               poſſibilitie of more poſſeſſions, leaſe the fruite and pleaſure of this that hee had
+               alreadie. For ſmall pleaſure taketh a man of all that euer he hath beſide, if he be
+               wined agaynſt his appetite. And I doubt not (quoth he) but there be as yee ſay other,
+               that be in euery poynt comparable with hir. And therefore I let not them that like
+               them to wedde them. No more is it reaſon, that it miſtyke any man, that I mary
+               whereit lyketh me. And I am ſure that my couſin of Warwike neither loueth me ſo
+               litle, to grudge at that I loue, nor is to vnreaſonable to looke that I ſhoulde in
+               choyſe of a wife, rather be ruled by his rie, than by mine own: as though I were a
+               warde that were bounde to marie by the appoyntment of a Gardaine. I woulde not bee a
+               King wyth that condition, to forbeare mine owne libertie in choyſe of myne owne
+               maryage. As for poſſibilitie of more inheritaunce by newe affinitie in ſtraunge
+               lands, is oft the occaſion of more trouble than profite. And we haue alredie tytle by
+               that meanes, to ſo much as ſufficeth to get and keepe well in one mannes dayes. That
+               ſhe is a Widow, and hath already childrē, by Gods bleſſed Ladie, I am a Bacheler and
+               haue ſome to, and ſo eche of vs hath a proufe that neither of vs is like to bee
+               barraine. And therefore (Madame) I pray you bee content, I truſt in God ſhe ſhall
+               bring forth a yong Prince that ſhall pleaſe you. And as for ye Bygamye, let the
+               Biſhoppe hardly lay it in my way when I come to take orders. For I vnderſtande it is
+               forbidden a Prieſt, but I neuer wyſt it yet, that it was forbidden a Prince.</p>
+            <p>The Duches with theſe wordes nothing appeaſed, and ſeeing the King ſo ſet thereon,
+               that ſhee coulde not pull him backe, ſo highly ſhe diſdeyned it, that vnder pretext
+               of hir duetie to godwarde, ſhe deuiſed to diſturbe this mariage, and rather to helpe
+               that hee ſhoulde marie one dame Elizabeth Lucie, whome the King had alſo not long
+               before gotten with child. Wherfore ye kings mother openly obiected agaynſt his
+               maryage, as it were in diſcharge of hir conſcience, that the Kyng was ſure to Dame
+               Elizabeth Lucy and hir huſband before God.<note place="margin">Elizabeth Lucy.</note>
+               By reaſon of which wordes, ſuch obſtacle was made in the matter, that eyther the
+               Biſhops durſt not, or the King <pb n="1379"/> woulde not proceede to the
+               ſolemnization of this wedding, till theſe ſame were clearly purged, and the troth
+               well and openly teſtified. Wherevpon dame Elizabeth Lucy was ſent for.</p>
+            <p>And albeit that ſhe was by the kings mother and many other put in good comfort, to
+               affirme that ſhee was enſured vnto the king: yet when ſhee was ſolemnly ſworne to ſay
+               the troth, ſhee confeſſed that they were neuer enſured. Howbeit ſhee ſayde his grace
+               ſpake ſo louing wordes vnto hir, that ſhe verily hoped hee woulde haue maryed hir.
+               And that if it had not beene for ſuch kinde wordes, ſhee woulde neuer haue ſhewed
+               ſuche kindneſſe to him, to let him ſo kindly get hir with childe.</p>
+            <p>This examination ſolemnly taken, when it was clearly perceyued that there was none
+                  impediment:<note place="margin">The kinges marriage.</note> the king with great
+               feaſt and honourable ſolemnitie, maried dame Elizabeth Gray, and hir crowned Queene
+               that was his enimyes wife, and many time had prayed full heartily for his loſſe, in
+               which God loued hir better than to graunt hir hir bone.</p>
+            <p>But when the Erle of Warwike vnderſtood of this mariage, he toke it ſo highly that
+               his Ambaſſade was deluded, that for very anger and diſdaine, he at his returning
+               aſſembled a great puiſſance againſt the king, and came ſo faſt vpon him or he could
+               be able to reſiſt, that he was faine to voyd the realme,<note place="margin">The king
+                  fled</note> and flee into Holland for ſuccor, where he remayned for the ſpace of
+               two yeares, leauing his new wife in Weſtminſter in Sanctuarie,<note place="margin"
+                  >The place e.</note> where ſhe was deliuered of Edwarde the prince, of whom we
+               before haue ſpoken. In which meane time the erle of Warwike toke out of priſon,<note
+                  place="margin">King Hoe on ſet vp</note> and ſet vp againe king Henry the ſixt,
+               which was before by king Edwarde depoſed, and that much what by the power of the
+               Earle of Warwike whiche was a wiſe man,<note place="margin"> the Erle of
+                  Warwicke.</note> and a couragious warrior, and of ſuch ſtrength, what for his
+               lands, his alliance, and fauour with all people, that hee made kings, and put downe
+               kings almoſt at his pleaſure, and not impoſſible to haue atteyned it himſelfe, if he
+               had not reckened it a greater thing to make a king than to be a king. But nothing
+               laſteth alway: for in concluſion king Edwarde returned,<note place="margin">The Erle
+                  of Warwick .</note> and with much leſſe number thā he had at Barnet on the
+               Eaſterday field, fiue the rule of Warwike, with many other great eſtates of that
+               partie, and ſo ſtably atteyned the crowne againe, that he peacably enioyed it vntill
+               his dying day: and in ſuch plight left it, that it could not be loſt, but by the
+               diſcorde of his verie friends, or falſehoode of his fayned friends. I haue rehearſed
+               this buſineſſe about this mariage ſomewhat the more at length, bycauſe it might
+               thereby the better appeare vppon how ſlipper a grounde the Protector buylded his
+               colour, by whiche he pretended king Edwards children to be baſtards. But that
+               inuention ſimple as it was, it like them to whō it ſufficed to haue ſomewhat to ſay,
+               while they were ſure to be compelled to no larger proufe thā themſelfe lyſt to
+               make.</p>
+            <p>Now then (as I began to ſhew you) it was by the protector &amp; his counſaile
+                  concluded,<note place="margin">Doctor Shaes Sermon.</note> that this doctor Shaa
+               ſhould in a ſermon at Paules croſſe ſignifie to the people, that neyther king Edward
+               himſelfe, nor the Duke of Clarence, were lawfully begotten, nor were not the verie
+               children of the duke of Yorke, but gotten vnlawfully by other perſons, by aduoutrie
+               of the duches their mother. And that alſo dame Elizabeth Lucy was verily the wife of
+               King Edwarde, and ſo the Prince and all his children baſtards, that were begotten
+               vpon the Queene.</p>
+            <p>According to this deuiſe doctor Shaa the ſunday after, at Paules Croſſe in a greate
+               audience (as alwaye aſſembled greate number to his preaching) he tooke for his Theme
+               Spuria vitulamina non agent radices altas. That is to ſay: Baſtarde ſlippes ſhall
+               neuer take deepe roote. <figure/> Therevpon when he had ſhewed the great grace that
+               God giueth and ſecretely infundeth in right generation after the lawes of matrimonie,
+               then declared he that commonly thoſe children lacked that grace, and for the
+               puniſhment of their Parents were for ye more pait vnhappie, which were gottē in
+               baſe, &amp; ſpecially in aduouterie. Of which though ſome by the ignorance of the
+               world &amp; the truth hid from knowledge inherited for the ſeaſon other mens landes,
+               yet God ſo prouideth, that it conth not in their bloud long, but the tenth cōming to
+               light the rightfull inheritors be reſtored, &amp; the haſtard ſlip vylled vp it can
+               be rooted de: And when he had laid for the proofe and confirmation of this ples taken
+               out of the old teſtament and other ancient hiſtories. Then gan he to diſcend into the
+               prayſe of the Lorde Richarde late Duke of Yorke, calling him father to the Lord
+               protector, <pb n="1380"/> and declared the title of his heyres vnto ye crown, to
+               whome it was after the death of king Henrie the ſixt entayled by authority of
+               Parliamēt. Thē ſhewed he that his verie ryght heyre of his bodye lawfully begotten
+               was only the Lord Protector. For he declared then, that King Edwarde was neuer
+               lawfully maryed vnto the Queene, but was before God huſband vnto Dame Elizabeth
+               Lucie, and ſo his children baſtardes. And beſides that, neyther King Edwarde
+               himſelfe, nor the Duke of Clarence, among thoſe that were ſecrete in the houſholde,
+               were reckened verie ſurely for the children of the noble Duke, as thoſe that by theyr
+               fauours more reſembled other knowne men than him. From whoſe vertuous cōditions he
+               ſayd alſo that kyng Edwarde was farre off. But the Lorde Protectour hee ſayde, the
+               verie noble Prince, the ſpeciall paterne of Knightly prowes, as well in all Princely
+               behauior as in the lineaments and fauour of his viſage, repreſented the verie face of
+               the noble Duke his father. This is, quoth he, the fathers owne figure, this is hys
+               owne countenaunce, the verie print of his viſage, the ſure vndoubted Image, the
+               plaine expreſſe likeneſſe of that noble duke.</p>
+            <p>Nowe was it before deuyſed, that in the ſpeaking of theſe wordes, the Protector
+               ſhoulde haue comen in among the people to the Sermon warde, to the ende that thoſe
+               wordes meeting with his preſence, might haue bene taken among the hearers, as thoughe
+               the holy ghoſt had put them in the preachers mouth, and ſhoulde haue moued the people
+               euen ther to crie, king Richard, king Richarde, that it might haue beene after ſayde,
+               that hee was ſpecially choſen by God and in maner by myracle. But this deuiſe
+               quayled, eyther by the Protectors negligence or the Preachers ouermuch diligence. For
+               while the Protectour founde by the way tarying, leaſt he ſhould preuent thoſe wordes,
+               and the Doctor fearing that he ſhoulde come ere hys Sermon coulde come to theſe
+               wordes, haſted his matter thereto, he was come to them, and paſte them, and entred
+               into other matters ere the Protector came. Whome when he behelde comming, he ſodainly
+               left the matter with which he was in hande, and without any deduction therevnto, out
+               of all order and out of all frame began to repeate thoſe words againe: this is the
+               verye noble Prince, the ſpeciall patrone of knightly prowes, whiche as well in all
+               princely behauiour, as in the liniaments &amp; fauor of his viſage, repreſenteth the
+               verie face of the noble duke of Yorke his father: this is the fathers owne figure,
+               this his owne countenance, ye very print of his viſage, the ſure vndoubted Image, the
+               plaine expreſſe likeneſſe of the noble duke, whoſe remembrance can neuer die while he
+               liueth. While theſe wordes were in ſpeaking, the Protector accōpanied with the duke
+               of Buckingham, went through the people into the place where the doctors commonly
+               ſtande in the vpper ſtorie, where he ſtood to hearken the ſermon. But the people were
+               ſo farre fro crying king Richard,<note place="margin">Preacher.</note> that they
+               ſtoode as they had beene turned into ſtones, for wonder of this ſhameful Sermon.</p>
+            <p>After which once ended, the Preacher g him home, and neuer after durſt looke out for
+               ſhame, but kept him out of ſight like an Owle. And when hee once aſked one that had
+               beene his olde friend what the people talked of him, all were it that his owne
+               conſcience well ſhewed him that they talked no good, yet when the tother anſwered
+               him, that there was in euery mannes mouth ſpoken of him muche ſhame, it ſo ſtroke him
+               to the heart, that within few dayes after hee withered and conſumed away.</p>
+            <p>Then on the Tueſday folowing this on, there came into the yeeld hal in London the
+               duke of Buckingham, accompanied with e lords and knights, me than happily knewe the
+               meſſage that they brought. And there in the E of the hal, where the Maior kepeth the
+               Haſtings, the Maior &amp; all the Aldermen being aſſembled a him, all the cōmons of
+               the Citie gathered before them: after ſilence cōmaunded vpon greate paine in the
+               protectors name: the duke ſtood vp and (as he was neither vnlerned, and of nature
+               marylouſly well ſpoken) he ſayd vnto the people with a cleare and a loude voyce in
+               this maner of wiſe.</p>
+            <p>
+               <q>FRiends,<note place="margin">The Duke of Bucking Ora.</note> for the zeale and
+                  heartie fauour that we beare you, we be comē to break vnto you of a matter right
+                  great and weightie, and no leſſe weightie than pleaſing to God, and profitable to
+                  all the Realme: nor to no part of the Realme more profitable, than to you the
+                  Citizens of this noble Citie. For why, that thing that we wote wel ye haue long
+                  time lacked, and fore lōged for, that ye would haue giuen great good for, that ye
+                  would haue gone farre to fetche, that thing we be come hither to bring you without
+                  your labour, paine, coſt, aduenture or ieopardie. What thing is that? Certes the
+                  ſuretie of your owne bodies, the quiet of your wiues and your daughters, the
+                  ſafegarde of your goodes: of all which things in times paſt ye ſtood euermore in
+                  doubt. For who was there of you all, that would recken himſelfe lord of his owne
+                  good among ſo many grennes &amp; traps as was ſet therfore, among ſo much pilling
+                  and polling, among ſo many taxes and allages, of which there was neuer ende, &amp;
+                  oftentimes no neede: or if any were, it rather grewe of ryot, and vnreaſonable
+                  waſt, than any neceſſary or honourable charge. So that there was dayly pilled fro
+                  good men and honeſt, great ſubſtance of goodes to be laſhed out among vnthrifts,
+                  ſo farre forth that fiftenes ſuffiſed not, nor anye vſuall names of <pb n="1381"/>
+                  knowne taxes: but vnder an eaſie name of beneuolence and good will, the
+                  comiſſioners ſo much of euery man tooke, as no man coulde with hys good will haue
+                  giuen. As though that name of beneuolence, had ſignified that euery man ſhoulde
+                  pay not what himſelfe of his owne good will liſt to graunt, but what the king of
+                  his good will lyſt to take. Which neuer aſked little, but euery thing was hawſed
+                  aboue the meaſure, amercimentes turned into fines, fiues into raunſoms, ſmal
+                  treſpaſſe into miſpriſion, miſpriſion into treaſon. Whereof I thinke no man loketh
+                  that we ſhould remember you of examples by name, as though Burdet were
+                     forgotten,<note place="margin"> .</note> that was for a worde ſpokē in haſt
+                  cruelly beheaded, by the miſconſtruing of the lawes of this realme, for the
+                  Princes pleaſure:<note place="margin">Markam.</note> with no leſſe honour to
+                  Markam then chiefe Iuſtice, that left his office rather than hee woulde aſſent to
+                  that iudgement, than to the diſhoneſtie of thoſe,<note place="margin"
+                     >Cooke.</note> that ryther for feare or flatterie gaue that iudgement. What
+                  Cooke your owne worſhipfull neighbour, Alderman and Maior of this noble Citie, who
+                  is of you ſo eyther negligent that he knoweth not, or ſo forgetfull that he
+                  remembreth not, or ſo hard hearted that he pityeth not, that worſhipful mans
+                  loſſe? what ſpeake we of loſſe? his vtter ſpoyle and vndeſerued deſtruction, onely
+                  for that it happed thoſe to fauour him whom the prince fauored not. We need not I
+                  ſuppoſe to rehearſe of theſe anye mo by name, ſith there bee (I doubt not) manye
+                  here preſent, that either in themſlues, or in their nigh friendes haue knowen as
+                  well their goods as their perſons greatly endaungered, eyther by feyned quarels,
+                  or ſmall matters agreeued with heynous names. And alſo there was no crime ſo
+                  great, of whiche there could lacke a pretext. For ſith the king preuenting the
+                  time of his inheritance attayned the crowne by battaile: it ſufficed in a riche
+                  man for a pretext of treaſon, to haue bin of kindred or alliance neare
+                  familiaritie or lōger acquaintaunce with any of thoſe that were at any tyme ye
+                  kings enimies, which was at one time and other, more than halfe the realme. Thus
+                  were neither your goods in ſurety, and yet they brought your bodies in ieopardie,
+                  beſide the common aduenture of opē warre,<note place="margin"> e warre.</note>
+                  which albeit that it is euer the wil and occaſion of much miſchiefe, yet is it
+                  neuer ſo miſchieuous as where any people fall at diſtaunce among thēſelues, nor
+                  in none earthly nation ſo deadly and ſo peſtilent, as when it hapneth amōg vs:
+                  and among vs neuer ſo long continued diſſention, nor ſo many battailes in that
+                  ſeaſon, nor ſo cruell and ſo deadly foughten as was in that kings days that dead
+                  is, God forgiue it his ſoule. In whoſe time, and by whoſe occaſion, what about the
+                  getting of the garland, keeping it, leaſing, and winning againe, it hath coſt more
+                  Engliſh bloud, than hath twiſe the winning of Fraunce.<note place="margin">Ciuill
+                     warre.</note> In which inwarde warre among our ſelues, hath bene ſo great uſion
+                  of the auncient noble bloud of this realme, that ſcarcely the halfe remayneth, to
+                  the great enfeebling of this noble land, beſide many a good towne ranſacked &amp;
+                  ſpoiled by them, that hath bene going to the fielde or comming from thence. And
+                  peace long after not much ſurer than warre. So that no time was therein which rich
+                  men for their money, &amp; greate men for their lands, or ſome other for ſome
+                  feare, or ſome diſpleaſure were not out of perill. For whō truſted he that
+                  miſtruſted his owne brother? whom ſpared he that killed his owne brother? or who
+                  could perfitely loue him, if his owne brother could not? What maner of folke he
+                  moſt fauored we ſhal for his honor ſpare to ſpeake of, howbeit this wote you well
+                  al, that who ſo was beſt, bare alway leaſt rule, and more ſute was in his dayes
+                  vnto Shores wife, a vile and an abhominable ſtrumpet, than to al the Lords in
+                  Englād, except vnto thoſe yt made hir their proctor, which ſimple woman was wel
+                  named &amp; honeſt, till the king for his wanton luſt and ſinfull affection bereft
+                  hir frō hir huſband, a right honeſt ſubſtantiall yong mā among you. And in that
+                  point, whiche in good fayth I am ſorie to ſpeake of, ſauing that it is in vaine to
+                  kepe in counſaile that thing that all men know, the kings greedie appetite was
+                  inſaciable, and euery where ouer all the realme intollerable. For no woman was
+                  there any where, yong or olde, riche or poore, whom he ſet his eye vpon, in whom
+                  he any thing lyked, eyther perſon or fauour, ſpeeche, pace, or countenaunce, but
+                  wythout any feare of god, or reſpect of his honor, murmure or grudge of the
+                  worlde, he woulde importunely purſue his appetite, &amp; haue hir, to the great
+                  deſtruction of many a good woman, and great dolor to their huſbande, and their
+                  other friendes, which being honeſt people of thēſelues, ſo much regarde the
+                  cleanneſſe of their houſe, the chaſtitie of their wiues, and their children, that
+                  them were leauer to leaſe all that they haue beſyde, than to haue ſuche a villanye
+                  done them. And all were it that wyth thys and other importable dealyng the Realme
+                  was in euerye parte annoyed: yet ſpeciallye yee heere the Cityzens of thys noble
+                  Citye, as well for that amongeſt you is moſte plentye of all ſuche things as
+                  myniſter matter to ſuche iniuryes, as for that you were neareſt at hande, ſithe
+                  that neare here about was commonly hys moſt abyding. And yet be ye the people
+                  whome he had as ſingular cauſe well and kindlye to entreate, as any parte of hys
+                  Realme, not onely for that the Prince by thys noble Citie,<note place="margin"
+                     >London the Kings eſpecial chamber.</note> as hys eſpeciall Chamber, and the
+                  ſpeciall well renowmed Citie of hys Realme, muche honourable fame <pb n="1382"/>
+                  receyueth among all other Nations: but alſo for that ye not without your great
+                  coſt, and ſundrie perils and ieopardies in all his warres, bare euen your ſpeciall
+                  fauor to his part, which your kinde mindes borne to the houſe of Yorke, ſith hee
+                  hath nothing worthily acquited, there is of that houſe that nowe by Gods grace
+                  better ſhall, whiche thing to ſhewe you is the whole ſumme and effect of this our
+                  preſente errande. It ſhall not I wote well, neede that I rehearſe you agayne, that
+                  ye haue alreadie hearde, of hym that can better tell it,, and of whome I am ſure
+                  ye will better beleeue it. And reaſon is that it ſo bee. I am not ſo prowde to
+                  looke therefore that yee ſhoulde recken my wordes of as greate authoritie as the
+                  Preachers of the worde of God, namely a man ſo cunning &amp; ſo wiſe, that no man
+                  better woteth what hee ſhoulde ſaye, and thereto ſo good and vertuous, that hee
+                  woulde not ſaye the thyng whiche he wyſt he ſhoulde not ſaye, in the Pulpet
+                  namely, into the which no honeſt man commeth to lie, which honourable Preacher yee
+                  well remember ſubſtanciallye declared vnto you at Paules Croſſe, on Sunday laſt
+                  paſſed, the right and title, that the moſt excellent prince Richarde Duke of
+                  Glouceſter, nowe Protectour of thys Realme hath vnto the Crowne and kingdome of
+                  the ſame. For as the worſhipfull man groundly made open vnto you, the children of
+                  K. Edward the fourth, were neuer lawfully begotten, foraſmuche as the king
+                  (leauing his verie wife Dame Elizabeth Lucy) was neuer lawfully maried vnto the
+                  Queene their mother, whoſe bloud ſauing that be ſet his voluptuous pleaſure before
+                  his honor, was full vnmeetly to bee matched with hys, and the mingling of whoſe
+                  blouds togither, hath beene the effuſion of great part of the noble bloud of this
+                  realme. Whereby it may well ſeeme the mariage not wel made, of which there is ſo
+                  much miſchiefe growne. For lacke of which lawful accoupling, and alſo of other
+                  things which the ſayd worſhipfull doctor rather ſignified than fully explayned,
+                  and which things ſhall not be ſpoken for me, as the thing wherin euery man
+                  forbeareth to ſay that hee knoweth in auoyding diſpleaſure of my noble Lord
+                  Protector, bearing as nature requireth a filiall reuerence to the Duches his
+                  mother, for theſe cauſes I ſay before remēbred, that is to wit, for lacke of
+                  other iſſue lawfully cōming of the late noble prince Richard duke of Yorke to
+                  whoſe royall bloud the Crowne of England and of Fraunce, is by the high authoritie
+                  of Parliamen entayled, the right and title of the ſame, is by the iuſt courſe of
+                  enheritaunce according to the common lawes of this lande, deuolute and common vnto
+                  the moſte excellent Prince the Lorde Protector, as to the very lawfully begottē
+                  ſon of the foreremembred noble duke of Yorke. Which thing well conſidered, and the
+                  greate knightlye prowes pondered, with manifolde vertues which in his noble perſon
+                  ſingularly abound, the nobles and commons alſo of this realme, and ſpeciallye of
+                  the north part, not willing any baſtarde bloud to haue the rule of the lande, nor
+                  the abuſions before in the ſame vſed any longer to continue, haue cōdiſcended and
+                  fully determined to make humble petition to the moſte puiſſaunte Prince the Lorde
+                  Protectour, that it may lyke his grace at our humble requeſt, to take vpon him the
+                  guiding and gouernaunce of this Realme, to the wealth and encreaſe of the ſame,
+                  according to his verie right and iuſt tytle. Which thing I wore it well, hee will
+                  bee loth to take vppon hym, as he whoſe wiſedome well perceyueth the labor and
+                  ſtudie both of minde and bodie, that ſhall come therewith, to whomeſoeuer ſo will
+                  occupie the rowme, as I dare ſay hee will if he take it. Which rowme I warne you
+                  well is no childes office. And that the great wiſe man well perceyued, when he
+                  ſayd: Veh regno cuius rex puer eſt: <hi>VVo is that Realme that hath a childe to
+                     their king.</hi> Wherfore ſo much the more cauſe haue we to thanke God, that
+                  this noble perſonage which is ſo righteouſly intituled therevnto, is of ſo ſad
+                  age, and thereto ſo great wiſedome ioyned with ſo great experience, which albeit
+                  hee will hee loth (as I haue ſayd) to take it vpon him, yet ſhall be to our
+                  petition in that behalf the more graciouſly incline, if ye the worſhipfull
+                  Citizens of this the chiefe citie of this realm, ioyne with vs the nobles in our
+                  ſaide requeſt. Which for your owne weale we doubt not but ye wil: and natheleſſe I
+                  hartily pray you ſo to do, wherby you ſhal do great profit to all this realme
+                  beſide, in chooſing thē ſo good a king, and vnto your ſelfe ſpecial commoditie,
+                  to whō his maieſtie ſhal euer after bear ſo much the more tender fauor, in how
+                  much he ſhall perceiue you ye more prone &amp; beneuolētly minded toward his
+                  election. Wherin dere friends what mind you haue, we require you plainly to ſhew
+                  vs.</q>
+            </p>
+            <p>When the Duke had ſayde, and looked that the people whome he hoped that the Maior had
+               framed before, ſhould after this propoſition made, haue cried king Richard, king
+               Richarde, all was huſht and mute, and not one worde anſwered thervnto: wherwith ye
+               duke was maruellouſly abaſhed, and taking the Maior nearer to hym, with other that
+               were aboute him priuie to that matter, ſayde vnto them ſoftly, what meaneth this,
+               that this people be ſo ſtill. Sir (quoth the Maior percaſe they perceyue you not
+               well. That ſhall we mende (quoth he) if that will) helpe.</p>
+            <p>And by and by ſomewhat lowder he rehearſed them the ſame matter agayne in other order
+               and other wordes ſo well and ornatelye, and naytheleſſe ſo euidently and plaine, wyth
+                  <pb n="1383"/> voyce, geſture, and countenance ſo comly, and ſo conuenient, that
+               euery man much maruelled that heard him, and thought that they neuer had in theyr
+               liues heard ſo euill &amp; tale ſo well tolde.</p>
+            <p>But were it for▪ wonder or feate, or that eche lookt that other ſhould ſpeake firſt:
+               not one word was there aunſwered of all the people that ſtoode before, but all was as
+               ſtill as the mydnight not ſo muche as rowning amongeſt them▪ by which they might
+               ſeeme to commune what was beſt to doe. When the Maior ſawe this, hee with other
+               partners of that Councell drew aboute the duke, and ſayde that the people had not
+               beene accuſtomed there to be ſpoken vnto, but by the Recorder, which is the mouth of
+               the Citie, and happily to him they will aunſwere.<note place="margin"> r William
+               </note> With that the Recorder called Fitz William, a ſad man, and an honeſt, whiche
+               was ſo newe come into that office▪ that he neuer had ſpoken to the people before, and
+               loth was with that matter to beginne, nor withſtanding, therevnto commaunded by the
+               Maior, made rehearſall to the Commons of that the Duke had twiſe rehearſed them
+               himſelfe. But the Recorder ſo tempered his tale, that he ſhewed euerie thing as the
+               dukes wordes, and no part his owne. But all this noting, no chaunge made in the
+               people, which alway after one, ſtoode as they had beene men amaſed, wherevpon the
+               duke rowned vnto the Maior and ſayd: this is a maruellous obſtinate ſilence, and
+               therwith he turned vnto the people again with theſe words. Dere friēds we come to
+               moue you to that thing which peraduenture we not ſo greatly needed, but that the
+               Lords of this realme, &amp; the cōmons of other parties might haue ſufficed▪ ſauing
+               yt wee ſuche loue beare you, &amp; ſo much ſet by you, yt we would not gladly do
+               without you, that thing in which to be partners is your weale &amp; honor, which as
+               it ſeemeth, either you ſee not, or wey not. Wherefore wee require you giue vs
+               aunſwere one or other, whether you bee minded as all the nobles of the realm be, to
+               haue this noble prince now protector to be your king or not.</p>
+            <p>At theſe words the people began to whiſper among themſelues ſecretly, that the voice
+               was neither lowd nor diſtinct, but as it were the ſound of a ſwarme of Bees, till at
+               the laſt in the neather end of the Hall, a buſhment of the dukes ſeruants and
+               Naſhfieldes, and other longing to the protector, with ſome prentiſes and laddes that
+               thruſt into the hall among the preaſe, beganne ſodainly at mennes backes to crie out
+               as lowde as theyr throtes woulde giue: King Richard, King Richarde, and threw vp
+               their cappes in token of ioy. And they that ſtood before caſt backe their heads
+               maruelling thereof, but nothing they ſayde.</p>
+            <p>And when the Duke and the Maior ſaw this maner, they wiſely turned it to theyr
+               purpoſe, </p>
+            <p> ,<note place="margin">The Maiors comming to Baynards Caſtell.</note> what they
+               ment.</p>
+            <p>And therevpon the Duke of Buckingham, firſt made hūble petition vnto him on the
+               behalfe of them all, that his grace woulde pardon them, and licence them to purpoſe
+               vnto his grace the intent of their comming without his diſpleaſure, without which
+               pardon obteined, they muſt not be holde to moue him of that matter. In which albeit
+               they ment as much honour to his grace, as wealth to all the realme beſide, yet were
+               they not ſure howe his grace woulde take it, whome they <pb n="1384"/> woulde in no
+               wyſe offende. Then the Protectour (as he was verie gentle of himſelfe, and alſo
+               longed ſore to witte what they ment) gaue him leaue to purpoſe what him lyked, verily
+               truſting for the good minde that he bare them all, none of them any thing woulde
+               intend vnto himwarde, wherewith he ought to be grieued.</p>
+            <p>When the Duke had this leane and pardon to ſpeake, then waxed hee holde to ſhew him
+               their intent and purpoſe, with all the cauſes mouing them therevnto as ye before haue
+               heard, and finally to beſeech his grace, that it wold like him of his accuſtomed
+               goodneſſe and zeale vnto the Realme, now with his eye of pitie, to behold the long
+               continued diſtreſſe and decaye of the ſame, and to ſet his gracious handes to
+               redreſſe and amendment therof, by taking vpon him the crown and gouernaunce of thys
+               Realme, accordyng to hys right and tytle lawfully deſcended vnto him, and to the
+               lande of God, profite of the lande, and vnto his grace ſo muche the more honour, and
+               leſſe paine, in that that neuer Prince reigned vpon any people, that were ſo glad to
+               liue vnder his obeyſaunce, as the people of thys Realme vnder his.</p>
+            <p>When the Protector had heard the propoſition, he looked verie ſtraungely thereat, and
+               anſwered: that all were it that he partly knew the things by them alledged to be
+               true, yet ſuche entire loue hee bare vnto king Edward and his children, that ſo much
+               more regarded his honor in other realmes about than the crowne of any one of whiche
+               hee was neuer deſirous, that he could not finde in his hart in this point to encline
+               to thier deſire. For in all other Nations where the truth were not well knowne, it
+               ſhoulde peraduenture be thought, that it were his owne ambicious minde and deuiſe, to
+               depoſe the Prince, and take himſelfe the Crowne, with which infamie hee woulde not
+               haue his honour ſtayned for any crowne, in which he had euer perceyued much more
+               labor and paine, than pleaſure to him that ſo would ſo vſe it, as he that would not,
+               were not worthie to haue it. Notwithſtanding he not onely pardoned thē the motion
+               that they made him, but alſo thanked them for the loue and heartie fauour they bare
+               hym, praying them for hys ſake to giue and beare the ſame to the Prince, vnder whome
+               hee was, and woulde be content to liue, and with his labor and counſayle as farre as
+               ſhoulde lyke the King to vſe him, he woulde doe his vttermoſt deuoyr to ſet the
+               realme in good ſtate, whiche was alreadie in this little while of his Protectorſhip
+               (the praiſe giuen to God) well begonne, in that the malice of ſuch as were before
+               occaſion of the contrarie, and of new intended to be, were now partly by good
+               policie, partly more by Gods ſpeciall prouidence, than mans prouiſion repreſſed.</p>
+            <p>Vpon this re gn, the D Protectours eenes, a e , aſwell other noble men aboute , as
+               with the and Re of London. And after that vp like pardon deſired and oyned, he ſhewed
+               aloud vnto the Protector, that for a finall conclu, ye the realm was appointed k.
+               Edwards line ſh not any longer raigne vpō thē, both for that they had ſo farre
+               gone, that it was nowe as ye to retreate, as for that they thoug it for the weale
+               vniuerſall to take that way, although they had not yet begon it.</p>
+            <p>Wherefore if it woulde like his grace to lle the Crowne vpon him, they woulde huy
+               beſeech him therevnto. If he woulde giue them a reſolute aunſwere to the contrarie,
+               whiche they woulde be lothe to heare, then muſte they needes ſeeke and ſhould not
+               fayle to find ſome other noble man that would.</p>
+            <p>Theſe wordes much mooued the Protector, whiche elſe as euerie man may wit, woulde
+               neuer of likelyhoode haue enclyned therevnto. But when hee ſawe there was none other
+               waye, but that eyther hee muſte take it, or e hee and hys both g from it, he ſayde
+               vnto the Lordes and Commons: Sith we perceyue well that all the Realme is ſo ſet,
+               whereof we bee very ſorie that they was not ſuffer in any wiſe King Edwards line to
+               gouerne them, whome no man earthlye can gouerne agaynſt theyr willes, and we well
+               alſo perceyue, that no man is there, to whome the Crowne can by iuſt tytle
+               apperteyne, as to our ſelfe, as verie right heyre lawfully begotten of the bodie of
+               our moſte deare father Rycharde late Duke of Yorke, to whiche tytle is now ioyned
+               your election, the Nobles and Commons of thys Realme, whiche we of all tytles
+               poſſible take for moſte effectuall: We be content and agree fauourablye to encline to
+               your petition and requeſt, and according to the ſame,<note place="margin">The pro
+                  taketh vp him to be king.</note> here we take vpon vs the royall eſtate,
+               preminence and kingdome of the two noble Realmes, Englande and Fraunce, the tone fro
+               this daye forwarde, by vs and our heyres to rule, gouerne, and defende: the tother by
+               Gods grace, and your good helpe, to get againe and ſubdue, and eſtabliſhe for euer in
+               due obedience vnto thys Realme of Englande, the aduauncement whereof wee neuer aſke
+               of God longer to liue than we intend to procure.</p>
+            <p>With this there was a greate ſhoute, crying King Rycharde, King Richarde. And then
+               the Lordes went vp to the King (for ſo was he from that tyme called) and the people
+               departed, talking dyuerſelye of the matter, euery man as hys fantaſie gaue hym. But
+               much they talked and marueyled of the maner of this dealing, that the matter was on
+               both partes made ſo ſtraunge, as thoughe neyther had euer communed with other <pb
+                  n="1385"/> thereof before, when that them ſelfe wy there was no manne ſo dull that
+               hde them, bin hee perceyued well ynough, that all the matter was made betwene them.
+               Howbeit ſome exd that agayne, and ſayde all muſte be owne at good order though: And
+               men muſte ſometyme for the manners ſake, not be a known what they know. For at the
+               conſecration of a Biſhop, euery man teth well by the paying for his Bulles, that he
+               purpoſeth to be one, and though he pay for nothyng elſe. And yet muſt he be twyce
+               aſked whether he will be Biſhop or no, and he ſt twice ſay nay, and at the thyrde
+               tyme take it, as compelled therevnto by his owne wil. And in a ſtage play, all the
+               people right well, that hee that playeth the Sowdaine, is percaſe a ſowter, yet if
+               one ſhoulde can ſo little good, to ſhewe out of ſeaſon what aquaintaunce hee hath
+               with him, and call hym by hys e while he ſtandeth in his maieſtie, one of hys
+               tormentors myghte happe to breake head, and worthie for marring of the play. And ſo
+               they ſayde, that theſe matters hee kings games, as it were ſtage playes, and for the
+               m part, played vpon ſcaffoldes. In which poore men be but the lookers on. And they yt
+               wiſe be will meddle no further. For they that ſometime ſtep vp, and play with them,
+               when they cannot playe theyr partes, they diſorder the playe, and doe themſelues no
+               good.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
