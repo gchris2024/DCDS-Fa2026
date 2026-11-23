@@ -136,7 +136,6 @@ in `method_notes.md` and `holinshed_names_explanation.md`.
 |   |-- places_per_reign.ipynb        # per-reign top places + spike ranking
 |   |-- places_by_regnal.ipynb        # deprecated
 |   |-- spikes_edward_scotland.ipynb  # Scotland spike in Edward I
-|   |-- spikes_normandy_henry_first.ipynb
 |   `-- top_place_by_monarch.ipynb
 |-- .gitignore
 |-- Holinshed Proposal.md
